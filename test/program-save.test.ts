@@ -1,0 +1,31 @@
+import {test} from "node:test";
+import assert from "node:assert/strict";
+import {keep, current, nextEdition, removeSession} from "../src/domain.ts";
+import {initialState} from "../src/types.ts";
+import {activitySummary} from "../src/activity.ts";
+import {findProgram} from "../src/programs.ts";
+
+test("saved programmes retain identity and a detached snapshot, without merging the same artwork",()=>{
+  const s=initialState();
+  const t=current(s);
+  t.edition="field";
+  keep(s);
+  t.programId="lofi-synthwave";
+  keep(s);
+  keep(s);
+  assert.equal(s.events.filter(e=>e.kind==="keep").length,2);
+  const saved=s.events.at(-1)!;
+  assert.equal(saved.program?.id,"lofi-synthwave");
+  assert.notEqual(saved.program,findProgram(s,"lofi-synthwave"));
+  assert.notEqual(saved.program?.facts,findProgram(s,"lofi-synthwave").facts);
+  assert.equal(saved.detail,"field");
+  const summary=activitySummary(s,t.id)!;
+  assert.equal(summary.savedSets.evidence.at(-1)?.programId,"lofi-synthwave");
+  nextEdition(s);
+  assert.notEqual(t.programId,"lofi-synthwave");
+  assert.equal(findProgram(s,t.programId!).media.kind,"edition");
+  assert.equal(saved.program?.id,"lofi-synthwave");
+  assert.ok(saved.program?.facts.length);
+  removeSession(s,t.id);
+  assert.equal(s.events.some(e=>e.sessionId===t.id),false);
+});

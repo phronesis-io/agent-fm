@@ -1,0 +1,304 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="referrer" content="no-referrer" />
+    <title>Agent FM</title>
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+  <body>
+    <main id="space">
+      <header>
+        <nav class="view-tools" aria-label="观看">
+          <button id="private-toggle" class="labelled" aria-pressed="false">
+            <svg aria-hidden="true" viewBox="0 0 24 24">
+              <rect x="3" y="5" width="18" height="14" rx="2.5" />
+              <path d="m4 16 5-4.5 3 2.5 3.5-4 4.5 5" />
+            </svg><span>看画</span></button
+          ><button id="fullscreen" class="labelled" aria-pressed="false">
+            <svg aria-hidden="true" viewBox="0 0 24 24">
+              <path
+                class="expand"
+                d="M4 9V5a1 1 0 0 1 1-1h4m6 0h4a1 1 0 0 1 1 1v4m0 6v4a1 1 0 0 1-1 1h-4m-6 0H5a1 1 0 0 1-1-1v-4"
+              />
+              <path class="collapse" d="M4 9h5V4m6 0v5h5m0 6h-5v5m-6 0v-5H4" />
+            </svg><span>全屏</span>
+          </button>
+        </nav>
+        <nav class="desk-tools" aria-label="工作台">
+          <button id="history-toggle" aria-label="记录" data-hint="记录">
+            <svg aria-hidden="true" viewBox="0 0 24 24">
+              <path d="M5 6.5v12a1.5 1.5 0 0 0 1.5 1.5H16" />
+              <rect x="8" y="3.5" width="11" height="13.5" rx="1.8" />
+              <path d="M11 8h5m-5 3h3" />
+            </svg></button
+          ><button id="settings-toggle" aria-label="打开设置" data-hint="设置">
+            <svg aria-hidden="true" viewBox="0 0 24 24">
+              <path d="M3.5 7.5h5m4 0h8m-17 9h10m4 0h3" />
+              <circle cx="10.5" cy="7.5" r="2" />
+              <circle cx="15.5" cy="16.5" r="2" />
+            </svg>
+          </button>
+        </nav>
+      </header>
+      <section class="room">
+        <div class="gallery">
+          <figure>
+            <img
+              class="artwork"
+              src="/field.jpg"
+              alt=""
+            />
+          </figure>
+        </div>
+        <section id="radio-screen" hidden aria-label="电台画面">
+          <div id="radio-frame"></div>
+          <button id="radio-tune-in" aria-label="收听所选电台"><span id="radio-name"></span><span class="tune-action">▷ 收听</span></button>
+          <a id="radio-original" target="_blank" rel="noopener noreferrer" hidden>在 YouTube 打开 ↗</a>
+        </section>
+        <article id="label" class="label" aria-label="作品与声音">
+          <div class="label-head">
+            <h2 id="label-title" class="label-title"></h2>
+            <button type="button" id="label-hide" aria-expanded="true" aria-controls="label-body" title="收起说明"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="m4.5 10 3.5-3.5 3.5 3.5"/></svg><span class="sr-only">收起说明</span></button>
+          </div>
+          <div id="label-body">
+          <p id="label-original" class="label-original" hidden></p>
+          <p id="label-meta" class="label-meta"></p>
+          <p id="label-meta-source" class="label-source-text" hidden></p>
+          <p id="label-fact" class="label-fact" hidden></p>
+          <blockquote id="label-quote" class="label-quote" hidden>
+            <p class="quote-current" hidden></p>
+            <p class="quote-source"></p>
+            <cite><a target="_blank" rel="noopener noreferrer"></a></cite>
+          </blockquote>
+          <p id="label-lang" class="label-lang">
+            <span id="label-lang-note"></span>
+            <button type="button" id="label-translate" aria-describedby="label-translate-description" hidden></button>
+            <span id="label-translate-description" hidden></span>
+          </p>
+          <p class="label-links"><a id="label-source" target="_blank" rel="noopener noreferrer">馆藏原页 ↗</a><a id="label-summary-source" hidden target="_blank" rel="noopener noreferrer"></a><a id="label-notes" hidden target="_blank" rel="noopener">听画手记 ↗</a></p>
+          <p id="label-visual-credit" class="label-meta" hidden><span id="label-visual-attribution"></span> <a id="label-visual-license" target="_blank" rel="noopener noreferrer"></a></p>
+          <hr />
+          <p id="label-track" class="label-track"></p>
+          <p id="label-credit" class="label-meta"></p>
+          <p id="label-license" class="label-meta" hidden><span id="label-location"></span> <a target="_blank" rel="noopener noreferrer"></a> · <a id="label-recording" target="_blank" rel="noopener noreferrer">录音出处 ↗</a></p>
+          </div>
+          <div class="label-actions">
+            <span id="label-shelf" class="label-shelf"></span>
+            <button type="button" id="keep-edition">收藏</button>
+          </div>
+        </article>
+        <section class="time-block" aria-label="番茄计时">
+          <h1 class="sr-only">番茄计时</h1>
+          <button id="clock" disabled aria-label="开始" aria-describedby="clock-detail">
+            <svg viewBox="0 0 160 160" aria-hidden="true">
+              <circle class="rail" cx="80" cy="80" r="76" />
+              <circle
+                id="arc"
+                cx="80"
+                cy="80"
+                r="76"
+                pathLength="100"
+                stroke-dasharray="100 100"
+              />
+            </svg>
+            <span id="clock-action" aria-hidden="true">▷ 开始</span
+            ><span id="remaining">25</span><span id="clock-detail">25:00</span>
+          </button>
+        </section>
+        <section class="deck" aria-label="音乐与时间">
+          <button id="station-open" aria-controls="station-shelf" aria-expanded="false" title="选台">
+            <span class="station-action">选台</span>
+            <span id="station-caption">本期选曲</span>
+            <svg class="station-chevron" viewBox="0 0 16 16" aria-hidden="true"><path d="m4.5 6.5 3.5 3.5 3.5-3.5"/></svg>
+          </button>
+          <button
+            id="music-toggle"
+            disabled
+            aria-label="播放音乐"
+            title="播放音乐"
+            class="round-control"
+            data-glyph="play"
+          >
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path class="glyph-play" d="M8 4 L20 12 L8 20 Z" />
+              <path class="glyph-pause" d="M6 5 H10 V19 H6 Z M14 5 H18 V19 H14 Z" />
+            </svg>
+          </button>
+          <div class="wave-strip">
+            <svg viewBox="0 0 240 36" aria-hidden="true">
+              <path id="wave" d="M0,18 H240" />
+            </svg>
+          </div>
+          <button id="next-edition" aria-label="换一组" title="换一组">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M6 5.5 15.5 12 6 18.5z" />
+              <path
+                d="M18 6v12"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="1.8"
+                stroke-linecap="round"
+              />
+            </svg>
+          </button>
+          <div class="companion-control">
+            <span id="connection" role="status">正在连接这个空间</span
+            ><button id="chat-toggle" aria-label="Codex" title="Codex">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18.8 15.4A7.8 7.8 0 1 0 7 19.2L3.5 20l.8-3.5"/><path d="M9 10.5h6m-6 3h3.5"/></svg><span>Codex</span>
+            </button>
+          </div>
+        </section>
+      </section>
+      <section id="note-peek" hidden>
+        <span>新留言</span><button id="read-note">查看</button>
+      </section>
+    </main>
+    <aside class="sound-rail" aria-label="电台">
+      <section id="station-shelf" aria-labelledby="station-heading" hidden>
+        <div class="shelf-head">
+          <h2 id="station-heading">选台</h2>
+          <button id="station-close" aria-label="关闭选台"><svg viewBox="0 0 20 20" aria-hidden="true"><path d="m5.5 5.5 9 9m0-9-9 9"/></svg></button>
+        </div>
+        <div class="shelf-list" aria-label="电台列表">
+          <button id="restore-track" class="station-row" aria-pressed="true"><span>本期选曲</span></button>
+          <button class="station-row" data-station="tRsQsTMvPNg" data-title="Claude FM" aria-pressed="false" lang="en"><span>Claude FM</span></button>
+          <button class="station-row" data-station="4t4AQ15yj1M" data-title="Lofi Girl" aria-pressed="false" lang="en"><span>Lofi Girl</span></button>
+          <button class="station-row" data-station="jiua2V9q9V0" data-title="Chillhop Music" aria-pressed="false" lang="en"><span>Chillhop Music</span></button>
+        </div>
+        <details id="prepared-programs">
+          <summary id="program-heading">准备好的节目</summary>
+          <div id="program-list"></div>
+        </details>
+        <p id="program-queue" role="status"></p>
+        <form id="radio-form">
+          <label for="radio-url">添加电台</label>
+          <div class="shelf-input"><input id="radio-url" aria-label="YouTube 频道或视频链接" placeholder="YouTube 链接或 @频道" required autocomplete="off" spellcheck="false"><button aria-label="收听链接" title="收听链接"><svg viewBox="0 0 20 20" aria-hidden="true"><path d="M4 10h12m-5-5 5 5-5 5"/></svg></button></div>
+        </form>
+        <p id="radio-status" role="status" aria-live="polite"></p>
+        <label class="local-source">
+          <svg viewBox="0 0 20 20" aria-hidden="true"><path d="M2.5 5.5h5l2 2h8v8.5h-15z"/></svg>
+          <span>本机音频</span><input id="local-music" type="file" accept="audio/*">
+        </label>
+      </section>
+    </aside>
+    <audio id="local-player" src="/arabesque.mp3" preload="none" loop></audio>
+    <aside id="chat" hidden class="drawer" aria-label="与 Codex 交流">
+      <div class="drawer-head">
+        <div>
+          <h2>Codex</h2>
+        </div>
+        <button class="close" data-close="chat" aria-label="收起聊天">×</button>
+      </div>
+      <div id="messages" aria-live="polite"></div>
+      <form id="chat-form">
+        <p id="label-reason" class="companion-reason" hidden></p>
+        <button type="button" id="reading-context" hidden></button>
+        <button type="button" id="attach-edition">附上这一组的事实</button>
+        <label class="sr-only" for="message">给 Codex 的话</label
+        ><textarea
+          id="message"
+          rows="2"
+          maxlength="12000"
+          placeholder="写一句话给 Codex…"
+        ></textarea>
+        <div class="form-actions">
+          <span id="send-state"></span
+          ><button type="button" id="cancel">停止回复</button
+          ><button type="submit" class="primary">发送</button>
+        </div>
+      </form>
+    </aside>
+    <aside id="history" class="drawer" hidden aria-label="一起度过的时间">
+      <div class="drawer-head">
+        <div>
+          <h2>记录</h2>
+          <p>番茄、音乐和留言，都留在本机。</p>
+        </div>
+        <button class="close" data-close="history" aria-label="收起历史">
+          ×
+        </button>
+      </div>
+      <a class="export" href="/api/export" download>导出我的记录</a>
+      <span id="today-count">今天完成 0 个</span>
+      <ol id="week" aria-label="最近七天完成的番茄"></ol>
+      <div class="extra-time">
+        <button id="timer-extend" hidden>＋5 分钟</button
+        ><button id="timer-end" hidden>结束番茄</button>
+      </div>
+      <div id="pomodoro-log"></div>
+      <div id="history-items"></div>
+      <button id="clear-records" type="button">清空所有记录</button>
+      <p class="muted deletion">
+        删除只清理这个 App 的记录；Codex 会话中已经收到的内容仍可能保留。
+      </p>
+    </aside>
+    <aside id="settings" class="drawer" hidden aria-label="设置">
+      <div class="drawer-head">
+        <h2>这个空间</h2>
+        <button class="close" data-close="settings" aria-label="收起设置">
+          ×
+        </button>
+      </div>
+      <form id="language-settings" class="language-form">
+        <label for="language-choice">语言 / Language</label>
+        <select id="language-choice" aria-label="语言 / Language"></select>
+        <button type="submit">保存 / Save</button>
+        <p id="language-settings-status" role="status"></p>
+      </form>
+      <form id="visual-library-settings" class="language-form">
+        <label for="visual-library-choice">画面</label>
+        <select id="visual-library-choice" aria-label="画面" aria-describedby="visual-library-hint">
+          <option value="contemporary">影像与插画</option>
+          <option value="museum">馆藏</option>
+          <option value="all">全部</option>
+        </select>
+        <button type="submit">保存 / Save</button>
+        <p id="visual-library-hint" class="muted">下次切换生效</p>
+        <p id="visual-library-status" role="status"></p>
+      </form>
+      <label class="setting"
+        >让 Codex 挑下一组<input id="curate-next" type="checkbox"
+      /></label>
+      <p class="muted">
+        参考近七天在 FM 里说的话和跳过的组合，每天最多 12 次，用完当天改为随机。会使用你的 Codex 额度。
+      </p>
+      <label class="setting">到点时让 Codex 接一句<input id="completion-companion" type="checkbox" /></label>
+      <label class="setting"
+        >一天收尾时，允许 Codex 留一句<input id="day-close" type="checkbox"
+      /></label>
+      <p class="muted">
+        当天最后一个番茄结束 20 分钟后，最多一次，也可以不说。会使用你的 Codex 额度。
+      </p>
+      <label class="setting"
+        >连接 Codex<input id="connected" type="checkbox" /></label
+      ><label class="setting"
+        >深色界面<input id="night" type="checkbox"
+      /></label>
+      <section id="ledger" aria-labelledby="ledger-heading">
+        <h3 id="ledger-heading">Codex 账本</h3>
+        <p id="ledger-summary" class="muted"></p>
+        <ol id="ledger-items"></ol>
+      </section>
+      <hr />
+      <p>记录保存在这台电脑，模型交流仍通过你的 Codex 服务。</p>
+      <p id="session-info" class="muted"></p>
+      <p id="connection-error" class="muted"></p>
+      <p class="muted">
+        安装与重启都会回到同一个会话。需要重新连接时，在 Codex 中说“重启 Agent
+        FM”。
+      </p>
+    </aside>
+    <section id="language-confirmation" hidden aria-labelledby="language-heading">
+      <form id="language-confirm">
+        <label id="language-heading" for="language-suggestion">使用哪种语言？ / Choose your language</label>
+        <select id="language-suggestion" aria-label="建议语言 / Suggested language"></select>
+        <button type="submit">确认 / Confirm</button>
+        <p id="language-confirm-status" role="status"></p>
+      </form>
+    </section>
+    <div id="toast" role="status" hidden></div>
+    <script type="module" src="/app.js"></script>
+  </body>
+</html>

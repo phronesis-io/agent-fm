@@ -1,0 +1,1176 @@
+{
+  "arabesque": {
+    "track": "Arabesque No. 1",
+    "credit": "Debussy · Patrizia Prati",
+    "file": "Claude Debussy - Première Arabesque - Patrizia Prati.ogg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "location": "Madrid, 2016",
+    "pairingLines": {
+      "line": "德彪西把一串琴音绕过来，又绕回去，目光也有路可循。",
+      "quiet": "选这首钢琴曲，是想让静着的画面旁边，有一点轻轻的流动。",
+      "detail": "钢琴把音符一颗颗分开，正好给眼前的小地方留一点时间。",
+      "distance": "钢琴的两条旋律一近一远，像给视线多添了一层远景。",
+      "repeat": "琴句绕回来时稍稍变了样，和重看同一处花纹很像。"
+    }
+  },
+  "reading": {
+    "track": "阅览室 · 低风声",
+    "credit": "Agent FM · 合成环境声",
+    "pairingLines": {
+      "line": "这里只铺了一层低低的风声，让眼睛自己顺着线走。",
+      "quiet": "配一点阅览室般的低风声，像把桌边的椅子轻轻拉近。",
+      "detail": "选的是阅览室般的底噪。耳边静下来，眼睛反倒看得细。",
+      "distance": "低风声始终留在近处，远处就留给眼睛慢慢逛。",
+      "repeat": "这层低风声几乎不变，细微的变化留给眼睛去找。"
+    }
+  },
+  "arabesque2": {
+    "track": "Arabesque No. 2",
+    "credit": "Debussy · Patrizia Prati",
+    "file": "Claude Debussy - Deuxième Arabesque - Patrizia Prati.ogg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "location": "Madrid, 2016",
+    "pairingLines": {
+      "line": "这首钢琴小品转弯很快，适合跟着画里的线来回看。",
+      "quiet": "让轻快的钢琴从静物旁边经过，画面反而显得更安定。",
+      "detail": "高音轻轻点几下就移开了，像目光在几处细节之间跳。",
+      "distance": "风景铺得开，钢琴落得轻，远近之间有了一点俏皮。",
+      "repeat": "钢琴短句一遍遍回头，刚好能陪人找出图案里的变化。"
+    }
+  },
+  "drift": {
+    "track": "浮光",
+    "credit": "Agent FM · 原创合成器氛围",
+    "pairingLines": {
+      "line": "合成器的长音慢慢换色，陪着眼睛走过这些转折。",
+      "quiet": "配一层悬着的长音，让这片安静也有一点颜色。",
+      "detail": "合成器把一个和音拉长，刚好够把细节看第二眼。",
+      "distance": "这段长音像一层薄雾，让近处和远处接在一起。",
+      "repeat": "合成器在同一个和音里缓缓变化，重复里也藏着不同。"
+    }
+  },
+  "delphes": {
+    "track": "Danseuses de Delphes",
+    "credit": "Debussy · Patrizia Prati",
+    "file": "Claude Debussy - I Livre Prelude I... (...Danseuses de Delphes) - Patrizia Prati.ogg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "location": "Madrid, 2016",
+    "pairingLines": {
+      "line": "钢琴和弦走得很慢，每一次转折都来得及看清。",
+      "quiet": "这里选了德彪西最从容的一组脚步，和弦落下之后，画还静着。",
+      "detail": "沉一些的和弦把速度放慢，够看清一处，再换下一处。",
+      "distance": "钢琴一步一步往前，给望向远处的眼睛作伴。",
+      "repeat": "和弦有自己的步幅，配着反复出现的形状，听起来很稳。"
+    }
+  },
+  "liushui": {
+    "track": "流水",
+    "credit": "Charlie Huang · 古琴",
+    "file": "Liu Shui.ogg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "location": "Birmingham, 2006",
+    "pairingLines": {
+      "line": "古琴的滑音也有弧度，一声还没收尽，下一声已经到了。",
+      "quiet": "古琴拨响以后，安静还留在余音里，正合这一眼。",
+      "detail": "选古琴，是因为一个音的尾巴也值得细听，和看细处一样。",
+      "distance": "《流水》的琴声忽近忽远，目光正好可以跟着走。",
+      "repeat": "古琴同一个音再弹一次，轻重已不同；重复的花样也值得这样看。"
+    }
+  },
+  "kaushi": {
+    "track": "Raga Kaushi Kanra",
+    "credit": "Ranjit Makkuni · 西塔琴 / Akram Khan · 塔布拉鼓",
+    "file": "RanjitMakkuniRagaKaushiKanra.ogg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "pairingLines": {
+      "line": "西塔琴把一个音牵出弯来，下面的鼓点稳稳接住它。",
+      "quiet": "让鼓点在画外走，画里这一刻就能停得更久。",
+      "detail": "拨弦和鼓点一问一答，耳朵来回听，眼睛也来回看。",
+      "distance": "西塔琴的长音拉开了距离，鼓点又把人带回跟前。",
+      "repeat": "塔布拉鼓把相似的节拍敲出轻重，和图案的反复很合拍。"
+    }
+  },
+  "greensleeves": {
+    "track": "Greensleeves",
+    "credit": "CambridgeBayWeather · 英格兰传统曲调，器乐转谱",
+    "file": "Greensleeves.ogg",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "pairingLines": {
+      "line": "《绿袖子》的旋律拐了个弯，又回到熟悉的地方，很容易跟上。",
+      "quiet": "这段老曲调轻轻回来，像有人坐在旁边，没打断这一刻。",
+      "detail": "旋律熟了，耳朵就不用忙，眼睛有空多看一处。",
+      "distance": "《绿袖子》一段唱腔般的器乐旋律，把目光从近处带向远处。",
+      "repeat": "《绿袖子》的乐句反复回来，很适合一边听一边找相似的形状。"
+    }
+  },
+  "tide": {
+    "track": "退潮",
+    "credit": "Agent FM · 合成潮声",
+    "pairingLines": {
+      "line": "潮声有来有回，顺着轮廓看一遍，又可以倒回来看。",
+      "quiet": "画面停在这里，潮声来过一趟，又退回去了。",
+      "detail": "潮声退下去的那一小会儿，正好再看一眼细处。",
+      "distance": "把潮声放在耳边，视线就像有了一条可以往远处走的岸。",
+      "repeat": "潮声一次次回来，每一道都有一点差别。"
+    }
+  },
+  "rain": {
+    "track": "窗雨",
+    "credit": "Agent FM · 合成细雨",
+    "pairingLines": {
+      "line": "雨声铺得绵密，画里的线在它前面显得格外清楚。",
+      "quiet": "窗雨落在画外，这一小块安静便像是从屋里望出去的。",
+      "detail": "细雨有许多小落点，正适合陪眼睛在细处停留。",
+      "distance": "隔着一层细雨听远处，画里的距离也像被拉长了。",
+      "repeat": "雨点密密落下，配反复出现的形状，听觉和视线都有了节拍。"
+    }
+  },
+  "alhambra": {
+    "track": "Recuerdos de la Alhambra",
+    "credit": "Francisco Tárrega · Carlo Alberto Boni, guitar",
+    "file": "Recuerdos de la Alhambra.ogg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "recordingSource": "https://commons.wikimedia.org/wiki/File:Recuerdos_de_la_Alhambra.ogg",
+    "recordingCulture": "Spanish classical guitar repertoire",
+    "location": "2011",
+    "changes": "Converted to MP3 at 160 kbps; no trimming or normalization.",
+    "durationSeconds": 239.8839
+  },
+  "gnossienne2": {
+    "track": "Gnossienne No. 2",
+    "credit": "Erik Satie · La Pianista, piano",
+    "file": "Gnossienne 2 (Satie).ogg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "recordingSource": "https://commons.wikimedia.org/wiki/File:Gnossienne_2_%28Satie%29.ogg",
+    "recordingCulture": "French piano repertoire",
+    "location": "2010",
+    "changes": "Converted to MP3 at 160 kbps; no trimming or normalization.",
+    "durationSeconds": 101.579184
+  },
+  "gymnopedie1": {
+    "track": "Gymnopédie No. 1",
+    "credit": "Erik Satie · Teknopazzo, recording; file repair by Mitar",
+    "file": "Gymnopedie No. 1..ogg",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "recordingSource": "https://commons.wikimedia.org/wiki/File:Gymnopedie_No._1..ogg",
+    "recordingCulture": "French piano repertoire",
+    "location": "",
+    "changes": "Converted to MP3 at 160 kbps; no trimming or normalization.",
+    "durationSeconds": 204.799546
+  },
+  "gymnopedie3": {
+    "track": "Gymnopédie No. 3",
+    "credit": "Erik Satie · David Hernando Vitores, soprano saxophone and strings arrangement",
+    "file": "Erik Satie - Gymnopedie No.3 - Arr for soprano saxophone and strings - David Hernando Vitores.ogg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "recordingSource": "https://commons.wikimedia.org/wiki/File:Erik_Satie_-_Gymnopedie_No.3_-_Arr_for_soprano_saxophone_and_strings_-_David_Hernando_Vitores.ogg",
+    "recordingCulture": "French composition; contemporary saxophone arrangement",
+    "location": "2015",
+    "changes": "Converted to MP3 at 160 kbps; no trimming or normalization.",
+    "durationSeconds": 160.839887
+  },
+  "yangguan": {
+    "track": "陽關三疊 · Yangguan Sandie",
+    "credit": "Charlie Huang (Charles R Tsua), guqin",
+    "file": "Guqin-Yangguan Sandie.ogg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "recordingSource": "https://commons.wikimedia.org/wiki/File:Guqin-Yangguan_Sandie.ogg",
+    "recordingCulture": "Chinese guqin repertoire; recorded in Birmingham, UK",
+    "location": "Birmingham, 2013",
+    "changes": "Converted to MP3 at 160 kbps; no trimming or normalization.",
+    "durationSeconds": 350.093061
+  },
+  "vivaldi-largo": {
+    "track": "Largo · Concerto in D major, RV 93",
+    "credit": "Antonio Vivaldi · Paul De Bra, accordion orchestra; speed edit by Toast for Teddy",
+    "file": "Paul De Bra - Vivaldi's Lute Concerto in D major, RV 93 - II. Largo (Accordion Orchestra).ogg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "recordingSource": "https://commons.wikimedia.org/wiki/File:Paul_De_Bra_-_Vivaldi%27s_Lute_Concerto_in_D_major%2C_RV_93_-_II._Largo_%28Accordion_Orchestra%29.ogg",
+    "recordingCulture": "Italian Baroque composition; contemporary accordion arrangement",
+    "location": "2020 recording; Commons speed edit, 2022",
+    "changes": "Converted to MP3 at 160 kbps; no trimming or normalization.",
+    "durationSeconds": 300.200862
+  },
+  "cz-cylinder-one": {
+    "track": "Cylinder One",
+    "credit": "Chris Zabriskie · Cylinders",
+    "file": "cylinders-01.m4a",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "recordingSource": "https://chriszabriskie.com/cylinders/",
+    "audioSource": "https://audio.chriszabriskie.com/cylinders/cylinders-01.m4a",
+    "licenseEvidence": "https://chriszabriskie.com/use/",
+    "album": "Cylinders",
+    "releaseDate": "2014-01-01",
+    "location": "2014",
+    "changes": "Converted from the official M4A to MP3 at 160 kbps; lossy re-encoding, no trimming, looping edits or normalization.",
+    "durationSeconds": 176.121905,
+    "sha256": "c9ceacbf4fe34e8089bb7ec4228f646886f888d49fa5c067b0ede9635b2701ae",
+    "curatedOnly": true,
+    "listeningReview": "pending",
+    "vocalReview": "pending"
+  },
+  "cz-cylinder-four": {
+    "track": "Cylinder Four",
+    "credit": "Chris Zabriskie · Cylinders",
+    "file": "cylinders-04.m4a",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "recordingSource": "https://chriszabriskie.com/cylinders/",
+    "audioSource": "https://audio.chriszabriskie.com/cylinders/cylinders-04.m4a",
+    "licenseEvidence": "https://chriszabriskie.com/use/",
+    "album": "Cylinders",
+    "releaseDate": "2014-01-01",
+    "location": "2014",
+    "changes": "Converted from the official M4A to MP3 at 160 kbps; lossy re-encoding, no trimming, looping edits or normalization.",
+    "durationSeconds": 176.725624,
+    "sha256": "77ac07ee9e9b2ecef71ca1841b2f9cda93d4c2dd78a300be482afc382f9b4c91",
+    "curatedOnly": true,
+    "listeningReview": "pending",
+    "vocalReview": "pending"
+  },
+  "cz-cylinder-seven": {
+    "track": "Cylinder Seven",
+    "credit": "Chris Zabriskie · Cylinders",
+    "file": "cylinders-07.m4a",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "recordingSource": "https://chriszabriskie.com/cylinders/",
+    "audioSource": "https://audio.chriszabriskie.com/cylinders/cylinders-07.m4a",
+    "licenseEvidence": "https://chriszabriskie.com/use/",
+    "album": "Cylinders",
+    "releaseDate": "2014-01-01",
+    "location": "2014",
+    "changes": "Converted from the official M4A to MP3 at 160 kbps; lossy re-encoding, no trimming, looping edits or normalization.",
+    "durationSeconds": 532.176689,
+    "sha256": "91f1be9a211cf4d4156f2a873904fb7b591c5867f80c79492909cdcc20174ec9",
+    "curatedOnly": true,
+    "listeningReview": "pending",
+    "vocalReview": "pending"
+  },
+  "cz-cylinder-eight": {
+    "track": "Cylinder Eight",
+    "credit": "Chris Zabriskie · Cylinders",
+    "file": "cylinders-08.m4a",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "recordingSource": "https://chriszabriskie.com/cylinders/",
+    "audioSource": "https://audio.chriszabriskie.com/cylinders/cylinders-08.m4a",
+    "licenseEvidence": "https://chriszabriskie.com/use/",
+    "album": "Cylinders",
+    "releaseDate": "2014-01-01",
+    "location": "2014",
+    "changes": "Converted from the official M4A to MP3 at 160 kbps; lossy re-encoding, no trimming, looping edits or normalization.",
+    "durationSeconds": 338.893787,
+    "sha256": "d2da6ee21af3c67cae3c70d945338a3af34cbb88d570a72b9527920668da827f",
+    "curatedOnly": true,
+    "listeningReview": "pending",
+    "vocalReview": "pending"
+  },
+  "cz-heliograph": {
+    "track": "Heliograph",
+    "credit": "Chris Zabriskie · Divider",
+    "file": "divider-01.m4a",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "recordingSource": "https://chriszabriskie.com/divider/",
+    "audioSource": "https://audio.chriszabriskie.com/divider/divider-01.m4a",
+    "licenseEvidence": "https://chriszabriskie.com/use/",
+    "album": "Divider",
+    "releaseDate": "2011-07-18",
+    "location": "2011",
+    "changes": "Converted from the official M4A to MP3 at 160 kbps; lossy re-encoding, no trimming, looping edits or normalization.",
+    "durationSeconds": 339.474286,
+    "sha256": "1ec6dba01cc782fd87acdef93c400de965c9b0c0250b1c92f44d9263e899ad82",
+    "curatedOnly": true,
+    "listeningReview": "pending",
+    "vocalReview": "pending"
+  },
+  "cz-candlepower": {
+    "track": "Candlepower",
+    "credit": "Chris Zabriskie · Divider",
+    "file": "divider-02.m4a",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "recordingSource": "https://chriszabriskie.com/divider/",
+    "audioSource": "https://audio.chriszabriskie.com/divider/divider-02.m4a",
+    "licenseEvidence": "https://chriszabriskie.com/use/",
+    "album": "Divider",
+    "releaseDate": "2011-07-18",
+    "location": "2011",
+    "changes": "Converted from the official M4A to MP3 at 160 kbps; lossy re-encoding, no trimming, looping edits or normalization.",
+    "durationSeconds": 340.124444,
+    "sha256": "3b47f935c909fed953b804153593e9571ba7eb7c3b3db256ccf6760e0fb2ff1e",
+    "curatedOnly": true,
+    "listeningReview": "pending",
+    "vocalReview": "pending"
+  },
+  "cz-oxygen-garden": {
+    "track": "Oxygen Garden",
+    "credit": "Chris Zabriskie · Divider",
+    "file": "divider-05.m4a",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "recordingSource": "https://chriszabriskie.com/divider/",
+    "audioSource": "https://audio.chriszabriskie.com/divider/divider-05.m4a",
+    "licenseEvidence": "https://chriszabriskie.com/use/",
+    "album": "Divider",
+    "releaseDate": "2011-07-18",
+    "location": "2011",
+    "changes": "Converted from the official M4A to MP3 at 160 kbps; lossy re-encoding, no trimming, looping edits or normalization.",
+    "durationSeconds": 363.181859,
+    "sha256": "0bb27cf4178763be70c008896753e02882b40c1713b151850302cda6a8567740",
+    "curatedOnly": true,
+    "listeningReview": "pending",
+    "vocalReview": "pending"
+  },
+  "cz-stories-world": {
+    "track": "Stories About the World That Once Was",
+    "credit": "Chris Zabriskie · Music from Neptune Flux · mastered by Tommy Wingo",
+    "file": "neptuneflux-01.m4a",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "recordingSource": "https://chriszabriskie.com/neptuneflux/",
+    "audioSource": "https://audio.chriszabriskie.com/neptuneflux/neptuneflux-01.m4a",
+    "licenseEvidence": "https://chriszabriskie.com/use/",
+    "album": "Music from Neptune Flux",
+    "releaseDate": "2016-11-11",
+    "location": "2016",
+    "changes": "Converted from the official M4A to MP3 at 160 kbps; lossy re-encoding, no trimming, looping edits or normalization.",
+    "durationSeconds": 414.614059,
+    "sha256": "9a2a2d5676340841371d166449fdac3d6772e28dc92b64b1c11f365a0a6725ef",
+    "curatedOnly": true,
+    "listeningReview": "pending",
+    "vocalReview": "pending"
+  },
+  "cz-new-sector": {
+    "track": "A New Day In a New Sector",
+    "credit": "Chris Zabriskie · Music from Neptune Flux · mastered by Tommy Wingo",
+    "file": "neptuneflux-02.m4a",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "recordingSource": "https://chriszabriskie.com/neptuneflux/",
+    "audioSource": "https://audio.chriszabriskie.com/neptuneflux/neptuneflux-02.m4a",
+    "licenseEvidence": "https://chriszabriskie.com/use/",
+    "album": "Music from Neptune Flux",
+    "releaseDate": "2016-11-11",
+    "location": "2016",
+    "changes": "Converted from the official M4A to MP3 at 160 kbps; lossy re-encoding, no trimming, looping edits or normalization.",
+    "durationSeconds": 186.408345,
+    "sha256": "4f74551576ae4574898a42cf3a0b64deeccd958a2630249cd761ff01be25cb8b",
+    "curatedOnly": true,
+    "listeningReview": "pending",
+    "vocalReview": "pending"
+  },
+  "cz-oceans-rise": {
+    "track": "The Oceans Continue to Rise",
+    "credit": "Chris Zabriskie · Music from Neptune Flux · mastered by Tommy Wingo",
+    "file": "neptuneflux-04.m4a",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "recordingSource": "https://chriszabriskie.com/neptuneflux/",
+    "audioSource": "https://audio.chriszabriskie.com/neptuneflux/neptuneflux-04.m4a",
+    "licenseEvidence": "https://chriszabriskie.com/use/",
+    "album": "Music from Neptune Flux",
+    "releaseDate": "2016-11-11",
+    "location": "2016",
+    "changes": "Converted from the official M4A to MP3 at 160 kbps; lossy re-encoding, no trimming, looping edits or normalization.",
+    "durationSeconds": 200.177778,
+    "sha256": "be40ec51290142c2988a89bb4f4eef3f1b269df3d61eb9604d28b7a746fc5704",
+    "curatedOnly": true,
+    "listeningReview": "pending",
+    "vocalReview": "pending"
+  },
+  "km-late-night-radio": {
+    "track": "Late Night Radio",
+    "credit": "Kevin MacLeod (incompetech.com)",
+    "file": "Late Night Radio.mp3",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "recordingSource": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2100003",
+    "audioSource": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Late%20Night%20Radio.mp3",
+    "licenseEvidence": "https://incompetech.com/music/royalty-free/licenses/",
+    "location": "2021",
+    "uploaded": "2021-03-25",
+    "changes": "None. Original official MP3, byte-for-byte; no trimming, normalization or re-encoding.",
+    "durationSeconds": 263.60165,
+    "sha256": "d720ee8c55abceef59ff5778bd47bca80713e903bc49719960888a68f6d40ecd",
+    "curatedOnly": true,
+    "listeningReview": "pending",
+    "vocalReview": "pending",
+    "focusStyle": "soft-lofi",
+    "isrc": "USUAN2100003",
+    "instruments": "Electric Piano, Bass, Drums, Synth",
+    "catalogueFeel": "Calming, Relaxed",
+    "bpm": "72",
+    "soundFacts": [
+      {
+        "text": "The official catalogue lists Electric Piano, Bass, Drums, Synth as instruments.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2100003"
+      },
+      {
+        "text": "The official catalogue tags this recording Calming, Relaxed.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2100003"
+      }
+    ],
+    "vocalEvidence": "The official instrument list names no voices. This is metadata screening, not full listening verification."
+  },
+  "km-study-and-relax": {
+    "track": "Study And Relax",
+    "credit": "Kevin MacLeod (incompetech.com)",
+    "file": "Study And Relax.mp3",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "recordingSource": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900030",
+    "audioSource": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Study%20And%20Relax.mp3",
+    "licenseEvidence": "https://incompetech.com/music/royalty-free/licenses/",
+    "location": "2020",
+    "uploaded": "2020-01-08",
+    "changes": "None. Original official MP3, byte-for-byte; no trimming, normalization or re-encoding.",
+    "durationSeconds": 223.3992,
+    "sha256": "9cba2a3c2d1c9d364220db1691f618a0f25b8d9cf6f2a857fe389ef614fd18a4",
+    "curatedOnly": true,
+    "listeningReview": "pending",
+    "vocalReview": "pending",
+    "focusStyle": "soft-lofi",
+    "isrc": "USUAN1900030",
+    "instruments": "Saxophones, Piano, Bass, Percussion",
+    "catalogueFeel": "Calming, Grooving, Relaxed",
+    "bpm": "72",
+    "soundFacts": [
+      {
+        "text": "The official catalogue lists Saxophones, Piano, Bass, Percussion as instruments.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900030"
+      },
+      {
+        "text": "The official catalogue tags this recording Calming, Grooving, Relaxed.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900030"
+      },
+      {
+        "text": "MacLeod compares the production to a worn record with an off-centre spindle hole.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900030"
+      }
+    ],
+    "vocalEvidence": "The official instrument list names no voices. This is metadata screening, not full listening verification."
+  },
+  "km-vibing-over-venus": {
+    "track": "Vibing Over Venus",
+    "credit": "Kevin MacLeod (incompetech.com)",
+    "file": "Vibing Over Venus.mp3",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "recordingSource": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2300005",
+    "audioSource": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Vibing%20Over%20Venus.mp3",
+    "licenseEvidence": "https://incompetech.com/music/royalty-free/licenses/",
+    "location": "2023",
+    "uploaded": "2023-08-15",
+    "changes": "None. Original official MP3, byte-for-byte; no trimming, normalization or re-encoding.",
+    "durationSeconds": 411.1412,
+    "sha256": "48a4ceca61ec6e93a3634ddb4db31a45e9c2c36fd22716bde4badf6821593c6a",
+    "curatedOnly": true,
+    "listeningReview": "pending",
+    "vocalReview": "pending",
+    "focusStyle": "light-jazz",
+    "isrc": "USUAN2300005",
+    "instruments": "Vibraphone, Bass, Drum Kit, Percussion, Strings, Piano",
+    "catalogueFeel": "Calming, Grooving, Relaxed",
+    "bpm": "94",
+    "soundFacts": [
+      {
+        "text": "The official catalogue lists Vibraphone, Bass, Drum Kit, Percussion, Strings, Piano as instruments.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2300005"
+      },
+      {
+        "text": "The official catalogue tags this recording Calming, Grooving, Relaxed.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2300005"
+      }
+    ],
+    "vocalEvidence": "The official instrument list names no voices. This is metadata screening, not full listening verification."
+  },
+  "km-morning": {
+    "track": "Morning",
+    "credit": "Kevin MacLeod (incompetech.com)",
+    "file": "Morning.mp3",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "recordingSource": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2300003",
+    "audioSource": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Morning.mp3",
+    "licenseEvidence": "https://incompetech.com/music/royalty-free/licenses/",
+    "location": "2023",
+    "uploaded": "2023-08-15",
+    "changes": "None. Original official MP3, byte-for-byte; no trimming, normalization or re-encoding.",
+    "durationSeconds": 153.31265,
+    "sha256": "25a18be2e8b47ee75c336d9e27ac709bf71f0409806d696ab49ea2bddc113d80",
+    "curatedOnly": true,
+    "listeningReview": "pending",
+    "vocalReview": "pending",
+    "focusStyle": "acoustic-guitar",
+    "isrc": "USUAN2300003",
+    "instruments": "Classical Guitar, Harp, Flutes",
+    "catalogueFeel": "Bright, Calming, Relaxed",
+    "bpm": "60",
+    "soundFacts": [
+      {
+        "text": "The official catalogue lists Classical Guitar, Harp, Flutes as instruments.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2300003"
+      },
+      {
+        "text": "The official catalogue tags this recording Bright, Calming, Relaxed.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2300003"
+      }
+    ],
+    "vocalEvidence": "The official instrument list names no voices. This is metadata screening, not full listening verification."
+  },
+  "km-evening": {
+    "track": "Evening",
+    "credit": "Kevin MacLeod (incompetech.com)",
+    "file": "Evening.mp3",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "recordingSource": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2300002",
+    "audioSource": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Evening.mp3",
+    "licenseEvidence": "https://incompetech.com/music/royalty-free/licenses/",
+    "location": "2023",
+    "uploaded": "2023-08-15",
+    "changes": "None. Original official MP3, byte-for-byte; no trimming, normalization or re-encoding.",
+    "durationSeconds": 186.25305,
+    "sha256": "45e91c3a804bab0a27f54323a34b3a404cfb172ccace169518384afdb51c311a",
+    "curatedOnly": true,
+    "listeningReview": "pending",
+    "vocalReview": "pending",
+    "focusStyle": "acoustic-guitar",
+    "isrc": "USUAN2300002",
+    "instruments": "Guitar, Cello, Oboe",
+    "catalogueFeel": "Bright, Calming, Relaxed",
+    "bpm": "101",
+    "soundFacts": [
+      {
+        "text": "The official catalogue lists Guitar, Cello, Oboe as instruments.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2300002"
+      },
+      {
+        "text": "The official catalogue tags this recording Bright, Calming, Relaxed.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2300002"
+      }
+    ],
+    "vocalEvidence": "The official instrument list names no voices. This is metadata screening, not full listening verification."
+  },
+  "km-almost-bliss": {
+    "track": "Almost Bliss",
+    "credit": "Kevin MacLeod (incompetech.com)",
+    "file": "Almost Bliss.mp3",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "recordingSource": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900015",
+    "audioSource": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Almost%20Bliss.mp3",
+    "licenseEvidence": "https://incompetech.com/music/royalty-free/licenses/",
+    "location": "2019",
+    "uploaded": "2019-06-14",
+    "changes": "None. Original official MP3, byte-for-byte; no trimming, normalization or re-encoding.",
+    "durationSeconds": 316.577975,
+    "sha256": "731e191cef927e43d352bd099ac63cd6ea54a6a84deec3cba77fb59e6903754c",
+    "curatedOnly": true,
+    "listeningReview": "pending",
+    "vocalReview": "pending",
+    "focusStyle": "acoustic-guitar",
+    "isrc": "USUAN1900015",
+    "instruments": "Guitars, Percussion",
+    "catalogueFeel": "Bright, Calming, Relaxed",
+    "bpm": "90",
+    "soundFacts": [
+      {
+        "text": "The official catalogue lists Guitars, Percussion as instruments.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900015"
+      },
+      {
+        "text": "The official catalogue tags this recording Bright, Calming, Relaxed.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900015"
+      }
+    ],
+    "vocalEvidence": "The official instrument list names no voices. This is metadata screening, not full listening verification."
+  },
+  "km-easy-lemon": {
+    "track": "Easy Lemon",
+    "credit": "Kevin MacLeod (incompetech.com)",
+    "file": "Easy Lemon.mp3",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "recordingSource": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200076",
+    "audioSource": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Easy%20Lemon.mp3",
+    "licenseEvidence": "https://incompetech.com/music/royalty-free/licenses/",
+    "location": "2012",
+    "uploaded": "2012-07-03",
+    "changes": "None. Original official MP3, byte-for-byte; no trimming, normalization or re-encoding.",
+    "durationSeconds": 126.380425,
+    "sha256": "2486b8ecfe4575f9ab31613a2c03c2ee45e6e5280301d05b4dd7237c9e1c2531",
+    "curatedOnly": true,
+    "listeningReview": "pending",
+    "vocalReview": "pending",
+    "focusStyle": "acoustic-guitar",
+    "isrc": "USUAN1200076",
+    "instruments": "Guitar, Bass, Drum Kit, Celesta, Marimba",
+    "catalogueFeel": "Bright, Calming, Relaxed",
+    "bpm": "82",
+    "soundFacts": [
+      {
+        "text": "The official catalogue lists Guitar, Bass, Drum Kit, Celesta, Marimba as instruments.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200076"
+      },
+      {
+        "text": "The official catalogue tags this recording Bright, Calming, Relaxed.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200076"
+      }
+    ],
+    "vocalEvidence": "The official instrument list names no voices. This is metadata screening, not full listening verification."
+  },
+  "km-midnight-tale": {
+    "track": "Midnight Tale",
+    "credit": "Kevin MacLeod (incompetech.com)",
+    "file": "Midnight Tale.mp3",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "recordingSource": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900004",
+    "audioSource": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Midnight%20Tale.mp3",
+    "licenseEvidence": "https://incompetech.com/music/royalty-free/licenses/",
+    "location": "2019",
+    "uploaded": "2019-04-05",
+    "changes": "None. Original official MP3, byte-for-byte; no trimming, normalization or re-encoding.",
+    "durationSeconds": 161.56735,
+    "sha256": "c2862369ae8ed2ae36468bf87f5a77bfa56b9944fd8ebd9703e99a8bc7a6e863",
+    "curatedOnly": true,
+    "listeningReview": "pending",
+    "vocalReview": "pending",
+    "focusStyle": "plucked-strings",
+    "isrc": "USUAN1900004",
+    "instruments": "Guitar, Lute",
+    "catalogueFeel": "Calming, Relaxed",
+    "bpm": "73",
+    "soundFacts": [
+      {
+        "text": "The official catalogue lists Guitar, Lute as instruments.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900004"
+      },
+      {
+        "text": "The official catalogue tags this recording Calming, Relaxed.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900004"
+      }
+    ],
+    "vocalEvidence": "The official instrument list names no voices. This is metadata screening, not full listening verification."
+  },
+  "km-fresh-air": {
+    "track": "Fresh Air",
+    "credit": "Kevin MacLeod (incompetech.com)",
+    "file": "Fresh Air.mp3",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "recordingSource": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1500084",
+    "audioSource": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Fresh%20Air.mp3",
+    "licenseEvidence": "https://incompetech.com/music/royalty-free/licenses/",
+    "location": "2015",
+    "uploaded": "2015-12-21",
+    "changes": "None. Original official MP3, byte-for-byte; no trimming, normalization or re-encoding.",
+    "durationSeconds": 294.060438,
+    "sha256": "528a53352595d5d37bc1eb4e738df66f0c390f833d5fd3de08ba0ab5fe317522",
+    "curatedOnly": true,
+    "listeningReview": "pending",
+    "vocalReview": "pending",
+    "focusStyle": "minimal-piano",
+    "isrc": "USUAN1500084",
+    "instruments": "Piano",
+    "catalogueFeel": "Calming, Relaxed",
+    "bpm": "44",
+    "soundFacts": [
+      {
+        "text": "The official catalogue lists Piano as instruments.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1500084"
+      },
+      {
+        "text": "The official catalogue tags this recording Calming, Relaxed.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1500084"
+      },
+      {
+        "text": "MacLeod describes the piece as a piano improvisation.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1500084"
+      }
+    ],
+    "vocalEvidence": "The official instrument list names no voices. This is metadata screening, not full listening verification."
+  },
+  "km-that-zen-moment": {
+    "track": "That Zen Moment",
+    "credit": "Kevin MacLeod (incompetech.com)",
+    "file": "That Zen Moment.mp3",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "recordingSource": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2400001",
+    "audioSource": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/That%20Zen%20Moment.mp3",
+    "licenseEvidence": "https://incompetech.com/music/royalty-free/licenses/",
+    "location": "2024",
+    "uploaded": "2024-04-14",
+    "changes": "None. Original official MP3, byte-for-byte; no trimming, normalization or re-encoding.",
+    "durationSeconds": 601.80895,
+    "sha256": "d796b819607ebb2b9c04a5b5a838d0e167ed66b765ecacf9423fb6c0953853dc",
+    "curatedOnly": true,
+    "listeningReview": "pending",
+    "vocalReview": "pending",
+    "focusStyle": "warm-ambient",
+    "isrc": "USUAN2400001",
+    "instruments": "Strings, Bowl Drum",
+    "catalogueFeel": "Calming, Mystical, Relaxed",
+    "bpm": null,
+    "soundFacts": [
+      {
+        "text": "The official catalogue lists Strings, Bowl Drum as instruments.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2400001"
+      },
+      {
+        "text": "The official catalogue tags this recording Calming, Mystical, Relaxed.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2400001"
+      },
+      {
+        "text": "MacLeod says a metal tongue drum bought at a local music shop inspired the piece.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2400001"
+      }
+    ],
+    "vocalEvidence": "The official instrument list names no voices. This is metadata screening, not full listening verification."
+  },
+  "km-kalimba-relaxation-music": {
+    "track": "Kalimba Relaxation Music",
+    "credit": "Kevin MacLeod (incompetech.com)",
+    "file": "Kalimba Relaxation Music.mp3",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "recordingSource": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900039",
+    "audioSource": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Kalimba%20Relaxation%20Music.mp3",
+    "licenseEvidence": "https://incompetech.com/music/royalty-free/licenses/",
+    "location": "2019",
+    "uploaded": "2019-12-19",
+    "changes": "None. Original official MP3, byte-for-byte; no trimming, normalization or re-encoding.",
+    "durationSeconds": 428.068578,
+    "sha256": "96e24b49f4da2956bb626f1d7465b7cd7a0dc1e35565870c001e850b2140c6a0",
+    "curatedOnly": true,
+    "listeningReview": "pending",
+    "vocalReview": "pending",
+    "focusStyle": "light-world-instrumental",
+    "isrc": "USUAN1900039",
+    "instruments": "Kalimba, Synth",
+    "catalogueFeel": "Calming, Relaxed",
+    "bpm": null,
+    "soundFacts": [
+      {
+        "text": "The official catalogue lists Kalimba, Synth as instruments.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900039"
+      },
+      {
+        "text": "The official catalogue tags this recording Calming, Relaxed.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900039"
+      }
+    ],
+    "vocalEvidence": "The official instrument list names no voices. This is metadata screening, not full listening verification."
+  },
+  "km-guzheng-city": {
+    "track": "Guzheng City",
+    "credit": "Kevin MacLeod (incompetech.com)",
+    "file": "Guzheng City.mp3",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "recordingSource": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2100001",
+    "audioSource": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Guzheng%20City.mp3",
+    "licenseEvidence": "https://incompetech.com/music/royalty-free/licenses/",
+    "location": "2021",
+    "uploaded": "2021-02-11",
+    "changes": "None. Original official MP3, byte-for-byte; no trimming, normalization or re-encoding.",
+    "durationSeconds": 114.07675,
+    "sha256": "7d117a43cad22ff05b32340f2bd331368c48342f503eab85b1e5c403043d4be6",
+    "curatedOnly": true,
+    "listeningReview": "pending",
+    "vocalReview": "pending",
+    "focusStyle": "light-world-instrumental",
+    "isrc": "USUAN2100001",
+    "instruments": "Guzheng, Percussion (Dhol)",
+    "catalogueFeel": "Bright, Calming, Relaxed",
+    "bpm": "104",
+    "soundFacts": [
+      {
+        "text": "The official catalogue lists Guzheng, Percussion (Dhol) as instruments.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2100001"
+      },
+      {
+        "text": "The official catalogue tags this recording Bright, Calming, Relaxed.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2100001"
+      }
+    ],
+    "vocalEvidence": "The official instrument list names no voices. This is metadata screening, not full listening verification."
+  },
+  "km-space-jazz": {
+    "track": "Space Jazz",
+    "credit": "Kevin MacLeod (incompetech.com)",
+    "file": "Space Jazz.mp3",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "recordingSource": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2100030",
+    "audioSource": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Space%20Jazz.mp3",
+    "licenseEvidence": "https://incompetech.com/music/royalty-free/licenses/",
+    "location": "2021",
+    "uploaded": "2021-09-29",
+    "changes": "None. Original official MP3, byte-for-byte; no trimming, normalization or re-encoding.",
+    "durationSeconds": 369.50205,
+    "sha256": "51924be4565a2f101f4daa45998aa4c3577dab05ba5d1067ffb7bc57583ad503",
+    "curatedOnly": true,
+    "listeningReview": "pending",
+    "vocalReview": "pending",
+    "focusStyle": "game-electronic",
+    "isrc": "USUAN2100030",
+    "instruments": "Synths",
+    "catalogueFeel": "Bright, Grooving, Relaxed",
+    "bpm": "89",
+    "soundFacts": [
+      {
+        "text": "The official catalogue lists Synths as instruments.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2100030"
+      },
+      {
+        "text": "The official catalogue tags this recording Bright, Grooving, Relaxed.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2100030"
+      },
+      {
+        "text": "MacLeod wrote this after a video-game script called for space jazz.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2100030"
+      }
+    ],
+    "vocalEvidence": "The official instrument list names no voices. This is metadata screening, not full listening verification."
+  },
+  "km-northern-glade": {
+    "track": "Northern Glade",
+    "credit": "Kevin MacLeod (incompetech.com)",
+    "file": "Magic Scout - Nothern Glade.mp3",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "recordingSource": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1800017",
+    "audioSource": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Magic%20Scout%20-%20Nothern%20Glade.mp3",
+    "licenseEvidence": "https://incompetech.com/music/royalty-free/licenses/",
+    "location": "2018",
+    "uploaded": "2018-10-07",
+    "changes": "None. Original official MP3, byte-for-byte; no trimming, normalization or re-encoding.",
+    "durationSeconds": 315.023673,
+    "sha256": "2521e2e76b8dd781ea04a8811a0fb76faaaace1ee2d44e22164fe55de9e0cb7c",
+    "curatedOnly": true,
+    "listeningReview": "pending",
+    "vocalReview": "pending",
+    "focusStyle": "game-electronic",
+    "isrc": "USUAN1800017",
+    "instruments": "Synths",
+    "catalogueFeel": "Bright, Calming, Relaxed",
+    "bpm": "78",
+    "soundFacts": [
+      {
+        "text": "The official catalogue lists Synths as instruments.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1800017"
+      },
+      {
+        "text": "The official catalogue tags this recording Bright, Calming, Relaxed.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1800017"
+      },
+      {
+        "text": "The official description links this recording to MacLeod’s Magic Scout game.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1800017"
+      }
+    ],
+    "vocalEvidence": "The official instrument list names no voices. This is metadata screening, not full listening verification."
+  },
+  "km-kawai-kitsune": {
+    "track": "Kawai Kitsune",
+    "credit": "Kevin MacLeod (incompetech.com)",
+    "file": "Kawai Kitsune.mp3",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "recordingSource": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1500059",
+    "audioSource": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Kawai%20Kitsune.mp3",
+    "licenseEvidence": "https://incompetech.com/music/royalty-free/licenses/",
+    "location": "2015",
+    "uploaded": "2015-09-06",
+    "changes": "None. Original official MP3, byte-for-byte; no trimming, normalization or re-encoding.",
+    "durationSeconds": 242.129,
+    "sha256": "999ef5647f5aa1bdb36ca2993a3391eacd62ea196850055e5d0342d60f48b776",
+    "curatedOnly": true,
+    "listeningReview": "pending",
+    "vocalReview": "pending",
+    "focusStyle": "soft-electronic",
+    "isrc": "USUAN1500059",
+    "instruments": "Synths, Percussion",
+    "catalogueFeel": "Bouncy, Bright, Calming",
+    "bpm": "116",
+    "soundFacts": [
+      {
+        "text": "The official catalogue lists Synths, Percussion as instruments.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1500059"
+      },
+      {
+        "text": "The official catalogue tags this recording Bouncy, Bright, Calming.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1500059"
+      }
+    ],
+    "vocalEvidence": "The official instrument list names no voices. This is metadata screening, not full listening verification."
+  },
+  "km-bleeping-demo": {
+    "track": "Bleeping Demo",
+    "credit": "Kevin MacLeod (incompetech.com)",
+    "file": "Bleeping Demo.mp3",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "recordingSource": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2000021",
+    "audioSource": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Bleeping%20Demo.mp3",
+    "licenseEvidence": "https://incompetech.com/music/royalty-free/licenses/",
+    "location": "2020",
+    "uploaded": "2020-11-18",
+    "changes": "None. Original official MP3, byte-for-byte; no trimming, normalization or re-encoding.",
+    "durationSeconds": 213.76,
+    "sha256": "3447e31d900696e592d38a42384a41ec7458c77476c091958911d4e0d1263805",
+    "curatedOnly": true,
+    "listeningReview": "pending",
+    "vocalReview": "pending",
+    "focusStyle": "soft-electronic",
+    "isrc": "USUAN2000021",
+    "instruments": "Synths, Percussion",
+    "catalogueFeel": "Bright, Grooving, Relaxed",
+    "bpm": "74",
+    "soundFacts": [
+      {
+        "text": "The official catalogue lists Synths, Percussion as instruments.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2000021"
+      },
+      {
+        "text": "The official catalogue tags this recording Bright, Grooving, Relaxed.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2000021"
+      }
+    ],
+    "vocalEvidence": "The official instrument list names no voices. This is metadata screening, not full listening verification."
+  },
+  "km-bossa-antigua": {
+    "track": "Bossa Antigua",
+    "credit": "Kevin MacLeod (incompetech.com)",
+    "file": "Bossa Antigua.mp3",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "recordingSource": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700069",
+    "audioSource": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Bossa%20Antigua.mp3",
+    "licenseEvidence": "https://incompetech.com/music/royalty-free/licenses/",
+    "uploaded": "2017-11-17",
+    "location": "2017",
+    "changes": "None. Original official MP3, byte-for-byte; no trimming, normalization or re-encoding.",
+    "durationSeconds": 283.350219,
+    "sha256": "322103dd6ac5fae4872122f91d32cccd4d964b86d300585a5a0cdfaf7048af5d",
+    "curatedOnly": true,
+    "listeningReview": "pending",
+    "vocalReview": "pending",
+    "focusStyle": "light-jazz",
+    "genre": "Jazz",
+    "catalogueGenreId": "11",
+    "instruments": "Guitar, Bass, Drums",
+    "catalogueFeel": "Bright, Grooving, Relaxed",
+    "bpm": "70",
+    "isrc": "USUAN1700069",
+    "soundFacts": [
+      {
+        "text": "The official catalogue classifies this recording as Jazz.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700069"
+      },
+      {
+        "text": "The official instrument list names Guitar, Bass, Drums.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700069"
+      }
+    ],
+    "vocalEvidence": "No voices listed in the official instrument metadata; full listening remains pending."
+  },
+  "km-lobby-time": {
+    "track": "Lobby Time",
+    "credit": "Kevin MacLeod (incompetech.com)",
+    "file": "Lobby Time.mp3",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "recordingSource": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1600054",
+    "audioSource": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Lobby%20Time.mp3",
+    "licenseEvidence": "https://incompetech.com/music/royalty-free/licenses/",
+    "uploaded": "2016-09-22",
+    "location": "2016",
+    "changes": "None. Original official MP3, byte-for-byte; no trimming, normalization or re-encoding.",
+    "durationSeconds": 193.201656,
+    "sha256": "bc47dc1f1a0b1fe4ff631cee89ca3987b8f7b52f533d06233665d51300331beb",
+    "curatedOnly": true,
+    "listeningReview": "pending",
+    "vocalReview": "pending",
+    "focusStyle": "light-jazz",
+    "genre": "Jazz",
+    "catalogueGenreId": "11",
+    "instruments": "Vibraphone, Piano, Bass, Drums",
+    "catalogueFeel": "Calming, Grooving, Relaxed",
+    "bpm": "128",
+    "isrc": "USUAN1600054",
+    "soundFacts": [
+      {
+        "text": "The official catalogue classifies this recording as Jazz.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1600054"
+      },
+      {
+        "text": "The official instrument list names Vibraphone, Piano, Bass, Drums.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1600054"
+      }
+    ],
+    "vocalEvidence": "No voices listed in the official instrument metadata; full listening remains pending."
+  },
+  "km-airport-lounge": {
+    "track": "Airport Lounge",
+    "credit": "Kevin MacLeod (incompetech.com)",
+    "file": "Airport Lounge.mp3",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "recordingSource": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100806",
+    "audioSource": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Airport%20Lounge.mp3",
+    "licenseEvidence": "https://incompetech.com/music/royalty-free/licenses/",
+    "uploaded": "2011-03-07",
+    "location": "2011",
+    "changes": "None. Original official MP3, byte-for-byte; no trimming, normalization or re-encoding.",
+    "durationSeconds": 307.6702,
+    "sha256": "e20d316b541c72690a3b0311c9f3d40fd00717359ab7567d7df82a9316c1dec4",
+    "curatedOnly": true,
+    "listeningReview": "pending",
+    "vocalReview": "pending",
+    "focusStyle": "light-jazz",
+    "genre": "Jazz",
+    "catalogueGenreId": "11",
+    "instruments": "Bass, Drum Kit, Electric Piano, Vibraphone",
+    "catalogueFeel": "Bouncy, Calming, Relaxed",
+    "bpm": "129",
+    "isrc": "USUAN1100806",
+    "soundFacts": [
+      {
+        "text": "The official catalogue classifies this recording as Jazz.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100806"
+      },
+      {
+        "text": "The official instrument list names Bass, Drum Kit, Electric Piano, Vibraphone.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100806"
+      }
+    ],
+    "vocalEvidence": "No voices listed in the official instrument metadata; full listening remains pending."
+  },
+  "km-limit-70": {
+    "track": "Limit 70",
+    "credit": "Kevin MacLeod (incompetech.com)",
+    "file": "Limit 70.mp3",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "recordingSource": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900042",
+    "audioSource": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Limit%2070.mp3",
+    "licenseEvidence": "https://incompetech.com/music/royalty-free/licenses/",
+    "uploaded": "2019-12-18",
+    "location": "2019",
+    "changes": "None. Original official MP3, byte-for-byte; no trimming, normalization or re-encoding.",
+    "durationSeconds": 301.662056,
+    "sha256": "b3d2463a32cd6e87a2e0bdb9056113f3702883acbe617a6b029cc14c85561f33",
+    "curatedOnly": true,
+    "listeningReview": "pending",
+    "vocalReview": "pending",
+    "focusStyle": "soft-electronic",
+    "genre": "Electronica",
+    "catalogueGenreId": "7",
+    "instruments": "Electric Piano, Synths, Percussion",
+    "catalogueFeel": "Calming, Grooving, Relaxed",
+    "bpm": "103",
+    "isrc": "USUAN1900042",
+    "soundFacts": [
+      {
+        "text": "The official catalogue classifies this recording as Electronica.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900042"
+      },
+      {
+        "text": "The official instrument list names Electric Piano, Synths, Percussion.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900042"
+      }
+    ],
+    "vocalEvidence": "No voices listed in the official instrument metadata; full listening remains pending."
+  },
+  "km-floating-cities": {
+    "track": "Floating Cities",
+    "credit": "Kevin MacLeod (incompetech.com)",
+    "file": "Floating Cities.mp3",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "recordingSource": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1600018",
+    "audioSource": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Floating%20Cities.mp3",
+    "licenseEvidence": "https://incompetech.com/music/royalty-free/licenses/",
+    "uploaded": "2016-04-04",
+    "location": "2016",
+    "changes": "None. Original official MP3, byte-for-byte; no trimming, normalization or re-encoding.",
+    "durationSeconds": 184.058781,
+    "sha256": "e7365652410d1fbc8a14d87537855d625c1a5fa8b7de8c626f47c13256ef2ddd",
+    "curatedOnly": true,
+    "listeningReview": "pending",
+    "vocalReview": "pending",
+    "focusStyle": "soft-electronic",
+    "genre": "Soundtrack",
+    "catalogueGenreId": "22",
+    "instruments": "Synths, Percussion",
+    "catalogueFeel": "Somber, Relaxed, Mystical, Calming",
+    "bpm": "120",
+    "isrc": "USUAN1600018",
+    "soundFacts": [
+      {
+        "text": "The official catalogue classifies this recording as Soundtrack.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1600018"
+      },
+      {
+        "text": "The official instrument list names Synths, Percussion.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1600018"
+      }
+    ],
+    "vocalEvidence": "No voices listed in the official instrument metadata; full listening remains pending."
+  },
+  "km-summer-day": {
+    "track": "Summer Day",
+    "credit": "Kevin MacLeod (incompetech.com)",
+    "file": "Summer Day.mp3",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "recordingSource": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200083",
+    "audioSource": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Summer%20Day.mp3",
+    "licenseEvidence": "https://incompetech.com/music/royalty-free/licenses/",
+    "uploaded": "2012-07-08",
+    "location": "2012",
+    "changes": "None. Original official MP3, byte-for-byte; no trimming, normalization or re-encoding.",
+    "durationSeconds": 198.060425,
+    "sha256": "a4b62ce9ea564f511b0f06ea21098907463d1ce6b5a2afe076ae0b2cd328b030",
+    "curatedOnly": true,
+    "listeningReview": "pending",
+    "vocalReview": "pending",
+    "focusStyle": "gentle-groove",
+    "genre": "Contemporary",
+    "catalogueGenreId": "5",
+    "instruments": "Guitar, Electric Piano, Bass, Drum Kit",
+    "catalogueFeel": "Calming, Relaxed",
+    "bpm": "60",
+    "isrc": "USUAN1200083",
+    "soundFacts": [
+      {
+        "text": "The official catalogue classifies this recording as Contemporary.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200083"
+      },
+      {
+        "text": "The official instrument list names Guitar, Electric Piano, Bass, Drum Kit.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200083"
+      }
+    ],
+    "vocalEvidence": "No voices listed in the official instrument metadata; full listening remains pending."
+  }
+}

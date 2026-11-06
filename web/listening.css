@@ -1,0 +1,200 @@
+:root {
+  color-scheme: light dark;
+  --paper: #e8ebe5;
+  --ink: #2a3830;
+  --line: #b7c4b9;
+  --dim: #506057;
+  font:
+    15px/1.8 -apple-system,
+    BlinkMacSystemFont,
+    "PingFang SC",
+    sans-serif;
+  color: var(--ink);
+  background: var(--paper);
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #27362d;
+    --ink: #eef1e8;
+    --line: #758878;
+    --dim: #c5d0c2;
+  }
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  max-width: 1400px;
+  margin: auto;
+  padding: 3vh 4vw 8vh;
+}
+header,
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+header > a {
+  font:
+    23px "Songti SC",
+    Georgia,
+    serif;
+  text-decoration: none;
+  letter-spacing: 0.17em;
+}
+a,
+button {
+  color: inherit;
+}
+select,
+button {
+  font: inherit;
+  background: var(--paper);
+  color: var(--ink);
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  padding: 3px 8px;
+}
+nav {
+  justify-content: flex-start;
+  gap: 4px;
+  margin: 18px 0;
+  flex-wrap: wrap;
+}
+nav button {
+  width: 34px;
+  height: 34px;
+  font-size: 12px;
+  border: 0;
+  border-radius: 50%;
+  cursor: pointer;
+}
+[aria-current="true"] {
+  background: var(--ink);
+  color: var(--paper);
+}
+main {
+  display: grid;
+  grid-template-columns: minmax(0, 1.05fr) minmax(0, 1fr);
+  align-items: start;
+  gap: 6vw;
+}
+#art {
+  width: 100%;
+  height: clamp(230px, 49vh, 620px);
+  object-fit: contain;
+  display: block;
+}
+h1,
+h2,
+p,
+blockquote {
+  margin: 0;
+}
+h1 {
+  font:
+    400 clamp(22px, 2.4vw, 34px)/1.35 "Songti SC",
+    Georgia,
+    serif;
+}
+h2 {
+  margin-top: 16px;
+  font:
+    400 22px Georgia,
+    serif;
+}
+h3,
+small,
+article > a,
+section > a:not(#picture),
+details a {
+  font-size: 12px;
+  color: var(--dim);
+}
+h3 {
+  font-weight: 600;
+  margin: 18px 0 3px;
+}
+#original {
+  font:
+    400 clamp(19px, 2vw, 28px)/1.5 Georgia,
+    "Songti SC",
+    serif;
+  overflow-wrap: anywhere;
+  margin-bottom: 6px;
+}
+#pair,
+#aside,
+#fact {
+  line-height: 1.9;
+  letter-spacing: 0.025em;
+}
+audio {
+  display: block;
+  width: 100%;
+  margin: 12px 0;
+}
+details {
+  border-inline-start: 2px solid var(--line);
+  margin-top: 22px;
+  padding-inline-start: 16px;
+}
+summary,
+button {
+  cursor: pointer;
+}
+blockquote {
+  margin: 14px 0;
+  font-family: Georgia, "Songti SC", serif;
+}
+#gloss {
+  font-size: 14px;
+}
+#chat {
+  display: block;
+  margin-top: 16px;
+}
+#status {
+  font-size: 12px;
+  margin-top: 10px;
+  color: var(--dim);
+}
+[hidden] {
+  display: none !important;
+}
+@media (max-width: 760px) {
+  main {
+    grid-template-columns: 1fr;
+    gap: 25px;
+  }
+  #art {
+    height: 30vh;
+  }
+}
+
+#explore {
+  margin-top: 22px;
+}
+#voice-label {
+  display: block;
+  font-size: 12px;
+  color: var(--dim);
+}
+#voice {
+  box-sizing: border-box;
+  width: 100%;
+  font: inherit;
+  font-size: 13px;
+  color: var(--ink);
+  background: var(--paper);
+  border: 1px solid var(--line);
+  padding: 8px;
+}
+#chat {
+  margin-top: 6px;
+}
+
+#fact,
+#pair {
+  margin-top: 14px;
+}

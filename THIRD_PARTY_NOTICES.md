@@ -798,3 +798,7 @@ The software licence does not replace any media licence. Preserve the author, so
 ## Software dependencies
 
 `smol-toml` is bundled into the runtime. Its MIT copyright and permission notice is reproduced in `licenses/smol-toml.txt`. Development dependencies are recorded in package-lock.json and retain their own licences. No third-party font files are bundled.
+
+## Sound-first listening preview
+
+`web/sergo-duduk.mp3`: SERGO.TEL, *duduk-improvisation2*, April (2010). [Recording and licence evidence](https://commons.wikimedia.org/wiki/File:SERGO.TEL_-_April_-_duduk-improvisation2.ogg), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/). Converted from Ogg to 192 kbps MP3; gain reduced by 5.3 dB. No trimming, compression or vocal removal. Existing images and reused recordings retain their per-file credits above.

@@ -37,3 +37,7 @@ Use skips, saves and revisits as ambiguous signals, never as proof of concentrat
 ## Release and rollback
 
 Research files are not runtime catalogue inputs. New media remains outside the default rotation until gates pass. A content release must list additions, source/credit records, checks, listening limits and version. Back up local data and retain the previous runtime; install between sessions, preserving the bound chat and fixed address. Roll back the release rather than rewriting personal history. Any changes to Agent recommendation/selection require a separate reviewed scope and the repository's delivery-impact evidence.
+
+## First playable preview
+
+Six explicit pairings use one new duduk recording and two existing guqin/accordion recordings. The shelf exposes “New sounds · preview”; the room labels them Preview, not Selected. This is not completion of the 100-pair target. Human audition is pending. The new sound is curatedOnly and the new collection is excluded from automatic rotation. Playback, source/translation toggling and timer synchronization must pass browser checks before local release.

@@ -1172,5 +1172,18 @@
       }
     ],
     "vocalEvidence": "No voices listed in the official instrument metadata; full listening remains pending."
+  },
+  "sergo-duduk": {
+    "track": "duduk-improvisation2",
+    "credit": "SERGO.TEL · duduk",
+    "file": "SERGO.TEL - April - duduk-improvisation2.ogg",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "recordingSource": "https://commons.wikimedia.org/wiki/File:SERGO.TEL_-_April_-_duduk-improvisation2.ogg",
+    "location": "2010",
+    "curatedOnly": true,
+    "changes": "Converted to MP3 at 192 kbps; gain reduced by 5.3 dB, no compression, trimming or vocal removal.",
+    "durationSeconds": 177.3,
+    "sha256": "60c43997ae28e1b873843b8d4c31c1ae2760c927c893b8560680db4bb4fbc74f"
   }
 }

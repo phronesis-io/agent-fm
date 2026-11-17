@@ -16,6 +16,7 @@ export function programText(program, language = "en") {
 
 /** Prepared programmes are queued explicitly, never started by preparation. */
 const collectionLabels = {
+  "sound-first-preview": ["New sounds · preview", "新声 · 试听"],
   "contemporary-pairings": ["Elsewhere", "别处"],
   "first-light": ["First collection", "首批编选"],
   "focus-library": ["Work & study", "工作与学习"],

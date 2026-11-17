@@ -830,7 +830,7 @@ function render(s) {
   useEdition(playing?.edition ?? "field");
   const selectedProgram = s.program?.provider === "editorial" && Boolean(s.program.collection);
   const source = { codex: ui("Codex 选曲"), random: ui("随机选曲"), queued: ui("你选的") }[playing?.editionSource];
-  const shelf = (s.program ? selectedProgram : curated(playing?.edition ?? "field")) ? ui("精选") : ui("漫游");
+  const shelf = s.program?.collection === "sound-first-preview" ? (/^zh(?:-Hans|-CN|-SG|$)/i.test(currentLanguage()) ? "试听" : "Preview") : (s.program ? selectedProgram : curated(playing?.edition ?? "field")) ? ui("精选") : ui("漫游");
   $("#label-shelf").textContent = source ? shelf + " · " + source : shelf;
   const saved = s.events.some(e => e.kind === "keep" && (s.program
     ? e.program?.id === s.program.id && e.program?.revision === s.program.revision

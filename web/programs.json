@@ -13247,5 +13247,245 @@
         "note": "小屋点开起伏绿地；吉他与打击乐陪一处有人生活的风景。"
       }
     }
+  },
+  {
+    "id": "sound-first-caspian",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Above the Caspian",
+    "originalTitle": "Clouds over the Caspian Sea × duduk-improvisation2",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "cross-cultural",
+      "Earth from orbit"
+    ],
+    "style": "acoustic",
+    "facts": [
+      {
+        "text": "Earth observation taken during a day pass by the Expedition 37 crew. Per Twitter message: intersecting clouds over the Caspian Sea & Caucasus Mountains.",
+        "source": "https://images.nasa.gov/details/iss037e015861"
+      },
+      {
+        "text": "SERGO.TEL released this duduk performance on April; the source dates the recording to 29 March 2010.",
+        "source": "https://commons.wikimedia.org/wiki/File:SERGO.TEL_-_April_-_duduk-improvisation2.ogg"
+      }
+    ],
+    "note": "A breath instrument beside a view taken beyond the atmosphere: this pairing tests a change of scale, from one performer to the Earth. It is an editorial juxtaposition, not a claim that this recording comes from the place below.",
+    "media": {
+      "kind": "edition",
+      "edition": "nasa-iss037e015861@sergo-duduk"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "里海上空",
+        "facts": [
+          "档案引用的宇航员文字提到里海与高加索山脉上空交错的云。 NASA档案日期：2013-10-17；摄影：Karen Nyberg。",
+          "SERGO.TEL的这段duduk演奏收录于April；来源标注日期为2010年3月29日。"
+        ],
+        "note": "把吹奏乐器放在大气层外的视角旁，试着让一个人的演奏与地球的尺度相遇。这是编选上的并置，不是说录音来自照片中的地方。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-sand",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Dune and Breath",
+    "originalTitle": "006 Dune 45 in Sossusvlei at sunrise Photo by Giles Laurent × duduk-improvisation2",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "cross-cultural",
+      "Deserts"
+    ],
+    "style": "acoustic",
+    "facts": [
+      {
+        "text": "Dune 45 in Sossusvlei (Namibia) at sunrise. Dune 45 is composed of iron-rich quartz sand, whose deepening red tones result from the gradual oxidation of iron over millions of years. The sand grains originated from sediments carried by the Orange River into the Atlantic Ocean and transported northward by coastal currents before being blown inland by strong south-westerly winds. The Namib Desert itself is considered one of the oldest deserts on Earth—at least 5 million years old, and possibly…",
+        "source": "https://commons.wikimedia.org/wiki/File:006_Dune_45_in_Sossusvlei_at_sunrise_Photo_by_Giles_Laurent.jpg"
+      },
+      {
+        "text": "SERGO.TEL released this duduk performance on April; the source dates the recording to 29 March 2010.",
+        "source": "https://commons.wikimedia.org/wiki/File:SERGO.TEL_-_April_-_duduk-improvisation2.ogg"
+      }
+    ],
+    "note": "The dune gives the eye one strong edge to follow. I chose a single named instrumental performance rather than a desert sound effect: the picture can remain a place, without asking the music to impersonate it.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-178411518@sergo-duduk"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "沙丘与呼吸",
+        "facts": [
+          "纳米比亚索苏斯弗雷的45号沙丘，摄于日出时分。",
+          "SERGO.TEL的这段duduk演奏收录于April；来源标注日期为2010年3月29日。"
+        ],
+        "note": "沙丘给目光留下一道清楚的边缘。这里选择一段具体的器乐演奏，而不是沙漠音效，让照片保留自己的地点，不要求音乐扮演它。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-bamboo",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Through the Bamboo",
+    "originalTitle": "Sintel — bamboo forest × 流水",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "cross-cultural",
+      "Open-film Concept Art"
+    ],
+    "style": "acoustic",
+    "facts": [
+      {
+        "text": "David Revoy published this environment artwork in his Sintel art-direction gallery. The source identifies it as sintel — bamboo forest.",
+        "source": "https://www.davidrevoy.com/article45/sintel-art-direction"
+      },
+      {
+        "text": "Charlie Huang recorded the Sichuan-style guqin piece Liu Shui in Birmingham on 15 April 2006.",
+        "source": "https://commons.wikimedia.org/wiki/File:Liu_Shui.ogg"
+      }
+    ],
+    "note": "This bamboo forest was imagined for an animated journey. Pairing it with a documented guqin performance lets an invented environment meet a real performance tradition, without presenting the music as the film’s soundtrack.",
+    "media": {
+      "kind": "edition",
+      "edition": "revoy-sintel-environment-18@liushui"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "穿过竹林",
+        "facts": [
+          "David Revoy在《Sintel》美术指导图集中发布了这件作品；页面将其说明为辛特尔旅途中的竹林预想图。",
+          "Charlie Huang于2006年4月15日在伯明翰录制这首川派古琴曲《流水》。"
+        ],
+        "note": "这片竹林为动画中的旅途而构想。让它与一段有记录的古琴演奏相遇，是把虚构环境与真实演奏传统并置，并不把这段音乐说成电影原声。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-shore",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Water, Left in Sand",
+    "originalTitle": "Morro Jable (Fuerteventura, Spain), Strand -- 2025 -- 2487 × 流水",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "cross-cultural",
+      "Coasts"
+    ],
+    "style": "acoustic",
+    "facts": [
+      {
+        "text": "Structures with different colored sand on the beach of Morro Jable, Fuerteventura, Spain",
+        "source": "https://commons.wikimedia.org/wiki/File:Morro_Jable_(Fuerteventura,_Spain),_Strand_--_2025_--_2487.jpg"
+      },
+      {
+        "text": "Charlie Huang recorded the Sichuan-style guqin piece Liu Shui in Birmingham on 15 April 2006.",
+        "source": "https://commons.wikimedia.org/wiki/File:Liu_Shui.ogg"
+      }
+    ],
+    "note": "The photograph records patterns in differently coloured sand, rather than a wide sea view. Flowing Water is a deliberate partner for those traces: a title-led connection to test while looking closely, not a claim of natural sound.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-159278412@liushui"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "水留在沙中",
+        "facts": [
+          "西班牙富埃特文图拉岛Morro Jable海滩上，不同颜色的沙粒形成纹理。",
+          "Charlie Huang于2006年4月15日在伯明翰录制这首川派古琴曲《流水》。"
+        ],
+        "note": "照片拍的是不同颜色沙粒形成的纹理，而非宽阔海景。《流水》与这些痕迹的联系从题名出发，适合一边细看一边检验，不把琴声当成自然录音。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-snow",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Snow and Bellows",
+    "originalTitle": "Forest Snowfall × Largo · Concerto in D major, RV 93",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "cross-cultural",
+      "Forests"
+    ],
+    "style": "acoustic",
+    "facts": [
+      {
+        "text": "First Snowfall in the Forest",
+        "source": "https://commons.wikimedia.org/wiki/File:Forest_Snowfall.jpg"
+      },
+      {
+        "text": "Paul De Bra recorded this accordion-orchestra arrangement of Vivaldi’s RV 93 Largo in 2020. The supplied file is the 2022 speed-adjusted version.",
+        "source": "https://commons.wikimedia.org/wiki/File:Paul_De_Bra_-_Vivaldi%27s_Lute_Concerto_in_D_major%2C_RV_93_-_II._Largo_%28Accordion_Orchestra%29.ogg"
+      }
+    ],
+    "note": "The source describes a first snowfall. An accordion arrangement offers a different material beside that image than the familiar piano choice. This experiment is about an unexpected instrumental setting, not an invented winter programme for Vivaldi.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-115449263@vivaldi-largo"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "雪与风箱",
+        "facts": [
+          "作者将画面描述为森林中的第一场降雪。",
+          "Paul De Bra于2020年录制这版维瓦尔第RV 93广板的手风琴乐团改编；此文件为2022年调整速度的版本。"
+        ],
+        "note": "作者描述的是第一场降雪。手风琴改编让这幅画面旁多了一种不同于惯常钢琴的材料；尝试的是乐器配置，不是替维瓦尔第虚构冬日主题。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-city",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "A Largo at the Bay",
+    "originalTitle": "Singapore city skyline at night 1 × Largo · Concerto in D major, RV 93",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "cross-cultural",
+      "Night cities"
+    ],
+    "style": "acoustic",
+    "facts": [
+      {
+        "text": "A view of the skyline of the Central Business District of Singapore from The Shoppes at Marina Bay Sands.",
+        "source": "https://commons.wikimedia.org/wiki/File:Singapore_city_skyline_at_night_1.JPG"
+      },
+      {
+        "text": "Paul De Bra recorded this accordion-orchestra arrangement of Vivaldi’s RV 93 Largo in 2020. The supplied file is the 2022 speed-adjusted version.",
+        "source": "https://commons.wikimedia.org/wiki/File:Paul_De_Bra_-_Vivaldi%27s_Lute_Concerto_in_D_major%2C_RV_93_-_II._Largo_%28Accordion_Orchestra%29.ogg"
+      }
+    ],
+    "note": "A Baroque movement, a contemporary accordion arrangement, and a Singapore night photograph belong to different moments. I put them together to leave the city outside the window while the recording supplies another pace.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-45288423@vivaldi-largo"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "海湾广板",
+        "facts": [
+          "从滨海湾金沙购物中心望向新加坡中央商业区的天际线。",
+          "Paul De Bra于2020年录制这版维瓦尔第RV 93广板的手风琴乐团改编；此文件为2022年调整速度的版本。"
+        ],
+        "note": "巴洛克乐章、当代手风琴改编和新加坡夜景属于不同的时间。将它们放在一起，是想把城市留在窗外，让录音提供另一种步速。"
+      }
+    }
   }
 ]

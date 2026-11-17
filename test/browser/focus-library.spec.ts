@@ -86,7 +86,7 @@ test("the actual bundled hundred are discoverable by all seven styles",async({pa
   const source=await page.locator("#local-player").getAttribute("src");
   await page.locator("#station-open").click();
   await page.locator("#prepared-programs > summary").click();
-  await expect(page.locator("#program-heading")).toHaveText("Selections · 335");
+  await expect(page.locator("#program-heading")).toHaveText("Selections · 341");
   await expect(page.locator("#program-list > details")).toHaveCount(bundled.length);
   for(const style of ["ambient","piano","acoustic","jazz","electronic","beats","game"]) {
    const expected=bundled.filter(p=>(p as any).style===style);

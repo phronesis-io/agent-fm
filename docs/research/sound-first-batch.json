@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-17",
+  "status": "technical-preview-not-human-auditioned",
+  "pairs": [
+    "sound-first-caspian",
+    "sound-first-sand",
+    "sound-first-bamboo",
+    "sound-first-shore",
+    "sound-first-snow",
+    "sound-first-city"
+  ],
+  "newRecordings": [
+    "sergo-duduk"
+  ],
+  "existingRecordings": [
+    "liushui",
+    "vivaldi-largo"
+  ],
+  "defaultRotationChanged": false,
+  "review": "Source records reviewed. Full decode and browser playback required. Human listening and full-session suitability remain unverified.",
+  "originalIntegratedLUFS": -14.7,
+  "appliedGainDB": -5.3
+}

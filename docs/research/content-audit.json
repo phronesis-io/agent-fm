@@ -1,0 +1,234 @@
+{
+  "schema": 1,
+  "programmes": 339,
+  "localPairs": 335,
+  "uniquePairs": 335,
+  "pairedImages": 329,
+  "pairedRecordings": 42,
+  "availableImages": 735,
+  "missingReferences": [],
+  "styles": {
+    "piano": 61,
+    "acoustic": 98,
+    "ambient": 84,
+    "game": 30,
+    "beats": 24,
+    "jazz": 22,
+    "electronic": 16
+  },
+  "recordingReuse": [
+    {
+      "id": "km-morning",
+      "title": "Morning",
+      "pairs": 15
+    },
+    {
+      "id": "gymnopedie1",
+      "title": "Gymnopédie No. 1",
+      "pairs": 14
+    },
+    {
+      "id": "cz-cylinder-seven",
+      "title": "Cylinder Seven",
+      "pairs": 14
+    },
+    {
+      "id": "cz-cylinder-eight",
+      "title": "Cylinder Eight",
+      "pairs": 14
+    },
+    {
+      "id": "km-kalimba-relaxation-music",
+      "title": "Kalimba Relaxation Music",
+      "pairs": 13
+    },
+    {
+      "id": "gnossienne2",
+      "title": "Gnossienne No. 2",
+      "pairs": 12
+    },
+    {
+      "id": "cz-cylinder-four",
+      "title": "Cylinder Four",
+      "pairs": 12
+    },
+    {
+      "id": "cz-candlepower",
+      "title": "Candlepower",
+      "pairs": 12
+    },
+    {
+      "id": "km-fresh-air",
+      "title": "Fresh Air",
+      "pairs": 12
+    },
+    {
+      "id": "km-late-night-radio",
+      "title": "Late Night Radio",
+      "pairs": 11
+    },
+    {
+      "id": "km-study-and-relax",
+      "title": "Study And Relax",
+      "pairs": 11
+    },
+    {
+      "id": "km-midnight-tale",
+      "title": "Midnight Tale",
+      "pairs": 11
+    },
+    {
+      "id": "km-that-zen-moment",
+      "title": "That Zen Moment",
+      "pairs": 11
+    },
+    {
+      "id": "arabesque",
+      "title": "Arabesque No. 1",
+      "pairs": 10
+    },
+    {
+      "id": "liushui",
+      "title": "流水",
+      "pairs": 10
+    },
+    {
+      "id": "alhambra",
+      "title": "Recuerdos de la Alhambra",
+      "pairs": 9
+    },
+    {
+      "id": "delphes",
+      "title": "Danseuses de Delphes",
+      "pairs": 9
+    },
+    {
+      "id": "km-evening",
+      "title": "Evening",
+      "pairs": 9
+    },
+    {
+      "id": "gymnopedie3",
+      "title": "Gymnopédie No. 3",
+      "pairs": 8
+    },
+    {
+      "id": "cz-new-sector",
+      "title": "A New Day In a New Sector",
+      "pairs": 8
+    },
+    {
+      "id": "km-vibing-over-venus",
+      "title": "Vibing Over Venus",
+      "pairs": 8
+    },
+    {
+      "id": "km-floating-cities",
+      "title": "Floating Cities",
+      "pairs": 8
+    },
+    {
+      "id": "cz-cylinder-one",
+      "title": "Cylinder One",
+      "pairs": 7
+    },
+    {
+      "id": "cz-heliograph",
+      "title": "Heliograph",
+      "pairs": 7
+    },
+    {
+      "id": "cz-oxygen-garden",
+      "title": "Oxygen Garden",
+      "pairs": 7
+    },
+    {
+      "id": "cz-oceans-rise",
+      "title": "The Oceans Continue to Rise",
+      "pairs": 7
+    },
+    {
+      "id": "yangguan",
+      "title": "陽關三疊 · Yangguan Sandie",
+      "pairs": 6
+    },
+    {
+      "id": "km-lobby-time",
+      "title": "Lobby Time",
+      "pairs": 6
+    },
+    {
+      "id": "km-almost-bliss",
+      "title": "Almost Bliss",
+      "pairs": 6
+    },
+    {
+      "id": "km-northern-glade",
+      "title": "Northern Glade",
+      "pairs": 6
+    },
+    {
+      "id": "cz-stories-world",
+      "title": "Stories About the World That Once Was",
+      "pairs": 5
+    },
+    {
+      "id": "km-guzheng-city",
+      "title": "Guzheng City",
+      "pairs": 5
+    },
+    {
+      "id": "arabesque2",
+      "title": "Arabesque No. 2",
+      "pairs": 4
+    },
+    {
+      "id": "km-bossa-antigua",
+      "title": "Bossa Antigua",
+      "pairs": 4
+    },
+    {
+      "id": "km-airport-lounge",
+      "title": "Airport Lounge",
+      "pairs": 4
+    },
+    {
+      "id": "km-easy-lemon",
+      "title": "Easy Lemon",
+      "pairs": 4
+    },
+    {
+      "id": "km-space-jazz",
+      "title": "Space Jazz",
+      "pairs": 4
+    },
+    {
+      "id": "km-kawai-kitsune",
+      "title": "Kawai Kitsune",
+      "pairs": 3
+    },
+    {
+      "id": "km-bleeping-demo",
+      "title": "Bleeping Demo",
+      "pairs": 3
+    },
+    {
+      "id": "kaushi",
+      "title": "Raga Kaushi Kanra",
+      "pairs": 2
+    },
+    {
+      "id": "km-summer-day",
+      "title": "Summer Day",
+      "pairs": 2
+    },
+    {
+      "id": "km-limit-70",
+      "title": "Limit 70",
+      "pairs": 2
+    }
+  ],
+  "topTenRecordingShare": 0.3851,
+  "listeningReview": "Unknown: catalogue membership is not evidence of full human audition",
+  "culturalCoverage": "Not inferred: requires source-level research"
+}

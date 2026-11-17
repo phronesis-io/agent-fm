@@ -1,0 +1,252 @@
+{
+  "schema": 1,
+  "date": "2026-11-17",
+  "scope": "Initial forty research directions; not a claim to represent all cultures. Additional directions may be added with a new denominator.",
+  "directions": [
+    {
+      "id": "oud",
+      "status": "searched",
+      "source": "https://commons.wikimedia.org/wiki/File:OUD.ogg",
+      "finding": "50-second excerpt; not accepted as a working-session recording."
+    },
+    {
+      "id": "kora",
+      "status": "searched",
+      "source": null,
+      "finding": "Initial FMA/Commons search did not identify a recording with sufficient evidence. Search creator/ensemble sources next."
+    },
+    {
+      "id": "shakuhachi",
+      "status": "source-reviewed",
+      "source": "https://commons.wikimedia.org/wiki/File:Shikanotoone.ogg",
+      "finding": "6:15 historical recording; exact date range and international recording-rights evidence need further work; compare restoration, do not assume quietness."
+    },
+    {
+      "id": "gamelan",
+      "status": "source-reviewed",
+      "source": "https://commons.wikimedia.org/wiki/File:Gending_Nyawiji.ogg",
+      "finding": "4:31; credited to Dewinta Sanggar Seni Laras Siwi; page states CC BY-SA 4.0. Voice content and work suitability not yet auditioned."
+    },
+    {
+      "id": "koto",
+      "status": "source-reviewed",
+      "source": "https://commons.wikimedia.org/wiki/File:Koto_performance.ogg",
+      "finding": "30-second demonstration; exclude this recording from full-session candidates, continue the direction."
+    },
+    {
+      "id": "bansuri",
+      "status": "searched",
+      "source": null,
+      "finding": "Initial search mainly returned instrument photographs, not eligible audio."
+    },
+    {
+      "id": "bossa",
+      "status": "searched",
+      "source": "https://freemusicarchive.org/search/",
+      "finding": "Initial result included a 17-second jingle; insufficient, continue with complete recordings."
+    },
+    {
+      "id": "tango",
+      "status": "searched",
+      "source": "https://freemusicarchive.org/genre/tango/",
+      "finding": "Genre page is a discovery lead only; exact recording rights and dynamics remain unverified."
+    },
+    {
+      "id": "kantele",
+      "status": "searched",
+      "source": null,
+      "finding": "Initial results were instrument images; no eligible recording established."
+    },
+    {
+      "id": "duduk",
+      "status": "source-reviewed",
+      "source": "https://commons.wikimedia.org/wiki/File:SERGO.TEL_-_April_-_duduk-improvisation2.ogg",
+      "finding": "SERGO.TEL, 2010, 2:57; page states CC BY 3.0 with a source licence review. Full listening pending."
+    },
+    {
+      "id": "Persian santur",
+      "status": "unsearched",
+      "source": null,
+      "finding": null
+    },
+    {
+      "id": "Turkish ney",
+      "status": "unsearched",
+      "source": null,
+      "finding": null
+    },
+    {
+      "id": "Andalusian instrumental",
+      "status": "unsearched",
+      "source": null,
+      "finding": null
+    },
+    {
+      "id": "West African balafon",
+      "status": "unsearched",
+      "source": null,
+      "finding": null
+    },
+    {
+      "id": "Ethiopian instrumental",
+      "status": "unsearched",
+      "source": null,
+      "finding": null
+    },
+    {
+      "id": "Malagasy valiha",
+      "status": "unsearched",
+      "source": null,
+      "finding": null
+    },
+    {
+      "id": "Andean instrumental",
+      "status": "unsearched",
+      "source": null,
+      "finding": null
+    },
+    {
+      "id": "Brazilian choro",
+      "status": "unsearched",
+      "source": null,
+      "finding": null
+    },
+    {
+      "id": "Mexican instrumental",
+      "status": "unsearched",
+      "source": null,
+      "finding": null
+    },
+    {
+      "id": "Caribbean acoustic",
+      "status": "unsearched",
+      "source": null,
+      "finding": null
+    },
+    {
+      "id": "Korean gayageum",
+      "status": "unsearched",
+      "source": null,
+      "finding": null
+    },
+    {
+      "id": "Chinese pipa and guqin",
+      "status": "unsearched",
+      "source": null,
+      "finding": null
+    },
+    {
+      "id": "Vietnamese dan tranh",
+      "status": "unsearched",
+      "source": null,
+      "finding": null
+    },
+    {
+      "id": "Thai instrumental",
+      "status": "unsearched",
+      "source": null,
+      "finding": null
+    },
+    {
+      "id": "Nordic fiddle",
+      "status": "unsearched",
+      "source": null,
+      "finding": null
+    },
+    {
+      "id": "Celtic harp",
+      "status": "unsearched",
+      "source": null,
+      "finding": null
+    },
+    {
+      "id": "Iberian guitar",
+      "status": "unsearched",
+      "source": null,
+      "finding": null
+    },
+    {
+      "id": "European early keyboard",
+      "status": "unsearched",
+      "source": null,
+      "finding": null
+    },
+    {
+      "id": "Contemporary African electronic",
+      "status": "unsearched",
+      "source": null,
+      "finding": null
+    },
+    {
+      "id": "South Asian independent ambient",
+      "status": "unsearched",
+      "source": null,
+      "finding": null
+    },
+    {
+      "id": "Japanese independent ambient",
+      "status": "unsearched",
+      "source": null,
+      "finding": null
+    },
+    {
+      "id": "Latin American ambient",
+      "status": "unsearched",
+      "source": null,
+      "finding": null
+    },
+    {
+      "id": "Game and animation instrumental",
+      "status": "unsearched",
+      "source": null,
+      "finding": null
+    },
+    {
+      "id": "Urban field recording",
+      "status": "unsearched",
+      "source": null,
+      "finding": null
+    },
+    {
+      "id": "Domestic and workshop sound",
+      "status": "unsearched",
+      "source": null,
+      "finding": null
+    },
+    {
+      "id": "Pacific contemporary instrumental",
+      "status": "unsearched",
+      "source": null,
+      "finding": null
+    },
+    {
+      "id": "Indigenous artist-led instrumental",
+      "status": "unsearched",
+      "source": null,
+      "finding": null
+    },
+    {
+      "id": "Minimal and dub electronic",
+      "status": "unsearched",
+      "source": null,
+      "finding": null
+    },
+    {
+      "id": "Contemporary chamber music",
+      "status": "unsearched",
+      "source": null,
+      "finding": null
+    },
+    {
+      "id": "Diaspora collaborations",
+      "status": "unsearched",
+      "source": null,
+      "finding": null
+    }
+  ],
+  "sourceReviewedRecordings": 4,
+  "auditionedRecordings": 0,
+  "acceptedRecordings": 0,
+  "releasedPairs": 0,
+  "note": "Searched means an initial search attempt, not completed research. Cultural labels are research leads, not verified attributes of individual recordings."
+}

@@ -28,12 +28,14 @@ const styles = {
 const isSelected = p => p.provider === "editorial" && Object.hasOwn(collectionLabels,p.collection);
 const collectionRank = p => !isSelected(p) ? 3 : p.collection === "contemporary-pairings" ? 0 : p.collection === "first-light" ? 1 : 2;
 
-export function programShelf({api, language, status, editions = {}}) {
+export function programShelf({api, language, status, editions = {}, sounds = {}, onSwitch = ()=>{}}) {
   const container = document.querySelector("#prepared-programs");
   const list = document.querySelector("#program-list");
   const queue = document.querySelector("#program-queue");
   const title = document.querySelector("#program-heading");
   const zh = () => isSimplifiedChinese(language());
+  let currentId = null;
+  let switching = null;
   let queued = null;
   let queuedProgram = null;
   let queueVersion = 0;
@@ -47,6 +49,8 @@ export function programShelf({api, language, status, editions = {}}) {
     if(text!==undefined)node.textContent=text;
     return node;
   };
+  const feedback=el("p"); feedback.className="program-feedback"; feedback.setAttribute("role","status");
+  list.before(feedback);
   const search = el("input");
   search.type="search"; search.id="program-search";
   const style = el("select"); style.id="program-style";
@@ -62,10 +66,14 @@ export function programShelf({api, language, status, editions = {}}) {
   search.oninput=renderList;
   style.onchange=renderList;
   function renderList() {
+    const shelf=document.querySelector("#station-shelf") ?? container;
+    const scroll=shelf.scrollTop;
+    const focused=document.activeElement?.closest("[data-program]")?.dataset.program;
+    const focusClass=document.activeElement?.className;
     const opened = new Set([...list.querySelectorAll(":scope > details[open]")].map(n=>n.dataset.program));
     const term=search.value.trim().toLocaleLowerCase();
     const visible=programs.filter(p=>(!style.value || p.style===style.value) &&
-      [programText(p,language()).title,p.title,p.originalTitle,...p.tags,...(collectionLabels[p.collection] ?? [])].join(" ").toLocaleLowerCase().includes(term));
+      [programText(p,language()).title,p.title,p.originalTitle,sounds[p.media.edition?.split("@")[1]]?.credit ?? "",sounds[p.media.edition?.split("@")[1]]?.track ?? "",...p.tags,...(collectionLabels[p.collection] ?? [])].join(" ").toLocaleLowerCase().includes(term));
     style.setAttribute("aria-label",zh()?"声音风格":"Sound style");
     for(const option of style.options) option.textContent=option.value ? styles[option.value][zh()?1:0] : (zh()?"全部风格":"All styles");
     clear.textContent=zh()?"清除":"Clear";clear.hidden=!style.value && !term;
@@ -102,7 +110,17 @@ export function programShelf({api, language, status, editions = {}}) {
           summary.append(thumbnail); summary.classList.add("has-art");
         }
       }
-      summary.append(el("span",display.title));
+      const label=el("span",display.title);label.className="program-row-title";
+      const recording=sounds[p.media.edition?.split("@")[1]];
+      if(recording){const credit=el("small",recording.track+" · "+recording.credit);credit.className="program-recording";label.append(credit)}
+      summary.append(label);
+      if(p.media.kind === "edition") {
+        const change=el("button",switching===p.id?(zh()?"切换中…":"Switching…"):currentId===p.id?(zh()?"已选":"Selected"):(zh()?"换成这组":"Switch to this"));
+        change.type="button";change.className="program-switch";change.disabled=!!switching;
+        change.setAttribute("aria-pressed",String(currentId===p.id));
+        change.onclick=event=>{event.preventDefault();event.stopPropagation();void switchNow(p)};
+        summary.append(change);
+      }
       row.append(summary);
       if(!translatedPrograms.has(p.id) && p.originalTitle !== display.title) {
         const original=el("p",p.originalTitle);
@@ -132,6 +150,20 @@ export function programShelf({api, language, status, editions = {}}) {
       button.onclick=()=>changeQueue(p.id);
       row.append(button);list.append(row);
     }
+    shelf.scrollTop=scroll;
+    if(focused && focusClass==='program-switch')list.querySelector(`[data-program="${focused}"] .program-switch`)?.focus({preventScroll:true});
+  }
+  async function switchNow(program) {
+    if(switching || currentId===program.id)return;
+    switching=program.id;feedback.textContent=zh()?"正在切换…":"Switching…";renderList();
+    try {
+      const result=await api("/api/programs/switch",{id:program.id});
+      await onSwitch(result.state);
+      currentId=program.id;
+      feedback.textContent=result.state.sessions.findLast(t=>!t.ended&&!t.deleted)?.state==='paused'
+        ?(zh()?"已切换 · 计时仍暂停":"Switched · timer remains paused"):(zh()?"已切换":"Switched");
+    }catch(error){feedback.textContent=(zh()?"未能切换，请重试。 ":"Could not switch. Try again. ")+error.message}
+    finally{switching=null;renderList();list.querySelector(`[data-program="${program.id}"] .program-switch`)?.focus({preventScroll:true})}
   }
   async function refresh() {
     if(loading) return;
@@ -185,8 +217,10 @@ export function programShelf({api, language, status, editions = {}}) {
     lastLanguage=currentLanguage;
     const selected=programs.filter(p=>isSelected(p)).length;
     title.textContent=selected ? (zh()?`编选 · ${selected}`:`Selections · ${selected}`) : (zh()?"节目":"Programmes");
+    const active=state.program?.id ?? null;
+    const selectionChanged=active!==currentId;currentId=active;
     const id=state.nextProgram?.id ?? null;
-    if(id!==queued || languageChanged){
+    if(id!==queued || languageChanged || selectionChanged){
       queued=id; queuedProgram=state.nextProgram ?? null; showQueue(queuedProgram);
       if(container.open)renderList();
     }

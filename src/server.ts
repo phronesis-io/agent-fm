@@ -29,6 +29,7 @@ import {
   publicState,
   removeSession,
   nextEdition,
+  switchProgram,
   keep,
   timer,
 } from "./domain.ts";
@@ -251,6 +252,13 @@ export async function serve(
       }
       if (path === "/api/programs" && req.method === "GET")
         return respond(res, 200, await programCommand(store, "list"));
+      if (path === "/api/programs/switch" && req.method === "POST") {
+        const b = await body(req);
+        if (typeof b.id !== "string") throw Error("Invalid programme id");
+        store.update(s => switchProgram(s, b.id));
+        engine.changed();
+        return respond(res, 200, {state: publicState(store.read())});
+      }
       if (["/api/programs/validate", "/api/programs/prepare", "/api/programs/select"].includes(path) && req.method === "POST") {
         const result = await programCommand(store, path.split("/").at(-1)!, await body(req));
         engine.changed();

@@ -1709,11 +1709,45 @@ body.broadcast #radio-original { left: auto; right: 0; top: calc(100% + 14px); }
 body:not(.broadcast) #space .room .deck {
   display: grid;
   width: min(420px, 100%);
-  grid-template-columns: minmax(0, 1fr) 38px 84px 40px;
+  grid-template-columns: minmax(0, 1fr) 44px 84px 44px;
   gap: 5px;
   align-items: center;
 }
 body:not(.broadcast) #station-open { grid-column: 1; max-width: 100%; width: 100%; }
 body:not(.broadcast) #music-toggle { grid-column: 2; grid-row: 1; }
 body:not(.broadcast) .wave-strip { grid-column: 3; grid-row: 1; }
-body:not(.broadcast) #next-edition { grid-column: 4; grid-row: 1; width: 40px; height: 40px; }
+body:not(.broadcast) #next-edition { grid-column: 4; grid-row: 1; width: 44px; height: 44px; }
+
+/* A reachable music shelf: direct selection is visible before any description. */
+.sound-rail, body.broadcast .sound-rail {
+  --rail-width:min(480px, calc(100vw - 32px));
+  position:fixed; inset:76px 24px auto auto; width:var(--rail-width);
+  max-height:calc(100svh - 100px); z-index:7;
+}
+#station-shelf { max-height:calc(100svh - 100px); }
+#station-shelf .shelf-head { top:-16px; }
+#station-close, #station-open, .station-row, #program-style, #program-search,
+#program-list button, #program-queue button, #prepared-programs > summary {
+  min-height:44px;
+}
+#station-close { min-width:44px; }
+#program-list .program-summary, #program-list .program-summary.has-art {
+  grid-template-columns:64px minmax(0,1fr) auto; gap:12px; min-height:64px;
+}
+#program-list .program-summary:not(.has-art) { grid-template-columns:minmax(0,1fr) auto; }
+#program-list .program-summary::after { display:none; }
+#program-list .program-summary .program-row-title { font-size:14px; line-height:1.45; }
+#program-list .program-recording { display:block; margin-top:5px; font-size:12px; line-height:1.5; color:var(--sub); }
+#program-list .program-switch { min-width:88px; padding:8px 12px; border:1px solid var(--line); border-radius:8px; text-decoration:none; white-space:nowrap; }
+#program-list .program-switch:hover { background:var(--line); }
+#program-list .program-switch[aria-pressed="true"] { border-color:var(--accent); color:var(--ink); background:color-mix(in srgb,var(--accent) 10%,var(--veil)); }
+#program-list .program-switch:disabled { cursor:progress; opacity:.65; }
+#station-shelf :is(button,summary,input,select):focus-visible { outline:2px solid var(--accent); outline-offset:3px; }
+.program-feedback { font-size:13px; line-height:1.5; }
+.program-feedback:empty { display:none; }
+@media(max-width:720px) {
+  .sound-rail:has(#station-shelf:not([hidden])), body.broadcast .sound-rail { position:fixed; inset:76px 16px auto; margin:0; max-height:calc(100svh - 100px); }
+  #station-shelf { padding-inline:12px; }
+  #program-list .program-summary.has-art { grid-template-columns:48px minmax(0,1fr) auto; gap:8px; }
+  #program-list .program-summary img { width:48px; height:48px; }
+}

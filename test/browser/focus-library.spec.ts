@@ -45,7 +45,7 @@ test("a hundred programmes can be narrowed locally without changing the clock or
   await expect(page.locator("#program-style")).toHaveAccessibleName("声音风格");
   await expect(page.locator("#program-style")).toHaveValue("jazz");
   await expect(page.locator("#program-search")).toHaveValue("Study piece 003");
-  await expect(page.locator("#program-list > details > summary")).toHaveText("Study piece 003");
+  await expect(page.locator("#program-list .program-row-title")).toContainText("Study piece 003");
   await page.locator("#program-list > details > summary").click();
   await page.getByRole("button",{name:"下一钟听",exact:true}).click();
   await expect.poll(()=>app.store.read().nextProgram).toBe("focus-fixture-3");

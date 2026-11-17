@@ -693,7 +693,13 @@ function timerAction(action, minutes) {
   return api("/api/timer", { action, minutes }).catch((e) => toast(e.message));
 }
 $("#timer-extend").onclick = () => timerAction("extend", 5);
-const renderPrograms = programShelf({api, language:currentLanguage, status:toast, editions});
+const renderPrograms = programShelf({api, language:currentLanguage, status:toast, editions, sounds, onSwitch:async fresh=>{
+  followTimer=false;
+  render(fresh);
+  if(fresh.program) useProgram(fresh.program);
+  followTimer=true;
+  if(session()?.state!=="paused") await playTrack();
+}});
 let appliedProgram = null;
 function useProgram(program) {
   resetSource();

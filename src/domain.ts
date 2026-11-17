@@ -59,6 +59,21 @@ export function nextEdition(s: State) {
   event(s, t.id, "edition", pick.edition);
   event(s, t.id, "shown", pick.editionSource);
 }
+/** Explicit local selection changes the room, never the clock or a different queue. */
+export function switchProgram(s: State, id: string) {
+  const program = findProgram(s, id);
+  if (program.media.kind !== "edition") throw Error("Use the station controls for external channels");
+  const t = current(s);
+  if (t.programId === id && t.edition === program.media.edition) return;
+  const previous = t.edition;
+  t.programId = id;
+  t.edition = program.media.edition;
+  t.editionSource = "queued";
+  delete t.editionReason;
+  if (previous) event(s, t.id, "tune-away", previous);
+  event(s, t.id, "program-switch", id);
+  event(s, t.id, "edition", t.edition);
+}
 /** "留下这组": keep the current work, sound and session with no model call. */
 export function keep(s: State, now = Date.now()) {
   const shown = s.sessions.findLast((t) => !t.deleted && t.edition);
@@ -87,11 +102,12 @@ export function timer(
   }
   if (action === "start") {
     if (t.state !== "open") throw Error("计时已经开始");
+    const chosenProgram = t.programId;
     const previous =
       s.sessions.findLast((x) => !x.deleted && x.edition)?.edition ?? "field";
     delete t.editionReason;
     delete t.programId;
-    const program = s.nextProgram ? findProgram(s, s.nextProgram) : undefined;
+    const program = s.nextProgram ? findProgram(s, s.nextProgram) : chosenProgram ? findProgram(s, chosenProgram) : undefined;
     const queuedEdition = program?.media.kind === "edition" ? program.media.edition : s.nextListeningEdition;
     if (queuedEdition) {
       t.edition = queuedEdition;

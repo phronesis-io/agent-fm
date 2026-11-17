@@ -50,8 +50,8 @@ test('all 235 new pairs reach their actual local image and recording; styles, qu
   expect(played.size).toBe(37);expect(pausedStyles.size).toBe(7);
   const before=structuredClone(app.store.read().sessions.at(-1)!);
   await page.locator('#station-open').click();await page.locator('#prepared-programs > summary').click();
-  await expect(page.locator('#program-heading')).toContainText('435');
-  await expect(page.locator('.program-group').first()).toHaveText('别处');
+  await expect(page.locator('#program-heading')).toContainText('455');
+  await expect(page.locator('.program-group').filter({hasText:/^别处$/})).toBeVisible();
   await page.locator('#program-search').fill('别处');
   await expect(page.locator('#program-list > details')).toHaveCount(236); // Includes the new preview titled 别处的城; search also matches titles.
   await page.locator('#program-style').selectOption('jazz');

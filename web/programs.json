@@ -17247,5 +17247,945 @@
         "note": "风景中的旅人不必把故事带进房间。帕凡舞曲在旁边给出有节制的行进，目的地留白，近处仍给你自己的工作。"
       }
     }
+  },
+  {
+    "id": "pf-meydan-forest",
+    "revision": 1,
+    "curator": "Agent FM",
+    "collection": "independent-sounds",
+    "title": "Bamboo Light",
+    "originalTitle": "Sintel — bamboo forest × Interplanetary Forest",
+    "language": "en",
+    "tags": [
+      "independent-sounds",
+      "meydan",
+      "piano",
+      "independent ambient",
+      "France"
+    ],
+    "style": "piano",
+    "facts": [
+      {
+        "text": "David Revoy published this environment artwork in his Sintel art-direction gallery. The source identifies it as sintel — bamboo forest.",
+        "source": "https://www.davidrevoy.com/article45/sintel-art-direction"
+      },
+      {
+        "text": "Interplanetary Forest is a piano piece in Meydän’s 2019 album of the same name.",
+        "source": "https://freemusicarchive.org/music/Meydan/Interplanetary_Forest/Meydn_-_Interplanetary_Forest_-_01_Interplanetary_Forest/"
+      },
+      {
+        "text": "Meydän is an independent artist based in France; the artist publishes this catalogue under CC BY.",
+        "source": "https://meydan.bandcamp.com/"
+      }
+    ],
+    "note": "Revoy’s forest is built from shafts of green light rather than a view toward a destination. Pairing it with a small piano piece leaves the image open: a place to sit, not another story to finish.",
+    "media": {
+      "kind": "edition",
+      "edition": "revoy-sintel-environment-18@pf-meydan-forest"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "竹间的光",
+        "facts": [
+          "David Revoy在《Sintel》美术指导图集中发布了这件作品；页面将其说明为辛特尔旅途中的竹林预想图。",
+          "《Interplanetary Forest》是Meydän于2019年发布的同名专辑中的钢琴作品。",
+          "Meydän是在法国创作的独立音乐人，作者将这套作品以CC BY许可发布。"
+        ],
+        "note": "Revoy用一道道绿光构成竹林，并没有让视线急着抵达某处。旁边放一首短小的钢琴作品，把它留成可以坐一会儿的地方，不必再完成一个故事。"
+      }
+    }
+  },
+  {
+    "id": "pf-meydan-insomnia",
+    "revision": 1,
+    "curator": "Agent FM",
+    "collection": "independent-sounds",
+    "title": "After Rain",
+    "originalTitle": "City streets; Reflections on the street surface after rain × Insomnia Pt. 2",
+    "language": "en",
+    "tags": [
+      "independent-sounds",
+      "meydan",
+      "ambient",
+      "independent ambient",
+      "France"
+    ],
+    "style": "ambient",
+    "facts": [
+      {
+        "text": "City streets; Reflections on the street surface after rain; Poland",
+        "source": "https://commons.wikimedia.org/wiki/File:City_streets;_Reflections_on_the_street_surface_after_rain.jpg"
+      },
+      {
+        "text": "Insomnia Pt. 2 appears on Meydän’s For Creators, released in 2018.",
+        "source": "https://freemusicarchive.org/music/Meydan/For_Creators/Insomnia_Pt_2/"
+      },
+      {
+        "text": "Meydän is an independent artist based in France; the artist publishes this catalogue under CC BY.",
+        "source": "https://meydan.bandcamp.com/"
+      }
+    ],
+    "note": "The photograph keeps the city outside the frame and gives us its reflected light. An electronic soundtrack makes that absence useful: the street can remain distant while the desk stays close.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-196568889@pf-meydan-insomnia"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "雨后",
+        "facts": [
+          "波兰城市街道上，雨后的路面映出灯光。",
+          "《Insomnia Pt. 2》收录于Meydän在2018年发布的《For Creators》。",
+          "Meydän是在法国创作的独立音乐人，作者将这套作品以CC BY许可发布。"
+        ],
+        "note": "照片把城市留在画外，只给出路面上的反光。配电子声音，是想保留这段距离：街道在远处，桌面还在手边。"
+      }
+    }
+  },
+  {
+    "id": "pf-jahzzar-curves",
+    "revision": 1,
+    "curator": "Agent FM",
+    "collection": "independent-sounds",
+    "title": "Sand Lines",
+    "originalTitle": "Morro Jable (Fuerteventura, Spain), Strand -- 2025 -- 2487 × Curves",
+    "language": "en",
+    "tags": [
+      "independent-sounds",
+      "jahzzar",
+      "acoustic",
+      "independent instrumental",
+      "Gijón, Spain"
+    ],
+    "style": "acoustic",
+    "facts": [
+      {
+        "text": "Structures with different colored sand on the beach of Morro Jable, Fuerteventura, Spain",
+        "source": "https://commons.wikimedia.org/wiki/File:Morro_Jable_(Fuerteventura,_Spain),_Strand_--_2025_--_2487.jpg"
+      },
+      {
+        "text": "Curves belongs to Jahzzar’s 2018 album #handmade, catalogued as folk and ambient.",
+        "source": "https://freemusicarchive.org/music/Jahzzar/handmade/Curves/"
+      },
+      {
+        "text": "Jahzzar is Javier Suarez’s instrumental-music project, based in Gijón, Spain.",
+        "source": "https://jahzzar.bandcamp.com/music"
+      }
+    ],
+    "note": "There is no horizon here, only sand taking on little folds. The folk-and-ambient setting keeps this pairing at the scale of a hand-made thing rather than turning the beach into a travel advertisement.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-159278412@pf-jahzzar-curves"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "沙的线条",
+        "facts": [
+          "西班牙富埃特文图拉岛Morro Jable海滩上，不同颜色的沙粒形成纹理。",
+          "《Curves》出自Jahzzar于2018年发布的《#handmade》，原页分类为folk与ambient。",
+          "Jahzzar是Javier Suarez的器乐创作项目，作者的页面标注所在地为西班牙希洪。"
+        ],
+        "note": "这里没有海平线，只有沙面细小的褶皱。选folk与ambient交界的这首，是想让画面停留在手边小物的尺度，不把海滩变成旅游广告。"
+      }
+    }
+  },
+  {
+    "id": "pf-jahzzar-dew",
+    "revision": 1,
+    "curator": "Agent FM",
+    "collection": "independent-sounds",
+    "title": "A Garden Pause",
+    "originalTitle": "Claremont Landscape Garden, Princess Charlotte's tea-house × Dew",
+    "language": "en",
+    "tags": [
+      "independent-sounds",
+      "jahzzar",
+      "acoustic",
+      "independent instrumental",
+      "Gijón, Spain"
+    ],
+    "style": "acoustic",
+    "facts": [
+      {
+        "text": "Claremont Landscape Garden, temporary replica of Princess Charlotte's tea-house, 2017.",
+        "source": "https://commons.wikimedia.org/wiki/File:Claremont_Landscape_Garden,_Princess_Charlotte%27s_tea-house.jpg"
+      },
+      {
+        "text": "Dew is another recording from Jahzzar’s #handmade, released in 2018 under CC BY-SA.",
+        "source": "https://freemusicarchive.org/music/Jahzzar/handmade/Dew/"
+      },
+      {
+        "text": "Jahzzar is Javier Suarez’s instrumental-music project, based in Gijón, Spain.",
+        "source": "https://jahzzar.bandcamp.com/music"
+      }
+    ],
+    "note": "The little garden building looks formal, but its setting is everyday gravel and trees. Jahzzar’s independent instrumental work keeps the company informal; nothing in the room needs to become a ceremony.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-71310013@pf-jahzzar-dew"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "园中的停留",
+        "facts": [
+          "Claremont风景园中夏洛特公主茶屋的临时复制建筑，摄于2017年。",
+          "《Dew》同样收录于Jahzzar于2018年发布的《#handmade》，录音以CC BY-SA许可分享。",
+          "Jahzzar是Javier Suarez的器乐创作项目，作者的页面标注所在地为西班牙希洪。"
+        ],
+        "note": "花园小屋的外形郑重，四周却只是碎石和树。用独立器乐陪它，是想让这段相处随意一点，不必把坐下来也变成仪式。"
+      }
+    }
+  },
+  {
+    "id": "pf-axletree-grove",
+    "revision": 1,
+    "curator": "Agent FM",
+    "collection": "independent-sounds",
+    "title": "Across the Lake",
+    "originalTitle": "Claremont Landscape Garden, autumn colours round the lake × The Silent Grove",
+    "language": "en",
+    "tags": [
+      "independent-sounds",
+      "axletree",
+      "acoustic",
+      "low whistle; folk arrangement",
+      "British and Irish folk repertoire"
+    ],
+    "style": "acoustic",
+    "facts": [
+      {
+        "text": "Claremont Landscape Garden, autumn colours round the lake",
+        "source": "https://commons.wikimedia.org/wiki/File:Claremont_Landscape_Garden,_autumn_colours_round_the_lake.jpg"
+      },
+      {
+        "text": "The Silent Grove combines strings, piano and low D whistle, loosely drawing on the Hampshire folk song Abroad as I was walking as sung by Turp Brown.",
+        "source": "https://freemusicarchive.org/music/Axletree/music-from-a-hampshire-farm/the-silent-grove/"
+      },
+      {
+        "text": "Axletree publishes atmospheric compositions and a separate series of low-whistle performances.",
+        "source": "https://freemusicarchive.org/music/Axletree/"
+      }
+    ],
+    "note": "The folk-song source names a grove; the photograph offers a lake with trees beyond it. Keeping the trees on the far bank gives the arrangement some room, without pretending this is the place where the song began.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-154147131@pf-axletree-grove"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "湖的对面",
+        "facts": [
+          "Claremont风景园湖边的秋日色彩。",
+          "《The Silent Grove》使用弦乐、钢琴与D调低音哨笛，松散取材于Turp Brown演唱过的汉普郡民歌《Abroad as I was walking》。",
+          "Axletree既创作氛围器乐，也单独发布低音哨笛演奏系列。"
+        ],
+        "note": "民歌的来源提到一片树林，照片却把树林放在湖的对岸。隔着这段水面，编曲也有了余地；这里不假装照片就是歌曲发生的地方。"
+      }
+    }
+  },
+  {
+    "id": "pf-axletree-books",
+    "revision": 1,
+    "curator": "Agent FM",
+    "collection": "independent-sounds",
+    "title": "Among Books",
+    "originalTitle": "Graz University-Library reading-room × Amhrán na Leabhar (Song of the books)",
+    "language": "en",
+    "tags": [
+      "independent-sounds",
+      "axletree",
+      "acoustic",
+      "low whistle; folk arrangement",
+      "British and Irish folk repertoire"
+    ],
+    "style": "acoustic",
+    "facts": [
+      {
+        "text": "The main reading room of Graz University Library (19th century) on 2 Sep 2003. Picture taken and uploaded by Dr. Marcus Gossler.",
+        "source": "https://commons.wikimedia.org/wiki/File:Graz_University-Library_reading-room.jpg"
+      },
+      {
+        "text": "Axletree performs the traditional Irish air Amhrán na Leabhar on a low F whistle; the source describes this as a slow version.",
+        "source": "https://freemusicarchive.org/music/Axletree/meditations-on-a-low-whistle-atmospheric-flute-ongoing-project/amhran-na-leabhar-song-of-the-books/"
+      },
+      {
+        "text": "Axletree publishes atmospheric compositions and a separate series of low-whistle performances.",
+        "source": "https://freemusicarchive.org/music/Axletree/"
+      }
+    ],
+    "note": "Song of the Books meets a reading room with its tables still waiting. The link is small and literal; the low whistle supplies a human breath beside the architecture, without adding words to the page you are reading.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-352545@pf-axletree-books"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "书之间",
+        "facts": [
+          "格拉茨大学图书馆的主阅览室，拍摄日期为2003年9月2日。",
+          "Axletree以F调低音哨笛演奏爱尔兰传统曲调《Amhrán na Leabhar》，原页明确说明这是一版慢速演奏。",
+          "Axletree既创作氛围器乐，也单独发布低音哨笛演奏系列。"
+        ],
+        "note": "《书之歌》遇见一间桌椅还在等人的阅览室，联系很小，也很直接。低音哨笛给建筑旁添一口人的呼吸，不给你正在读的那页再加一句话。"
+      }
+    }
+  },
+  {
+    "id": "pf-lee-lights",
+    "revision": 1,
+    "curator": "Agent FM",
+    "collection": "independent-sounds",
+    "title": "A Thin Horizon",
+    "originalTitle": "Sunrise through an aurora × Slow Lights",
+    "language": "en",
+    "tags": [
+      "independent-sounds",
+      "lee",
+      "ambient",
+      "independent ambient",
+      "Prince Edward Island, Canada"
+    ],
+    "style": "ambient",
+    "facts": [
+      {
+        "text": "ISS043E155854 (04/27/2015) --- A rising sun spreads across the Earth and through the green blooming aurora to silhouette the blackened outline of the International Space Station on the morning of Apr. 27, 2015.",
+        "source": "https://images.nasa.gov/details/iss043e155854"
+      },
+      {
+        "text": "Slow Lights is included in Lee Rosevere’s Music For Podcasts – Ambient catalogue.",
+        "source": "https://freemusicarchive.org/music/lee-rosevere/music-for-podcasts-ambient/slow-lights/"
+      },
+      {
+        "text": "Lee Rosevere is a self-taught musician working across ambient music, electronic pop and chillhop in Canada’s Prince Edward Island arts community.",
+        "source": "https://pei.art/lee-rosevere/"
+      }
+    ],
+    "note": "The aurora is a narrow band, not a sky full of spectacle. An ambient piece written for the space around speech can also leave room around thought; the photograph asks for only an occasional glance.",
+    "media": {
+      "kind": "edition",
+      "edition": "nasa-iss043e155854@pf-lee-lights"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "薄薄的地平线",
+        "facts": [
+          "NASA说明记载，2015年4月27日的日出穿过绿色极光，空间站形成剪影。 NASA档案日期：2015-04-27；摄影：Terry Virts。",
+          "《Slow Lights》收录于Lee Rosevere的《Music For Podcasts – Ambient》曲集中。",
+          "Lee Rosevere是一位自学的音乐人，创作涉及氛围、电子流行与chillhop；他也是加拿大爱德华王子岛艺术社群的一员。"
+        ],
+        "note": "极光只是一道窄窄的光带，并没有占满天空。原本为话语周围留空的氛围作品，也可以为思考留空；照片只需要偶尔看一眼。"
+      }
+    }
+  },
+  {
+    "id": "pf-lee-featherlight",
+    "revision": 1,
+    "curator": "Agent FM",
+    "collection": "independent-sounds",
+    "title": "First Snow",
+    "originalTitle": "Forest Snowfall × Featherlight",
+    "language": "en",
+    "tags": [
+      "independent-sounds",
+      "lee",
+      "ambient",
+      "independent ambient",
+      "Prince Edward Island, Canada"
+    ],
+    "style": "ambient",
+    "facts": [
+      {
+        "text": "First Snowfall in the Forest",
+        "source": "https://commons.wikimedia.org/wiki/File:Forest_Snowfall.jpg"
+      },
+      {
+        "text": "Featherlight is a seven-minute recording in Lee Rosevere’s Music For Podcasts – Ambient collection.",
+        "source": "https://freemusicarchive.org/music/lee-rosevere/music-for-podcasts-ambient/featherlight/"
+      },
+      {
+        "text": "Lee Rosevere is a self-taught musician working across ambient music, electronic pop and chillhop in Canada’s Prince Edward Island arts community.",
+        "source": "https://pei.art/lee-rosevere/"
+      }
+    ],
+    "note": "Snow has lowered the contrast between the trees and the path. This longer ambient selection lets the same view stay with you without needing a new event every few seconds.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-115449263@pf-lee-featherlight"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "初雪",
+        "facts": [
+          "作者将画面描述为森林中的第一场降雪。",
+          "《Featherlight》是Lee Rosevere《Music For Podcasts – Ambient》曲集中一首约七分钟的录音。",
+          "Lee Rosevere是一位自学的音乐人，创作涉及氛围、电子流行与chillhop；他也是加拿大爱德华王子岛艺术社群的一员。"
+        ],
+        "note": "雪把树干和小路之间的反差压低了。选择这首更长的氛围作品，让同一个画面可以陪久一点，不必每隔几秒发生一件新事。"
+      }
+    }
+  },
+  {
+    "id": "pf-komiku-saturday",
+    "revision": 1,
+    "curator": "Agent FM",
+    "collection": "independent-sounds",
+    "title": "Stay a While",
+    "originalTitle": "The house of Spring × Quiet Saturday",
+    "language": "en",
+    "tags": [
+      "independent-sounds",
+      "komiku",
+      "game",
+      "independent game music",
+      "Role-playing and independent game music"
+    ],
+    "style": "game",
+    "facts": [
+      {
+        "text": "This house concept belongs to an opening sequence removed before the production of Spring.",
+        "source": "https://www.davidrevoy.com/article712/spring-open-movie-character-design-and-concept-art"
+      },
+      {
+        "text": "Quiet Saturday is part of Komiku’s 2018 Poupi’s incredible adventures! album, catalogued as folk, chiptune and instrumental.",
+        "source": "https://freemusicarchive.org/music/Komiku/Poupis_incredible_adventures_/Komiku_-_Poupis_incredible_adventures__-_57_Quiet_Saturday/"
+      },
+      {
+        "text": "Komiku is Rrrrrose Azerty’s role-play music project.",
+        "source": "https://freemusicarchive.org/music/Komiku/bio/"
+      }
+    ],
+    "note": "This house was designed for an opening scene that never made it into Spring. A quiet game-music interlude gives the unused place another use: somewhere to stay between tasks, without a quest marker.",
+    "media": {
+      "kind": "edition",
+      "edition": "revoy-spring-spring-house-and-waterfall-chime@pf-komiku-saturday"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "住一会儿",
+        "facts": [
+          "这张屋舍概念画属于《Spring》在制作前删去的开场段落。",
+          "《Quiet Saturday》来自Komiku于2018年发布的《Poupi’s incredible adventures!》，原页分类包含folk、chiptune与器乐。",
+          "Komiku是Rrrrrose Azerty的角色扮演音乐项目。"
+        ],
+        "note": "这座房屋原本属于《Spring》后来删去的开场。配一段安静的游戏音乐，让没有进入正片的地方有了别的用途：任务之间住一会儿，不需要任务标记。"
+      }
+    }
+  },
+  {
+    "id": "pf-komiku-fish",
+    "revision": 1,
+    "curator": "Agent FM",
+    "collection": "independent-sounds",
+    "title": "Blue Without Edges",
+    "originalTitle": "The Bahamas from orbit × Swimming with the fish",
+    "language": "en",
+    "tags": [
+      "independent-sounds",
+      "komiku",
+      "game",
+      "independent game music",
+      "Role-playing and independent game music"
+    ],
+    "style": "game",
+    "facts": [
+      {
+        "text": "ISS047e069406 (04/20/2016) ---Earth observation image taken by the Expedition 47 crew aboard the International Space Station. This is an oblique south-looking view of the main Bahama island chain.  Cuba is across the entire top of the image, the Florida Peninsula on the right margin. In the Bahamas, the main Andros island is just distinguishable under cloud upper left of center.  Under less cloud is the Abaco Islands in the foreground (middle of pic nearest camera left of center.)",
+        "source": "https://images.nasa.gov/details/iss047e069406"
+      },
+      {
+        "text": "Swimming with the fish belongs to the same Poupi’s incredible adventures! instrumental game-music album.",
+        "source": "https://freemusicarchive.org/music/Komiku/Poupis_incredible_adventures_/Komiku_-_Poupis_incredible_adventures__-_39_Swimming_with_the_fish/"
+      },
+      {
+        "text": "Komiku is Rrrrrose Azerty’s role-play music project.",
+        "source": "https://freemusicarchive.org/music/Komiku/bio/"
+      }
+    ],
+    "note": "A playful title brings the view from orbit closer to the water. The pairing keeps the scale deliberately mismatched: a small imaginary swim beside a very large real sea.",
+    "media": {
+      "kind": "edition",
+      "edition": "nasa-iss047e069406@pf-komiku-fish"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "没有边界的蓝",
+        "facts": [
+          "NASA说明这是朝南斜望巴哈马主岛链的视角，画面上方可见古巴。 NASA档案日期：2016-04-20；摄影：Jeff Williams。",
+          "《Swimming with the fish》来自同一张《Poupi’s incredible adventures!》器乐游戏音乐专辑。",
+          "Komiku是Rrrrrose Azerty的角色扮演音乐项目。"
+        ],
+        "note": "一个带玩心的曲名，把轨道上的视角拉近水面。这里故意不统一尺度：一次小小的想象中的游泳，旁边是一片真实而辽阔的海。"
+      }
+    }
+  },
+  {
+    "id": "pf-rafael-calm",
+    "revision": 1,
+    "curator": "Agent FM",
+    "collection": "independent-sounds",
+    "title": "The Pond Beside Town",
+    "originalTitle": "Ardea cinerea - Grey heron - in a pond of Busan Citizens Park with blue sky in Busan city South Korea × Calm Down",
+    "language": "en",
+    "tags": [
+      "independent-sounds",
+      "rafael",
+      "ambient",
+      "instrumental library music",
+      "Brazil"
+    ],
+    "style": "ambient",
+    "facts": [
+      {
+        "text": "Ardea cinerea (Grey heron) in the water of a pond near trees in Busan Citizens Park a sunny day with blue sky in Busan, South Korea.",
+        "source": "https://commons.wikimedia.org/wiki/File:Ardea_cinerea_-_Grey_heron_-_in_a_pond_of_Busan_Citizens_Park_with_blue_sky_in_Busan_city_South_Korea.jpg"
+      },
+      {
+        "text": "Calm Down appears in Rafael Archangel’s 2017 instrumental album Library Music Vol.1, released under CC0.",
+        "source": "https://freemusicarchive.org/music/Rafael_Archangel/Library_Music_Vol1/Rafael_Archangel_-_Library_Music_Vol1_-_07_Calm_Down/"
+      },
+      {
+        "text": "Rafael Archangel describes himself as a composer from Brazil. These pieces belong to his instrumental Library Music Vol.1, not a traditional-music archive.",
+        "source": "https://freemusicarchive.org/music/Rafael_Archangel/bio/"
+      }
+    ],
+    "note": "Busan’s buildings are still visible behind the pond; quiet does not require removing the city. The Brazilian composer’s instrumental piece joins this ordinary urban refuge without being presented as Korean music.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-155193419@pf-rafael-calm"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "城边的池塘",
+        "facts": [
+          "韩国釜山市民公园树木旁的池塘中有一只苍鹭，拍摄时天空晴朗。",
+          "《Calm Down》出自Rafael Archangel于2017年发布的器乐专辑《Library Music Vol.1》，采用CC0许可。",
+          "Rafael Archangel在个人简介中说明自己是一位来自巴西的作曲者。这些作品出自他的器乐专辑《Library Music Vol.1》，并非传统音乐档案。"
+        ],
+        "note": "釜山的楼房仍在池塘后面，安静并不需要把城市抹去。巴西作曲者的器乐陪伴这个日常的城市角落，不被包装成韩国音乐。"
+      }
+    }
+  },
+  {
+    "id": "pf-rafael-thinking",
+    "revision": 1,
+    "curator": "Agent FM",
+    "collection": "independent-sounds",
+    "title": "A Seat by the Shelf",
+    "originalTitle": "Northeast Library reading room washington dc × Thinking",
+    "language": "en",
+    "tags": [
+      "independent-sounds",
+      "rafael",
+      "piano",
+      "instrumental library music",
+      "Brazil"
+    ],
+    "style": "piano",
+    "facts": [
+      {
+        "text": "Northeast Library reading room, Maryland Avenue washington dc",
+        "source": "https://commons.wikimedia.org/wiki/File:Northeast_Library_reading_room_washington_dc.jpg"
+      },
+      {
+        "text": "Thinking is a separate recording in Rafael Archangel’s Library Music Vol.1.",
+        "source": "https://freemusicarchive.org/music/Rafael_Archangel/Library_Music_Vol1/Rafael_Archangel_-_Library_Music_Vol1_-_06_Thinking/"
+      },
+      {
+        "text": "Rafael Archangel describes himself as a composer from Brazil. These pieces belong to his instrumental Library Music Vol.1, not a traditional-music archive.",
+        "source": "https://freemusicarchive.org/music/Rafael_Archangel/bio/"
+      }
+    ],
+    "note": "The room has working tables, warm lamps and people already reading. Thinking needs no grand landscape here; the recording takes the place of a little company at the next table.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-82265787@pf-rafael-thinking"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "书架旁的位置",
+        "facts": [
+          "美国华盛顿特区马里兰大道上的东北图书馆阅览室。",
+          "《Thinking》是Rafael Archangel《Library Music Vol.1》中的另一首独立录音。",
+          "Rafael Archangel在个人简介中说明自己是一位来自巴西的作曲者。这些作品出自他的器乐专辑《Library Music Vol.1》，并非传统音乐档案。"
+        ],
+        "note": "房间里有工作桌、暖色灯，还有已经在读书的人。《Thinking》在这里不需要壮阔风景，只像邻桌的一点陪伴。"
+      }
+    }
+  },
+  {
+    "id": "pf-john-river",
+    "revision": 1,
+    "curator": "Agent FM",
+    "collection": "independent-sounds",
+    "title": "River from Above",
+    "originalTitle": "Ruvuma River × riverside-retreat-master",
+    "language": "en",
+    "tags": [
+      "independent-sounds",
+      "john",
+      "ambient",
+      "ambient sound design",
+      "Cape Town, South Africa"
+    ],
+    "style": "ambient",
+    "facts": [
+      {
+        "text": "Earth observation taken during a day pass by the Expedition 37 crew. Per Twitter message: Ruvuma River,  Tanzania and Mozambique.",
+        "source": "https://images.nasa.gov/details/iss037e012278"
+      },
+      {
+        "text": "Riverside-retreat-master is a four-minute track in John Bartmann’s 2021 Straylight Drones collection.",
+        "source": "https://freemusicarchive.org/music/John_Bartmann/100-ambient-atmospheric-soundtracks-straylight-drones-collection/riverside-retreat-master/"
+      },
+      {
+        "text": "John Bartmann is a Cape Town-based creator of instrumental music for film, games and podcasts. This selection is contemporary ambient production.",
+        "source": "https://johnbartmann.bandcamp.com/"
+      }
+    ],
+    "note": "From orbit, the Ruvuma River is a line among clouds rather than a destination. A sustained ambient setting suits that distance. This is not a field recording of the river or a claim about local musical tradition.",
+    "media": {
+      "kind": "edition",
+      "edition": "nasa-iss037e012278@pf-john-river"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "从上方看河",
+        "facts": [
+          "原始说明将画面标为坦桑尼亚与莫桑比克之间的鲁伍马河。 NASA档案日期：2013-10-12；摄影：Karen Nyberg。",
+          "《riverside-retreat-master》是John Bartmann于2021年发布的《Straylight Drones》曲集中一首约四分钟的作品。",
+          "John Bartmann在南非开普敦创作影视、游戏和播客器乐。本次选择的是他的当代氛围作品。"
+        ],
+        "note": "从轨道上看，鲁伍马河是云间的一条线，而不是一个目的地。持续的氛围适合这段距离；这不是河流的现场录音，也不代表当地音乐传统。"
+      }
+    }
+  },
+  {
+    "id": "pf-john-shores",
+    "revision": 1,
+    "curator": "Agent FM",
+    "collection": "independent-sounds",
+    "title": "Where Sand Meets Sea",
+    "originalTitle": "The coast of Namibia × memory-shores-master",
+    "language": "en",
+    "tags": [
+      "independent-sounds",
+      "john",
+      "ambient",
+      "ambient sound design",
+      "Cape Town, South Africa"
+    ],
+    "style": "ambient",
+    "facts": [
+      {
+        "text": "Earth observation taken during a day pass by an Expedition 37 crew member on board the International Space Station (ISS). Identified via Twitter message as west central coast of Namibia.",
+        "source": "https://images.nasa.gov/details/iss037e020852"
+      },
+      {
+        "text": "Memory-shores-master is another distinct recording from John Bartmann’s Straylight Drones collection, shared under CC0.",
+        "source": "https://freemusicarchive.org/music/John_Bartmann/100-ambient-atmospheric-soundtracks-straylight-drones-collection/memory-shores-master/"
+      },
+      {
+        "text": "John Bartmann is a Cape Town-based creator of instrumental music for film, games and podcasts. This selection is contemporary ambient production.",
+        "source": "https://johnbartmann.bandcamp.com/"
+      }
+    ],
+    "note": "Namibia’s coast is reduced to two broad surfaces. Rather than illustrate waves, the ambient track lets that meeting remain almost abstract, useful when your attention belongs elsewhere.",
+    "media": {
+      "kind": "edition",
+      "edition": "nasa-iss037e020852@pf-john-shores"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "沙与海相接",
+        "facts": [
+          "NASA说明依据宇航员发布的文字将这里识别为纳米比亚中西部海岸。 NASA档案日期：2013-10-25；摄影：Karen Nyberg。",
+          "《memory-shores-master》是John Bartmann《Straylight Drones》曲集中的另一首独立录音，以CC0分享。",
+          "John Bartmann在南非开普敦创作影视、游戏和播客器乐。本次选择的是他的当代氛围作品。"
+        ],
+        "note": "纳米比亚海岸在画面里只剩两大片面。氛围作品不去模拟浪声，让这次相接保持近乎抽象的样子，适合注意力正放在别处的时候。"
+      }
+    }
+  },
+  {
+    "id": "pf-scott-solace",
+    "revision": 1,
+    "curator": "Agent FM",
+    "collection": "independent-sounds",
+    "title": "Room for the Tide",
+    "originalTitle": "Peterborough (AU), Port Campbell National Park, Worm Bay -- 2019 -- 0863 × Solace",
+    "language": "en",
+    "tags": [
+      "independent-sounds",
+      "scott",
+      "ambient",
+      "ambient neoclassical",
+      "Brisbane, Australia"
+    ],
+    "style": "ambient",
+    "facts": [
+      {
+        "text": "Worm Bay is photographed in Port Campbell National Park, Victoria, Australia.",
+        "source": "https://commons.wikimedia.org/wiki/File:Peterborough_(AU),_Port_Campbell_National_Park,_Worm_Bay_--_2019_--_0863.jpg"
+      },
+      {
+        "text": "Buckley describes Solace as a calm setting of strings and synth around piano and glass marimba; it was published in 2020.",
+        "source": "https://www.scottbuckley.com.au/library/solace/"
+      },
+      {
+        "text": "Scott Buckley is an Australian composer and arranger based in Brisbane, combining orchestral writing with electronic textures.",
+        "source": "https://www.scottbuckley.com.au/about/"
+      }
+    ],
+    "note": "The long exposure makes the water soft while the rocks keep their weight. The piano-and-marimba setting gives us similarly distinct points inside a broader atmosphere; neither needs to follow the other literally.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-84344084@pf-scott-solace"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "给潮水留地方",
+        "facts": [
+          "澳大利亚维多利亚州Peterborough附近、坎贝尔港国家公园内的Worm Bay。",
+          "Buckley将2020年发布的《Solace》描述为以弦乐、合成器陪衬钢琴与玻璃马林巴的平静作品。",
+          "Scott Buckley是常驻布里斯班的澳大利亚作曲者与编曲者，其创作结合管弦写作与电子声音。"
+        ],
+        "note": "长曝光把水变得柔软，岩石却仍有重量。钢琴和马林巴也可以在宽阔氛围中提供清楚的落点，不必让声音逐一模仿画面。"
+      }
+    }
+  },
+  {
+    "id": "pf-scott-moment",
+    "revision": 1,
+    "curator": "Agent FM",
+    "collection": "independent-sounds",
+    "title": "Under the Dome",
+    "originalTitle": "State Library Victoria, La Trobe Reading Room Dome × In This Moment",
+    "language": "en",
+    "tags": [
+      "independent-sounds",
+      "scott",
+      "piano",
+      "ambient neoclassical",
+      "Brisbane, Australia"
+    ],
+    "style": "piano",
+    "facts": [
+      {
+        "text": "State Library Victoria, La Trobe Reading Room Dome",
+        "source": "https://commons.wikimedia.org/wiki/File:State_Library_Victoria,_La_Trobe_Reading_Room_Dome.jpg"
+      },
+      {
+        "text": "In This Moment is Buckley’s 2026 work for intimate solo piano.",
+        "source": "https://www.scottbuckley.com.au/library/in-this-moment/"
+      },
+      {
+        "text": "Scott Buckley is an Australian composer and arranger based in Brisbane, combining orchestral writing with electronic textures.",
+        "source": "https://www.scottbuckley.com.au/about/"
+      }
+    ],
+    "note": "The dome is monumental; the music is deliberately small. That difference is the reason to pair them: even in a large public room, your work can remain a private, manageable thing.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-174123061@pf-scott-moment"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "穹顶之下",
+        "facts": [
+          "澳大利亚维多利亚州立图书馆拉筹伯阅览室的穹顶。",
+          "《In This Moment》是Buckley于2026年发布的近距离感独奏钢琴作品。",
+          "Scott Buckley是常驻布里斯班的澳大利亚作曲者与编曲者，其创作结合管弦写作与电子声音。"
+        ],
+        "note": "穹顶很宏大，音乐却刻意选得小。正因为这个差别才把它们放在一起：即使身处宽阔的公共空间，手上的工作也可以是私人的、做得过来的事。"
+      }
+    }
+  },
+  {
+    "id": "pf-peritune-minamo",
+    "revision": 1,
+    "curator": "Agent FM",
+    "collection": "independent-sounds",
+    "title": "Beyond the Footbridge",
+    "originalTitle": "Footbridge over a pond in Shinjuku Gyoen National Garden and NTT DoCoMo Yoyogi Building, Tokyo, Japan × Minamo",
+    "language": "en",
+    "tags": [
+      "independent-sounds",
+      "peritune",
+      "piano",
+      "Japanese independent game music",
+      "Japan"
+    ],
+    "style": "piano",
+    "facts": [
+      {
+        "text": "Footbridge over a pond in Shinjuku Gyoen National Garden and NTT DoCoMo Yoyogi Building in the background, a sunny day with blue sky, Tokyo, Japan.",
+        "source": "https://commons.wikimedia.org/wiki/File:Footbridge_over_a_pond_in_Shinjuku_Gyoen_National_Garden_and_NTT_DoCoMo_Yoyogi_Building,_Tokyo,_Japan.jpg"
+      },
+      {
+        "text": "Minamo was published in 2016 as a relaxed Japanese-style piano piece at 85 BPM; the listed instrumentation includes koto and glass marimba.",
+        "source": "https://peritune.com/blog/2016/06/12/minamo/"
+      },
+      {
+        "text": "PeriTune is Sei Mutsuki’s project, founded in 2015 after work in independent music circles.",
+        "source": "https://peritune.com/about/"
+      }
+    ],
+    "note": "Shinjuku’s tower stays in view behind the garden. A contemporary Japanese game-music creator belongs beside that mixture of garden and city; there is no need to make the scene look timeless.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-81896952@pf-peritune-minamo"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "小桥那边",
+        "facts": [
+          "日本东京新宿御苑的池塘小桥，背景中可见NTT DoCoMo代代木大厦。",
+          "《Minamo》于2016年发布，作者说明为85 BPM的舒缓和风钢琴曲，列出的配器包含琴与玻璃马林巴。",
+          "PeriTune由むつき醒（Sei Mutsuki）在同人音乐活动之后于2015年创立。"
+        ],
+        "note": "新宿的高楼留在园林后方。当代日本游戏音乐创作者的作品，正适合这个园林与城市并存的画面，不必把它装扮成没有年代的古景。"
+      }
+    }
+  },
+  {
+    "id": "pf-peritune-ocean",
+    "revision": 1,
+    "curator": "Agent FM",
+    "collection": "independent-sounds",
+    "title": "Between Two Rocks",
+    "originalTitle": "Takado Coast 01 × Quiet_Ocean",
+    "language": "en",
+    "tags": [
+      "independent-sounds",
+      "peritune",
+      "ambient",
+      "Japanese independent game music",
+      "Japan"
+    ],
+    "style": "ambient",
+    "facts": [
+      {
+        "text": "This is a landscape of Takado coast in Takahagi, Ibaraki, Japan.",
+        "source": "https://commons.wikimedia.org/wiki/File:Takado_Coast_01.jpg"
+      },
+      {
+        "text": "Quiet_Ocean was published in 2023 as ocean-themed ambient music. This edition uses the creator’s no-percussion MP3 variant.",
+        "source": "https://peritune.com/blog/2023/08/09/quiet_ocean/"
+      },
+      {
+        "text": "PeriTune is Sei Mutsuki’s project, founded in 2015 after work in independent music circles.",
+        "source": "https://peritune.com/about/"
+      }
+    ],
+    "note": "The gap between the rocks matters as much as the rocks themselves. Choosing the no-percussion version keeps that open space in the foreground; the real coast and the imagined sea need not be identical.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-17173410@pf-peritune-ocean"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "两块岩石之间",
+        "facts": [
+          "日本茨城县高萩市的高户海岸景观。",
+          "《Quiet_Ocean》于2023年发布，是海洋意象的氛围作品；这里使用作者提供的无打击乐MP3版本。",
+          "PeriTune由むつき醒（Sei Mutsuki）在同人音乐活动之后于2015年创立。"
+        ],
+        "note": "两块岩石之间的空处，与岩石本身一样重要。选择无打击乐版本，是想把这段空处留下来；真实海岸与想象中的海不必完全一致。"
+      }
+    }
+  },
+  {
+    "id": "pf-alex-autumn",
+    "revision": 1,
+    "curator": "Agent FM",
+    "collection": "independent-sounds",
+    "title": "Before the Next Step",
+    "originalTitle": "Boat with autumny mountains at Digermulen, Hinnøya, Norway, Norway, 2015 September × Autumn Walk",
+    "language": "en",
+    "tags": [
+      "independent-sounds",
+      "alex",
+      "acoustic",
+      "fantasy and retro game music",
+      "Norway"
+    ],
+    "style": "acoustic",
+    "facts": [
+      {
+        "text": "A small boat at Digermulen port, Hinnøya, Norway in 2015 September. The mountains Litlkorsnestinden and Korsnestinden in the background are located on island Austvågøya.",
+        "source": "https://commons.wikimedia.org/wiki/File:Boat_with_autumny_mountains_at_Digermulen,_Hinn%C3%B8ya,_Norway,_Norway,_2015_September.jpg"
+      },
+      {
+        "text": "Autumn Walk is listed by Nakarada as an 88 BPM fantasy, Celtic-influenced ambient piece with a relaxed mood.",
+        "source": "https://creatorchords.com/music/autumn-walk/"
+      },
+      {
+        "text": "Alexander Nakarada is a Norwegian composer whose catalogue includes contemporary fantasy, folk-influenced and retro game music.",
+        "source": "https://creatorchords.com/"
+      }
+    ],
+    "note": "The little boat is motionless beneath the autumn mountains. A walking piece beside a resting boat makes a useful pause: movement can be present without requiring you to go anywhere.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-44780276@pf-alex-autumn"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "下一步之前",
+        "facts": [
+          "挪威Digermulen港口的一艘小船，背景山峰位于Austvågøya岛。",
+          "Nakarada将《Autumn Walk》标注为88 BPM、带凯尔特影响的奇幻氛围作品，情绪标签包含relaxed。",
+          "Alexander Nakarada是一位挪威作曲者，其作品包含当代奇幻、民谣影响与复古游戏音乐。"
+        ],
+        "note": "小船停在秋色的山下。用一首关于行走的作品配一艘休息的船，是想留下一个停顿：可以有行进感，但不用急着去哪里。"
+      }
+    }
+  },
+  {
+    "id": "pf-alex-tavern",
+    "revision": 1,
+    "curator": "Agent FM",
+    "collection": "independent-sounds",
+    "title": "Upstairs",
+    "originalTitle": "Sintel bedroom — first concept × 8-bit Tavern",
+    "language": "en",
+    "tags": [
+      "independent-sounds",
+      "alex",
+      "game",
+      "fantasy and retro game music",
+      "Norway"
+    ],
+    "style": "game",
+    "facts": [
+      {
+        "text": "David Revoy published this environment artwork in his Sintel art-direction gallery. The source identifies it as sintel bedroom — first concept.",
+        "source": "https://www.davidrevoy.com/article45/sintel-art-direction"
+      },
+      {
+        "text": "8-bit Tavern is Nakarada’s 75 BPM retro-game ambient piece, labelled relaxed on the creator’s own page.",
+        "source": "https://creatorchords.com/music/8-bit-tavern/"
+      },
+      {
+        "text": "Alexander Nakarada is a Norwegian composer whose catalogue includes contemporary fantasy, folk-influenced and retro game music.",
+        "source": "https://creatorchords.com/"
+      }
+    ],
+    "note": "Revoy’s overhead room study makes every piece of furniture feel reachable. A restrained retro game setting turns the view into a familiar stopping place, rather than a scene waiting for combat to start.",
+    "media": {
+      "kind": "edition",
+      "edition": "revoy-sintel-environment-09@pf-alex-tavern"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "楼上",
+        "facts": [
+          "David Revoy在《Sintel》美术指导图集中发布了这件作品；页面将其说明为辛特尔卧室的初步概念画。",
+          "《8-bit Tavern》是Nakarada的75 BPM复古游戏氛围作品，作者页面的情绪标签包含relaxed。",
+          "Alexander Nakarada是一位挪威作曲者，其作品包含当代奇幻、民谣影响与复古游戏音乐。"
+        ],
+        "note": "Revoy从上方画房间，家具都像伸手就能碰到。克制的复古游戏声音，让这里成为熟悉的落脚点，而不是等战斗开始的场景。"
+      }
+    }
   }
 ]

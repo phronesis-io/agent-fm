@@ -94,7 +94,7 @@ A good pairing should hold up through a stretch of actual work. Suggestions for 
 
 [Open an issue](https://github.com/phronesis-io/agent-fm/issues) with the artwork and recording links, their creators and reuse terms, and a few specific words about why they belong together. For playback problems, include the pairing or station, your browser, and what happened. Keep personal chats and pairing tokens out of reports.
 
-The collection currently contains **235 contemporary pairings and 100 earlier selections**, plus four YouTube radio seeds. Pairings reuse recordings; 335 pairings does not mean 335 distinct tracks. Full human audition and long-session listening review are ongoing. Community publishing inside FM is a future direction.
+The collection currently contains **455 local pairings**, plus four YouTube radio seeds: 235 contemporary pairings, 100 earlier selections, 100 sound-first previews, and 20 new Independent sounds pairings. The latest collection adds 20 distinct recordings by 10 creators, including low-whistle performance, independent ambient and game music. Pairings reuse recordings; 455 pairings does not mean 455 distinct tracks. Full human audition and long-session listening review are ongoing. Community publishing inside FM is a future direction.
 
 ## Development
 

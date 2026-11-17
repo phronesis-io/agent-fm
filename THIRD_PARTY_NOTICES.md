@@ -866,3 +866,47 @@ All recordings retain the licence identified below, including the transcoded ver
 - **Nocturne in E-flat major, Op. 9 No. 2** — Frédéric Chopin · Membeth, piano. [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [recording source](https://commons.wikimedia.org/wiki/File:Chopin.Nocturne.Es-Dur.opus.9.2.ogg). File: `web/sf-nocturne.mp3`. MP3 conversion at 160 kbps; constant gain -1.11 dB, no compression, trimming or vocal removal.
 
 - **Captaine Hume’s Pavan** — Tobias Hume · Phillip W. Serna, viola da gamba. [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/); [recording source](https://commons.wikimedia.org/wiki/File:Captaine_Hume%E2%80%99s_Pavan%2C_No.46%2C_the_First_Part_of_Ayres_%281605%29.ogg). File: `web/sf-hume.mp3`. MP3 conversion at 160 kbps; constant gain -0.05 dB, no compression, trimming or vocal removal.
+
+## Independent sounds — 2026-11-17
+
+These media keep their own licenses; they are not relicensed under the code’s MIT license. Credits are also visible in the player. These are independent contemporary works, not claims to represent a whole country.
+
+- **Interplanetary Forest** — Meydän. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); [recording source](https://freemusicarchive.org/music/Meydan/Interplanetary_Forest/Meydn_-_Interplanetary_Forest_-_01_Interplanetary_Forest/). Transcoded to MP3 at 160 kbps; constant gain -7.99 dB. No composition, compression, trimming or vocal removal. Adapted recording retains its source licence.
+
+- **Insomnia Pt. 2** — Meydän. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); [recording source](https://freemusicarchive.org/music/Meydan/For_Creators/Insomnia_Pt_2/). Transcoded to MP3 at 160 kbps; constant gain -9.3 dB. No composition, compression, trimming or vocal removal. Adapted recording retains its source licence.
+
+- **Curves** — Jahzzar. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); [recording source](https://freemusicarchive.org/music/Jahzzar/handmade/Curves/). Transcoded to MP3 at 160 kbps; constant gain -3.16 dB. No composition, compression, trimming or vocal removal. Adapted recording retains its source licence.
+
+- **Dew** — Jahzzar. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); [recording source](https://freemusicarchive.org/music/Jahzzar/handmade/Dew/). Transcoded to MP3 at 160 kbps; constant gain -3.07 dB. No composition, compression, trimming or vocal removal. Adapted recording retains its source licence.
+
+- **The Silent Grove** — Axletree. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0); [recording source](https://freemusicarchive.org/music/Axletree/music-from-a-hampshire-farm/the-silent-grove/). Transcoded to MP3 at 160 kbps; constant gain -5.31 dB. No composition, compression, trimming or vocal removal. Adapted recording retains its source licence.
+
+- **Amhrán na Leabhar (Song of the books)** — Axletree. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0); [recording source](https://freemusicarchive.org/music/Axletree/meditations-on-a-low-whistle-atmospheric-flute-ongoing-project/amhran-na-leabhar-song-of-the-books/). Transcoded to MP3 at 160 kbps; constant gain -10.7 dB. No composition, compression, trimming or vocal removal. Adapted recording retains its source licence.
+
+- **Slow Lights** — Lee Rosevere. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0); [recording source](https://freemusicarchive.org/music/lee-rosevere/music-for-podcasts-ambient/slow-lights/). Transcoded to MP3 at 160 kbps; constant gain -3.53 dB. No composition, compression, trimming or vocal removal. Adapted recording retains its source licence.
+
+- **Featherlight** — Lee Rosevere. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0); [recording source](https://freemusicarchive.org/music/lee-rosevere/music-for-podcasts-ambient/featherlight/). Transcoded to MP3 at 160 kbps; constant gain -3.52 dB. No composition, compression, trimming or vocal removal. Adapted recording retains its source licence.
+
+- **Quiet Saturday** — Komiku. [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [recording source](https://freemusicarchive.org/music/Komiku/Poupis_incredible_adventures_/Komiku_-_Poupis_incredible_adventures__-_57_Quiet_Saturday/). Transcoded to MP3 at 160 kbps; constant gain 0 dB. No composition, compression, trimming or vocal removal. Adapted recording retains its source licence.
+
+- **Swimming with the fish** — Komiku. [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [recording source](https://freemusicarchive.org/music/Komiku/Poupis_incredible_adventures_/Komiku_-_Poupis_incredible_adventures__-_39_Swimming_with_the_fish/). Transcoded to MP3 at 160 kbps; constant gain 0 dB. No composition, compression, trimming or vocal removal. Adapted recording retains its source licence.
+
+- **Calm Down** — Rafael Archangel. [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [recording source](https://freemusicarchive.org/music/Rafael_Archangel/Library_Music_Vol1/Rafael_Archangel_-_Library_Music_Vol1_-_07_Calm_Down/). Transcoded to MP3 at 160 kbps; constant gain -3.61 dB. No composition, compression, trimming or vocal removal. Adapted recording retains its source licence.
+
+- **Thinking** — Rafael Archangel. [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [recording source](https://freemusicarchive.org/music/Rafael_Archangel/Library_Music_Vol1/Rafael_Archangel_-_Library_Music_Vol1_-_06_Thinking/). Transcoded to MP3 at 160 kbps; constant gain -0.95 dB. No composition, compression, trimming or vocal removal. Adapted recording retains its source licence.
+
+- **riverside-retreat-master** — John Bartmann. [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [recording source](https://freemusicarchive.org/music/John_Bartmann/100-ambient-atmospheric-soundtracks-straylight-drones-collection/riverside-retreat-master/). Transcoded to MP3 at 160 kbps; constant gain -2.01 dB. No composition, compression, trimming or vocal removal. Adapted recording retains its source licence.
+
+- **memory-shores-master** — John Bartmann. [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [recording source](https://freemusicarchive.org/music/John_Bartmann/100-ambient-atmospheric-soundtracks-straylight-drones-collection/memory-shores-master/). Transcoded to MP3 at 160 kbps; constant gain -4.84 dB. No composition, compression, trimming or vocal removal. Adapted recording retains its source licence.
+
+- **Solace** — Scott Buckley. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); [recording source](https://www.scottbuckley.com.au/library/solace/). Transcoded to MP3 at 160 kbps; constant gain -5.8 dB. No composition, compression, trimming or vocal removal. Adapted recording retains its source licence.
+
+- **In This Moment** — Scott Buckley. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); [recording source](https://www.scottbuckley.com.au/library/in-this-moment/). Transcoded to MP3 at 160 kbps; constant gain -2.91 dB. No composition, compression, trimming or vocal removal. Adapted recording retains its source licence.
+
+- **Minamo** — PeriTune / Sei Mutsuki. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); [recording source](https://peritune.com/blog/2016/06/12/minamo/). Transcoded to MP3 at 160 kbps; constant gain -8.98 dB. No composition, compression, trimming or vocal removal. Adapted recording retains its source licence.
+
+- **Quiet_Ocean** — PeriTune / Sei Mutsuki. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); [recording source](https://peritune.com/blog/2023/08/09/quiet_ocean/). Transcoded to MP3 at 160 kbps; constant gain -7.52 dB. No composition, compression, trimming or vocal removal. Adapted recording retains its source licence.
+
+- **Autumn Walk** — Alexander Nakarada. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); [recording source](https://creatorchords.com/music/autumn-walk/). Transcoded to MP3 at 160 kbps; constant gain -5.02 dB. No composition, compression, trimming or vocal removal. Adapted recording retains its source licence.
+
+- **8-bit Tavern** — Alexander Nakarada. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); [recording source](https://creatorchords.com/music/8-bit-tavern/). Transcoded to MP3 at 160 kbps; constant gain -9.62 dB. No composition, compression, trimming or vocal removal. Adapted recording retains its source licence.

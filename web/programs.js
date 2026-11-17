@@ -16,6 +16,7 @@ export function programText(program, language = "en") {
 
 /** Prepared programmes are queued explicitly, never started by preparation. */
 const collectionLabels = {
+  "independent-sounds": ["Independent sounds", "独立之声"],
   "sound-first-preview": ["New sounds · preview", "新声 · 试听"],
   "contemporary-pairings": ["Elsewhere", "别处"],
   "first-light": ["First collection", "首批编选"],
@@ -26,7 +27,7 @@ const styles = {
   jazz: ["Jazz", "爵士"], electronic: ["Electronic", "电子"], beats: ["Beats", "节拍"], game: ["Game scores", "游戏配乐"],
 };
 const isSelected = p => p.provider === "editorial" && Object.hasOwn(collectionLabels,p.collection);
-const collectionRank = p => !isSelected(p) ? 3 : p.collection === "contemporary-pairings" ? 0 : p.collection === "first-light" ? 1 : 2;
+const collectionRank = p => !isSelected(p) ? 3 : p.collection === "independent-sounds" ? -1 : p.collection === "contemporary-pairings" ? 0 : p.collection === "first-light" ? 1 : 2;
 
 export function programShelf({api, language, status, editions = {}, sounds = {}, onSwitch = ()=>{}}) {
   const container = document.querySelector("#prepared-programs");

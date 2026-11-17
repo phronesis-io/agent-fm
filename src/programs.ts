@@ -138,7 +138,7 @@ export async function programCommand(store: Store, action: string, body: any = {
   const existing = listPrograms(store.read()).find(p=>p.id===program.id);
   if (existing && JSON.stringify(normalizeProgram(existing)) !== JSON.stringify(program))
     throw Error("Program id already holds different content; use a new id");
-  if (!existing && ["first-light","focus-library","contemporary-pairings","sound-first-preview"].includes(program.collection ?? ""))
+  if (!existing && ["first-light","focus-library","contemporary-pairings","sound-first-preview","independent-sounds"].includes(program.collection ?? ""))
     throw Error("This collection is reserved for bundled editorial programmes");
   if (action==="prepare" && existing) return {program:existing,reused:true};
   const epoch = store.read().settings.epoch;

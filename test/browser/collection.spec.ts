@@ -32,7 +32,7 @@ test("the bundled library resolves to their own images and recordings, with time
   }
   await page.locator("#station-open").click();
   await page.locator("#prepared-programs > summary").click();
-  await expect(page.locator("#program-heading")).toContainText("435");
+  await expect(page.locator("#program-heading")).toContainText("455");
   const first=page.locator("#program-list > details").first();
   await first.locator(":scope > summary").click();
   await expect(first.locator(".program-editorial")).not.toHaveAttribute("open","");

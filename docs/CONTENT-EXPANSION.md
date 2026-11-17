@@ -1,6 +1,6 @@
 # Sound-first cultural expansion
 
-Status: research and audit; no new selections released. Date: 2026-11-17.
+Status: 100 playable previews delivered locally; human audition remains pending. Date: 2026-11-17.
 
 ## Product contract
 
@@ -41,3 +41,11 @@ Research files are not runtime catalogue inputs. New media remains outside the d
 ## First playable preview
 
 Six explicit pairings use one new duduk recording and two existing guqin/accordion recordings. The shelf exposes “New sounds · preview”; the room labels them Preview, not Selected. This is not completion of the 100-pair target. Human audition is pending. The new sound is curatedOnly and the new collection is excluded from automatic rotation. Playback, source/translation toggling and timer synchronization must pass browser checks before local release.
+
+## Complete first delivery — 100 pairs
+
+Deliver 100 total pairs in sound-first-preview (the six already installed plus 94 additions), not another small instalment. Target at least 30 newly bundled recordings across the delivery, with no new recording used more than four times. Prefer instrumental acoustic, quiet jazz, piano, early music, ambient electronics and restrained game timbres. Visual partners span contemporary photography, open-film/game art and historical art; do not confuse the place shown with the recording’s cultural origin.
+
+Each added pair has an independently chosen visual partner and an English editorial rationale with a separate Chinese translation. Reuse the verified visual fact and source, add a recording-specific sourced fact, retain original titles and explicit translation. No automatic model calls. Human listening remains pending: all 100 are directly playable previews, excluded from default rotation. The count is an inventory commitment, not a claim of exhaustive cultural coverage or completed human audition.
+
+Acceptance: 100 unique edition/sound pairs, at least 30 new recordings against the original 48-track baseline, all files fully decoded, duration/hash/gain/source/license recorded, image decode and actual browser audio advancement tested for every pair, translations reversible, timer pause/resume synchronized. Default rotation membership and existing sessions must remain unchanged. Install on the fixed local address after an active Pomodoro ends, verify live inventory and persistent conversation, retain rollback release.

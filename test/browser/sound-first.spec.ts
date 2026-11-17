@@ -4,17 +4,19 @@ import {mkdtempSync,rmSync} from 'node:fs';
 import {join,resolve} from 'node:path';
 import {tmpdir} from 'node:os';
 import programs from '../../web/programs.json' with {type:'json'};
+import sounds from '../../web/sounds.json' with {type:'json'};
 import {editionPool} from '../../src/rotation.ts';
 test('sound-first previews play, translate, pause and stay out of automatic rotation',async({page})=>{
+ test.setTimeout(300000);
  const dir=mkdtempSync(join(tmpdir(),'fm-preview-'));const app=await serve(dir,resolve('web'),{connect:false});
  const batch=programs.filter(p=>p.collection==='sound-first-preview');
  const errors:string[]=[];page.on('pageerror',e=>errors.push(e.message));
  try{
   app.store.update(s=>{s.settings.language='zh-CN';});
-  for(const library of ['contemporary','museum','all'] as const){const s=structuredClone(app.store.read());s.settings.visualLibrary=library;expect(editionPool(s,'field').some(e=>e.endsWith('@sergo-duduk'))).toBe(false);}
+  for(const library of ['contemporary','museum','all'] as const){const s=structuredClone(app.store.read());s.settings.visualLibrary=library;expect(editionPool(s,'field').some(e=>Object.keys(sounds).some(id=>(id.startsWith('sf-')||id==='sergo-duduk') && e.endsWith('@'+id)))).toBe(false);}
   await page.goto(app.issueLink());
   await page.locator('#station-open').click();await page.locator('#prepared-programs > summary').click();await page.locator('#program-search').fill('新声');
-  await expect(page.locator('#program-list > details')).toHaveCount(6);
+  await expect(page.locator('#program-list > details')).toHaveCount(100);
   for(const p of batch){
    await page.evaluate(async id=>{for(const [url,data] of [['/api/timer',{action:'end'}],['/api/programs/select',{id}],['/api/timer',{action:'start',minutes:25}]] as const){const r=await fetch(url,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(data)});if(!r.ok)throw Error(await r.text());}},p.id);
    const sound=p.media.edition!.split('@')[1];

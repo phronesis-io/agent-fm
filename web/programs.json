@@ -13487,5 +13487,3765 @@
         "note": "巴洛克乐章、当代手风琴改编和新加坡夜景属于不同的时间。将它们放在一起，是想把城市留在窗外，让录音提供另一种步速。"
       }
     }
+  },
+  {
+    "id": "sound-first-007",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Petals in Clay",
+    "originalTitle": "Wall Tile with Lotus Blossom × Eastern Thought",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Islamic Art",
+      "ambient"
+    ],
+    "style": "ambient",
+    "facts": [
+      {
+        "text": "Wall Tile with Lotus Blossom — c. 1300–50. Catalogue attribution: Iran, probably Sultanabad, Ilkhanid period (1256–1353).",
+        "source": "https://clevelandart.org/art/1915.645"
+      },
+      {
+        "text": "The creator credits strings, metallic sounds and percussion in this contemporary instrumental.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100682"
+      }
+    ],
+    "note": "The lotus tile gives the metallic percussion a small, tangible surface to inhabit. This is a contemporary scoring experiment beside an Iranian object, not a reconstruction of its historical sound.",
+    "media": {
+      "kind": "edition",
+      "edition": "cma-95123@sf-eastern-thought"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "泥中的花瓣",
+        "facts": [
+          "莲花纹墙砖，约1300—1350年；馆方归为伊朗伊儿汗国时期，可能产自苏丹纳巴德。",
+          "作者为这首当代器乐列出的配器包括弦乐、金属音色与打击乐。"
+        ],
+        "note": "莲花瓷砖让金属打击乐有了一小块可以落脚的表面。这是当代配乐与伊朗器物的相遇，不是历史声音的复原。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-008",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "After the City",
+    "originalTitle": "environments-14-Ishtar-ziggurat.jpg × Eastern Thought",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Open-film Concept Art",
+      "ambient"
+    ],
+    "style": "ambient",
+    "facts": [
+      {
+        "text": "David Revoy published this environment artwork in his Sintel art-direction gallery. The source identifies it as ishtar — abandoned ziggurat.",
+        "source": "https://www.davidrevoy.com/article45/sintel-art-direction"
+      },
+      {
+        "text": "The creator credits strings, metallic sounds and percussion in this contemporary instrumental.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100682"
+      }
+    ],
+    "note": "An abandoned ziggurat invites a soundtrack, but not a battle scene. The strings and small percussion offer a measured way through the architecture; the recording's changes may suit drawing better than close reading.",
+    "media": {
+      "kind": "edition",
+      "edition": "revoy-sintel-environment-14@sf-eastern-thought"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "城去之后",
+        "facts": [
+          "David Revoy在《Sintel》美术指导图集中发布了这件作品；页面将其说明为伊什塔尔废弃神塔的概念画。",
+          "作者为这首当代器乐列出的配器包括弦乐、金属音色与打击乐。"
+        ],
+        "note": "废弃的塔庙可以有声音，却不必变成战场。弦乐和打击乐为建筑提供步速；曲中的变化也许更适合画图，而非逐字阅读。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-009",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Stone and Metal",
+    "originalTitle": "Exteriors of Cave 22, Ellora Caves, Maharashtra, India 01.jpg × Eastern Thought",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Architecture",
+      "ambient"
+    ],
+    "style": "ambient",
+    "facts": [
+      {
+        "text": "Exteriors of Cave 22, Ellora Caves, Maharashtra, India. The Ellora Caves are a UNESCO World Heritage Site in Aurangabad, India. It is one of the largest rock-cut cave complexes in the world, with artwork dating from AD 600–1000, including Hindu, Buddhist, and Jain caves. The complex is a leading example of Indian rock-cut architecture.",
+        "source": "https://commons.wikimedia.org/wiki/File:Exteriors_of_Cave_22,_Ellora_Caves,_Maharashtra,_India_01.jpg"
+      },
+      {
+        "text": "The creator credits strings, metallic sounds and percussion in this contemporary instrumental.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100682"
+      }
+    ],
+    "note": "Ellora's stone exterior and this modern string-and-metal score meet through material contrast. The photograph supplies the weight; the percussion introduces movement without inventing a ritual for the site.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-171378954@sf-eastern-thought"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "石与金属",
+        "facts": [
+          "印度马哈拉施特拉邦埃洛拉石窟第22窟的外观。",
+          "作者为这首当代器乐列出的配器包括弦乐、金属音色与打击乐。"
+        ],
+        "note": "埃洛拉的石壁与这段当代弦乐、金属音色相遇，靠的是材质的差别。照片有重量，打击乐带来活动，不替遗址编造仪式。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-010",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "A House to Return To",
+    "originalTitle": "The house of Spring × Dreams Become Real",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Open-film Concept Art",
+      "ambient"
+    ],
+    "style": "ambient",
+    "facts": [
+      {
+        "text": "This house concept belongs to an opening sequence removed before the production of Spring.",
+        "source": "https://www.davidrevoy.com/article712/spring-open-movie-character-design-and-concept-art"
+      },
+      {
+        "text": "MacLeod's 2015 release combines piano with synthesizers; the creator lists a tempo of 60 beats per minute.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1500027"
+      }
+    ],
+    "note": "The little house is a place within a film that has yet to move. Piano surrounded by synthesized detail lets the concept painting remain unfinished in the useful sense: there is room for your own afternoon inside it.",
+    "media": {
+      "kind": "edition",
+      "edition": "revoy-spring-spring-house-and-waterfall-chime@sf-dreams-become-real"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "可归的房子",
+        "facts": [
+          "这张屋舍概念画属于《Spring》在制作前删去的开场段落。",
+          "这首2015年发布的作品结合钢琴与合成器；作者标注速度为每分钟60拍。"
+        ],
+        "note": "小房子停在电影尚未动起来的时刻。钢琴周围的电子细节，让概念画保留一种有用的未完成：还容得下你自己的下午。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-011",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Before Sunrise",
+    "originalTitle": "Lake Sylvester during the sunrise, Kahurangi, New Zealand.jpg × Dreams Become Real",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Lakes",
+      "ambient"
+    ],
+    "style": "ambient",
+    "facts": [
+      {
+        "text": "Lake Sylvester during the sunrise. The picture was taken near Iron Lake looking towards Nelson. Kahurangi National Park, New Zealand",
+        "source": "https://commons.wikimedia.org/wiki/File:Lake_Sylvester_during_the_sunrise,_Kahurangi,_New_Zealand.jpg"
+      },
+      {
+        "text": "MacLeod's 2015 release combines piano with synthesizers; the creator lists a tempo of 60 beats per minute.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1500027"
+      }
+    ],
+    "note": "Lake Sylvester is a real landscape, while the recording deliberately blurs piano and electronic space. I like the disagreement: an identifiable place with a sound that never has to locate itself.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-86257138@sf-dreams-become-real"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "日出之前",
+        "facts": [
+          "新西兰卡胡朗吉国家公园的Sylvester湖日出，拍摄位置在Iron Lake附近，朝向Nelson方向。",
+          "这首2015年发布的作品结合钢琴与合成器；作者标注速度为每分钟60拍。"
+        ],
+        "note": "西尔维斯特湖是真实的地点，音乐却把钢琴与电子空间的边界弄模糊了。喜欢它们的分歧：画面有地址，声音不必有。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-012",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "An Older Dream",
+    "originalTitle": "江山臥游圖 × Dreams Become Real",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Chinese Art",
+      "ambient"
+    ],
+    "style": "ambient",
+    "facts": [
+      {
+        "text": "Dream Journey among Rivers and Mountains, no. 90 — 1658. Catalogue attribution: China, Qing dynasty (1644–1911).",
+        "source": "https://clevelandart.org/art/1960.182"
+      },
+      {
+        "text": "MacLeod's 2015 release combines piano with synthesizers; the creator lists a tempo of 60 beats per minute.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1500027"
+      }
+    ],
+    "note": "A dream journey painted in Qing China meets a twenty-first-century piano-and-synth piece. Neither illustrates the other; both make a practical desk feel slightly less confined.",
+    "media": {
+      "kind": "edition",
+      "edition": "cma-136296@sf-dreams-become-real"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "旧时的梦游",
+        "facts": [
+          "《溪山梦游图》第90段，1658年，中国清代。",
+          "这首2015年发布的作品结合钢琴与合成器；作者标注速度为每分钟60拍。"
+        ],
+        "note": "清代画下的梦游，遇见二十一世纪的钢琴与合成器。它们不互相图解，只让眼前的书桌少一点边界。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-013",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Bridge and Skyline",
+    "originalTitle": "Footbridge over a pond in Shinjuku Gyoen National Garden and NTT DoCoMo Yoyogi Building, Tokyo, Japan.jpg × Ishikari Lore",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Gardens",
+      "acoustic"
+    ],
+    "style": "acoustic",
+    "facts": [
+      {
+        "text": "Footbridge over a pond in Shinjuku Gyoen National Garden and NTT DoCoMo Yoyogi Building in the background, a sunny day with blue sky, Tokyo, Japan.",
+        "source": "https://commons.wikimedia.org/wiki/File:Footbridge_over_a_pond_in_Shinjuku_Gyoen_National_Garden_and_NTT_DoCoMo_Yoyogi_Building,_Tokyo,_Japan.jpg"
+      },
+      {
+        "text": "This is a modern composition by Kevin MacLeod, with koto, flute and percussion credited in his catalogue.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100192"
+      }
+    ],
+    "note": "The garden bridge and the tower beyond it keep old and new Tokyo in the same frame. MacLeod's modern koto-and-flute scoring belongs to that mixed present, rather than standing in for an antique Japan.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-81896952@sf-ishikari-lore"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "桥外是城市",
+        "facts": [
+          "日本东京新宿御苑的池塘小桥，背景中可见NTT DoCoMo代代木大厦。",
+          "这是Kevin MacLeod的现代作品，作者目录列出的配器为筝、笛与打击乐。"
+        ],
+        "note": "庭园小桥与远处高楼，让东京的新旧同在一幅照片里。这段现代筝与笛配乐属于这样的混合当下，不拿来代言古代日本。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-014",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Wisteria on Paper",
+    "originalTitle": "Flowers of a Hundred Worlds (Momoyogusa): Wisteria (Fuji) × Ishikari Lore",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Japanese Art",
+      "acoustic"
+    ],
+    "style": "acoustic",
+    "facts": [
+      {
+        "text": "Flowers of a Hundred Worlds (Momoyogusa): Wisteria (Fuji) — 1909–10. Catalogue attribution: Japan, Meiji period (1868–1912).",
+        "source": "https://clevelandart.org/art/1988.23.2.16"
+      },
+      {
+        "text": "This is a modern composition by Kevin MacLeod, with koto, flute and percussion credited in his catalogue.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100192"
+      }
+    ],
+    "note": "The wisteria design asks the eye to follow a hanging line. Plucked koto gives that act a different kind of articulation; the shared point is a line taking shape, not an imagined historical connection.",
+    "media": {
+      "kind": "edition",
+      "edition": "cma-154158@sf-ishikari-lore"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "纸上紫藤",
+        "facts": [
+          "《百々世草》中的紫藤图，1909—1910年，日本明治时期。",
+          "这是Kevin MacLeod的现代作品，作者目录列出的配器为筝、笛与打击乐。"
+        ],
+        "note": "紫藤的线条让视线向下走，筝的拨弦则给这种跟随另一种断句。相遇的是线条的形成，不是臆造的历史联系。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-015",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Snow Between Houses",
+    "originalTitle": "Japanese Snow Village.jpg × Ishikari Lore",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Snow",
+      "acoustic"
+    ],
+    "style": "acoustic",
+    "facts": [
+      {
+        "text": "Japanese Snow Village",
+        "source": "https://commons.wikimedia.org/wiki/File:Japanese_Snow_Village.jpg"
+      },
+      {
+        "text": "This is a modern composition by Kevin MacLeod, with koto, flute and percussion credited in his catalogue.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100192"
+      }
+    ],
+    "note": "A snow village can easily become a postcard of stillness. The flute and percussion keep a little everyday motion in the scene, so this room need not feel frozen while work continues.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-95727264@sf-ishikari-lore"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "屋间的雪",
+        "facts": [
+          "原题将画面描述为日本的雪村，未给出更具体地点。",
+          "这是Kevin MacLeod的现代作品，作者目录列出的配器为筝、笛与打击乐。"
+        ],
+        "note": "雪村很容易只剩明信片式的静。笛和打击乐留下一点日常活动，让工作继续时，这个空间不至于冻住。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-016",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "A Street in Mesilla",
+    "originalTitle": "Calle de Arroyo in Mesilla NM.jpg × Laid Back Guitars",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Streets",
+      "acoustic"
+    ],
+    "style": "acoustic",
+    "facts": [
+      {
+        "text": "The Calle de Arroyo, a quiet street near Mesilla Plaza in Mesilla, New Mexico.",
+        "source": "https://commons.wikimedia.org/wiki/File:Calle_de_Arroyo_in_Mesilla_NM.jpg"
+      },
+      {
+        "text": "MacLeod describes this recording as two Spanish guitars with varied percussion and experiments in reverberation.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100181"
+      }
+    ],
+    "note": "An ordinary street is a better partner here than a spectacular vista. Two guitars make a modest social space beside the buildings: enough company for a desk, without supplying a conversation to follow.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-41139772@sf-laid-back-guitars"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "梅西拉街上",
+        "facts": [
+          "美国新墨西哥州Mesilla广场附近的一条安静街道Calle de Arroyo。",
+          "MacLeod说明这段录音使用两把西班牙吉他、不同的打击乐，并试验混响效果。"
+        ],
+        "note": "普通街道比壮观风景更适合这一次。两把吉他在屋舍旁留下一点与人同处的感觉，陪着书桌，却没有需要跟上的对话。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-017",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "The Road Opens",
+    "originalTitle": "On the road in South Africa 3.jpg × Laid Back Guitars",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Coasts",
+      "acoustic"
+    ],
+    "style": "acoustic",
+    "facts": [
+      {
+        "text": "This is an image with the theme \"Africa on the Move or Transport\" from: South Africa",
+        "source": "https://commons.wikimedia.org/wiki/File:On_the_road_in_South_Africa_3.jpg"
+      },
+      {
+        "text": "MacLeod describes this recording as two Spanish guitars with varied percussion and experiments in reverberation.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100181"
+      }
+    ],
+    "note": "The South African road photograph suggests continuing rather than arriving. I chose the unhurried guitar arrangement to keep that sense of passage available during a long piece of work.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-88809297@sf-laid-back-guitars"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "路展开了",
+        "facts": [
+          "来源将这张南非照片归入“行进中的非洲或交通”主题，未提供更具体的地点说明。",
+          "MacLeod说明这段录音使用两把西班牙吉他、不同的打击乐，并试验混响效果。"
+        ],
+        "note": "南非公路照片让人想到继续走，而非抵达。选择从容的吉他编曲，是想在一段长工作里保留那种向前的感觉。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-018",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "At Worm Bay",
+    "originalTitle": "Peterborough (AU), Port Campbell National Park, Worm Bay -- 2019 -- 0863.jpg × Laid Back Guitars",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Coasts",
+      "acoustic"
+    ],
+    "style": "acoustic",
+    "facts": [
+      {
+        "text": "Worm Bay at Port Campbell National Park, Peterborough, Victoria, AustraliaPort Campbell National Park is located on the south coast of Victoria along the Great Ocean Road and protects a spectacular coastal landscape of limestone, cliffs, caves, and natural bridges.Its geological formation dates back millions of years: over thousands of years, layers of limestone and shells formed caves, gateways, and towers, which were repeatedly eroded by the Southern Ocean. The coast also served as a…",
+        "source": "https://commons.wikimedia.org/wiki/File:Peterborough_(AU),_Port_Campbell_National_Park,_Worm_Bay_--_2019_--_0863.jpg"
+      },
+      {
+        "text": "MacLeod describes this recording as two Spanish guitars with varied percussion and experiments in reverberation.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100181"
+      }
+    ],
+    "note": "The coast does not need a recording of surf to become a place to sit. Guitar makes the shoreline feel inhabited at human scale; it leaves the actual sea to the photograph.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-84344084@sf-laid-back-guitars"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "海湾停一停",
+        "facts": [
+          "澳大利亚维多利亚州Peterborough附近、坎贝尔港国家公园内的Worm Bay。",
+          "MacLeod说明这段录音使用两把西班牙吉他、不同的打击乐，并试验混响效果。"
+        ],
+        "note": "海岸不一定要配海浪录音才适合坐下来。吉他给岸边一点人的尺度，真正的海仍交给照片。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-019",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Island Edge",
+    "originalTitle": "Parque estadual ilha do cardoso-THIAGO CAMPI 02.jpg × Moonlight Beach",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Forests",
+      "acoustic"
+    ],
+    "style": "acoustic",
+    "facts": [
+      {
+        "text": "General Context: Infrared photograph taken at Ilha do Cardoso State Park, documenting the flooding of mangrove areas due to sea-level rise. Because of the infrared technique, the colours are unnatural. The composition is minimalist, divided almost exactly in half between the sky and the water. Foreground (Bottom half of the image): Occupies the entire lower half of the photo. It consists of a flat, smooth, and reflective surface of very shallow water over sand. The colour of this area is a…",
+        "source": "https://commons.wikimedia.org/wiki/File:Parque_estadual_ilha_do_cardoso-THIAGO_CAMPI_02.jpg"
+      },
+      {
+        "text": "Steel drum, marimba, bass and percussion are credited in the creator's listing for this 2020 release.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2000005"
+      }
+    ],
+    "note": "The photograph brings coastal vegetation rather than a resort. Steel drum and marimba add a light pulse, with the caveat that this is a modern production track, not music documented on Ilha do Cardoso.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-169439444@sf-moonlight-beach"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "岛的边缘",
+        "facts": [
+          "这张照片摄于巴西Ilha do Cardoso州立公园；作者注明使用了红外摄影，因此画面色彩并非自然可见光下的颜色。",
+          "这首2020年发布的作品，在作者目录中列出的配器为钢鼓、马林巴、贝斯和打击乐。"
+        ],
+        "note": "照片带来的是海岛植被，不是度假广告。钢鼓与马林巴加一点轻拍，但这是当代制作音乐，并非在卡多索岛采录的声音。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-020",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Shallow Blue",
+    "originalTitle": "Earth Observation × Moonlight Beach",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Earth from orbit",
+      "acoustic"
+    ],
+    "style": "acoustic",
+    "facts": [
+      {
+        "text": "ISS047e069406 (04/20/2016) ---Earth observation image taken by the Expedition 47 crew aboard the International Space Station. This is an oblique south-looking view of the main Bahama island chain.  Cuba is across the entire top of the image, the Florida Peninsula on the right margin. In the Bahamas, the main Andros island is just distinguishable under cloud upper left of center.  Under less cloud is the Abaco Islands in the foreground (middle of pic nearest camera left of center.)",
+        "source": "https://images.nasa.gov/details/iss047e069406"
+      },
+      {
+        "text": "Steel drum, marimba, bass and percussion are credited in the creator's listing for this 2020 release.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2000005"
+      }
+    ],
+    "note": "The Bahamas seen from orbit reduce shoreline to color and shape. Marimba and steel-drum timbres bring the view back toward the body, a useful counterweight to the photograph's impossible distance.",
+    "media": {
+      "kind": "edition",
+      "edition": "nasa-iss047e069406@sf-moonlight-beach"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "浅蓝",
+        "facts": [
+          "NASA说明这是朝南斜望巴哈马主岛链的视角，画面上方可见古巴。 NASA档案日期：2016-04-20；摄影：Jeff Williams。",
+          "这首2020年发布的作品，在作者目录中列出的配器为钢鼓、马林巴、贝斯和打击乐。"
+        ],
+        "note": "轨道上的巴哈马把海岸化成颜色与形状。马林巴与钢鼓的音色把视线稍稍拉回身体，抵住照片中过于遥远的距离。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-021",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Across the Pond",
+    "originalTitle": "Japanese Garden pond Capel Manor College Gardens Enfield London England 01.jpg × Moonlight Beach",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Gardens",
+      "acoustic"
+    ],
+    "style": "acoustic",
+    "facts": [
+      {
+        "text": "Japanese Garden pond at Capel Manor College and Gardens, Bulls Cross, Enfield, London, England.Capel Manor College and Gardens in Enfield is the only Greater London college for 'land based' studies. The gardens, which are open to the public, are tended by students as part of course work.To see the most relevant allied photos, click on Capel Manor College and Gardens, and this uploader's Parks and Gardens photos. You can find image links related to this one in a variety of ways at the very…",
+        "source": "https://commons.wikimedia.org/wiki/File:Japanese_Garden_pond_Capel_Manor_College_Gardens_Enfield_London_England_01.jpg"
+      },
+      {
+        "text": "Steel drum, marimba, bass and percussion are credited in the creator's listing for this 2020 release.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2000005"
+      }
+    ],
+    "note": "A Japanese-style garden in London is already a place where forms travel. A contemporary marimba-led track extends that exchange without claiming that the garden and the music share an origin.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-150134913@sf-moonlight-beach"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "池塘对面",
+        "facts": [
+          "英国伦敦Enfield的Capel Manor学院与花园内，一处日式庭园的池塘。",
+          "这首2020年发布的作品，在作者目录中列出的配器为钢鼓、马林巴、贝斯和打击乐。"
+        ],
+        "note": "伦敦的日式庭园，本就是形式远行后的结果。当代马林巴配乐延续这种交流，不必假装园子与音乐来自同一处。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-022",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Across the Hudson",
+    "originalTitle": "Lower Manhattan from Jersey City September 2020 panorama.jpg × Night in Venice",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Night cities",
+      "jazz"
+    ],
+    "style": "jazz",
+    "facts": [
+      {
+        "text": "Five-segment panorama of Tribute in Light, Lower Manhattan, New York City, as viewed from Exchange Place, Jersey City, New Jersey.",
+        "source": "https://commons.wikimedia.org/wiki/File:Lower_Manhattan_from_Jersey_City_September_2020_panorama.jpg"
+      },
+      {
+        "text": "The credited ensemble is alto saxophone, electric piano, bass and drums; the creator describes processing intended to suggest an older recording.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900056"
+      }
+    ],
+    "note": "The Manhattan skyline is seen from across the water, away from its immediate traffic. The saxophone quartet scoring supplies a nearby room against that faraway city: an evening desk with somewhere to look.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-113759357@sf-night-in-venice"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "哈德逊河对岸",
+        "facts": [
+          "从新泽西州泽西市Exchange Place拍摄曼哈顿下城“光之致敬”的五幅拼接全景。",
+          "配器列为中音萨克斯、电钢琴、贝斯和鼓；作者说明制作时用了模拟旧录音的处理。"
+        ],
+        "note": "曼哈顿隔水而立，车流被留在远处。萨克斯、小编制爵士提供一间近处的房间，让夜晚的书桌有地方望出去。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-023",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Rio After Rain",
+    "originalTitle": "Street corner at night in the rain, Rio de Janeiro.jpg × Night in Venice",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Rain",
+      "jazz"
+    ],
+    "style": "jazz",
+    "facts": [
+      {
+        "text": "A street corner at night after rain, the shopfronts lit and the asphalt reflecting them. Rio de Janeiro, Brazil.",
+        "source": "https://commons.wikimedia.org/wiki/File:Street_corner_at_night_in_the_rain,_Rio_de_Janeiro.jpg"
+      },
+      {
+        "text": "The credited ensemble is alto saxophone, electric piano, bass and drums; the creator describes processing intended to suggest an older recording.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900056"
+      }
+    ],
+    "note": "Wet streets and a deliberately aged jazz recording share a softened surface. The connection is texture, not a claim that this Venetian-titled piece represents Rio's musical life.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-175821569@sf-night-in-venice"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "里约雨后",
+        "facts": [
+          "巴西里约热内卢雨后的夜间街角，亮着灯的店面映在沥青路面上。",
+          "配器列为中音萨克斯、电钢琴、贝斯和鼓；作者说明制作时用了模拟旧录音的处理。"
+        ],
+        "note": "雨后街面与刻意做旧的爵士录音，都有柔化的表面。连接在质感上，不是说这首以威尼斯命名的曲子代表里约的音乐。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-024",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Kagurazaka, Late",
+    "originalTitle": "東京拾二題　神樂坂通雨後の夜 × Night in Venice",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Prints",
+      "jazz"
+    ],
+    "style": "jazz",
+    "facts": [
+      {
+        "text": "Twelve Scenes of Tokyo: Kagurazaka Street after a Night Rain — after 1929. Catalogue attribution: Japan, Shōwa period (1926–89).",
+        "source": "https://clevelandart.org/art/2016.78"
+      },
+      {
+        "text": "The credited ensemble is alto saxophone, electric piano, bass and drums; the creator describes processing intended to suggest an older recording.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900056"
+      }
+    ],
+    "note": "A Tokyo print after rain sits beside a modern recording made to sound older. Two different acts of looking back meet here, with the saxophone keeping the street from becoming merely a historical exhibit.",
+    "media": {
+      "kind": "edition",
+      "edition": "cma-290127@sf-night-in-venice"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "神乐坂，夜深",
+        "facts": [
+          "《东京十二题》中的神乐坂雨后夜景，1929年以后，日本昭和时期。",
+          "配器列为中音萨克斯、电钢琴、贝斯和鼓；作者说明制作时用了模拟旧录音的处理。"
+        ],
+        "note": "雨后的东京版画，旁边是一段刻意做旧的现代录音。两种回望在此相遇，萨克斯让街道不只是一件历史展品。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-025",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Plum and Bamboo",
+    "originalTitle": "청자 상감 연꽃·매화·대나무무늬 편호 [靑磁象嵌蓮梅竹文扁壺] × Evening Fall (Harp)",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Korean Art",
+      "acoustic"
+    ],
+    "style": "acoustic",
+    "facts": [
+      {
+        "text": "Vase with Inlaid Lotus, Plum, and Bamboo Design — 1300s. Catalogue attribution: Korea, Goryeo dynasty (918–1392).",
+        "source": "https://clevelandart.org/art/1918.471"
+      },
+      {
+        "text": "Evening Fall (Harp) is a harp instrumental published in Kevin MacLeod's own music catalogue.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100236"
+      }
+    ],
+    "note": "A celadon vase gathers plants onto a single curved surface. Solo harp keeps the accompaniment similarly contained; a larger ensemble would make this small object work too hard as a background.",
+    "media": {
+      "kind": "edition",
+      "edition": "cma-98797@sf-evening-fall-harp"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "梅与竹",
+        "facts": [
+          "莲、梅、竹嵌饰花瓶，14世纪，韩国高丽时期。",
+          "《Evening Fall (Harp)》是Kevin MacLeod在个人音乐目录发布的竖琴器乐作品。"
+        ],
+        "note": "青瓷瓶把几种植物收在一个曲面上，独奏竖琴也把陪伴收得很小。若放一整支乐队，这件小器物就得承担太多。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-026",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Under the Dome",
+    "originalTitle": "State Library Victoria, La Trobe Reading Room Dome.jpg × Evening Fall (Harp)",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Interiors",
+      "acoustic"
+    ],
+    "style": "acoustic",
+    "facts": [
+      {
+        "text": "State Library Victoria, La Trobe Reading Room Dome",
+        "source": "https://commons.wikimedia.org/wiki/File:State_Library_Victoria,_La_Trobe_Reading_Room_Dome.jpg"
+      },
+      {
+        "text": "Evening Fall (Harp) is a harp instrumental published in Kevin MacLeod's own music catalogue.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100236"
+      }
+    ],
+    "note": "The library dome gives the eye a generous ceiling. Harp leaves the imagined reading room less crowded than a voiced ensemble would; the picture can hold the architecture while the desk holds the task.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-174123061@sf-evening-fall-harp"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "穹顶之下",
+        "facts": [
+          "澳大利亚维多利亚州立图书馆拉筹伯阅览室的穹顶。",
+          "《Evening Fall (Harp)》是Kevin MacLeod在个人音乐目录发布的竖琴器乐作品。"
+        ],
+        "note": "图书馆穹顶给目光一个宽敞的上方。竖琴让想象中的阅览室少些拥挤，建筑归画面，手头的事归书桌。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-027",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "A White Heron",
+    "originalTitle": "Flowers of a Hundred Worlds (Momoyogusa): White Heron (Shirosagi) × Evening Fall (Harp)",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Japanese Art",
+      "acoustic"
+    ],
+    "style": "acoustic",
+    "facts": [
+      {
+        "text": "Flowers of a Hundred Worlds (Momoyogusa): White Heron (Shirosagi) — 1909–10. Catalogue attribution: Japan, Meiji period (1868–1912).",
+        "source": "https://clevelandart.org/art/1988.23.1.19"
+      },
+      {
+        "text": "Evening Fall (Harp) is a harp instrumental published in Kevin MacLeod's own music catalogue.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100236"
+      }
+    ],
+    "note": "The heron design and a harp solo both reward attention to small separations. I chose a single instrument so the bird would remain the visual event, rather than an illustration for an orchestral swell.",
+    "media": {
+      "kind": "edition",
+      "edition": "cma-154140@sf-evening-fall-harp"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "一只白鹭",
+        "facts": [
+          "《百々世草》中的白鹭图，1909—1910年，日本明治时期。",
+          "《Evening Fall (Harp)》是Kevin MacLeod在个人音乐目录发布的竖琴器乐作品。"
+        ],
+        "note": "白鹭图案与竖琴独奏，都值得留意细小的间隔。选择一件乐器，是想让鸟仍是画面的主角，而非管弦乐高潮的插图。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-028",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "A Seat in Graz",
+    "originalTitle": "Graz University-Library reading-room.jpg × Meditation Impromptu 01",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Interiors",
+      "piano"
+    ],
+    "style": "piano",
+    "facts": [
+      {
+        "text": "The main reading room of Graz University Library (19th century) on 2 Sep 2003. Picture taken and uploaded by Dr. Marcus Gossler.",
+        "source": "https://commons.wikimedia.org/wiki/File:Graz_University-Library_reading-room.jpg"
+      },
+      {
+        "text": "The creator lists piano as the instrumentation for Meditation Impromptu 01.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100163"
+      }
+    ],
+    "note": "A reading room provides the simplest invitation: sit down. An improvised piano piece adds company without putting a speaker into the neighboring chair; the pairing is for reading, not an instruction to meditate.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-352545@sf-meditation-impromptu-01"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "格拉茨的一席",
+        "facts": [
+          "格拉茨大学图书馆的主阅览室，拍摄日期为2003年9月2日。",
+          "作者为《Meditation Impromptu 01》列出的乐器是钢琴。"
+        ],
+        "note": "阅览室给出的邀请很简单：坐下。即兴钢琴在旁边作伴，却不在邻座安排一个说话的人；这里可以读书，不必冥想。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-029",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "The Sleeping Bird",
+    "originalTitle": "매화나무 위의 졸고 있는 새 [梅竹鳥圖] × Meditation Impromptu 01",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Korean Art",
+      "piano"
+    ],
+    "style": "piano",
+    "facts": [
+      {
+        "text": "Bird Sleeping on a Plum Tree — early 1900s. Catalogue attribution: Korea, Joseon dynasty (1392–1910).",
+        "source": "https://clevelandart.org/art/1998.31"
+      },
+      {
+        "text": "The creator lists piano as the instrumentation for Meditation Impromptu 01.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100163"
+      }
+    ],
+    "note": "A bird asleep on a branch needs no narrative soundtrack. Piano is here as a small recurring presence, allowing the pictured sleep and the listener's active work to coexist without demanding the same mood.",
+    "media": {
+      "kind": "edition",
+      "edition": "cma-160528@sf-meditation-impromptu-01"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "睡着的鸟",
+        "facts": [
+          "梅树上的睡鸟，20世纪初，馆方归为韩国朝鲜王朝时期。",
+          "作者为《Meditation Impromptu 01》列出的乐器是钢琴。"
+        ],
+        "note": "枝头睡鸟不需要一段剧情配乐。钢琴只作小小的陪伴，让画中的睡眠与人的工作共处，不要求双方拥有同一种心情。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-030",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "A Hut by the Lake",
+    "originalTitle": "Angelus Hut in the winter, Nelson Lakes National Park, New Zealand.jpg × Meditation Impromptu 01",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Lakes",
+      "piano"
+    ],
+    "style": "piano",
+    "facts": [
+      {
+        "text": "Winter Angelus Hut with Angelus Lake behind it. In the clouds, no name peak (1860m) can be seen. Picture taken during the sunset. Nelson Lakes National Park, New Zealand.",
+        "source": "https://commons.wikimedia.org/wiki/File:Angelus_Hut_in_the_winter,_Nelson_Lakes_National_Park,_New_Zealand.jpg"
+      },
+      {
+        "text": "The creator lists piano as the instrumentation for Meditation Impromptu 01.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100163"
+      }
+    ],
+    "note": "The hut places a human foothold within a cold landscape. Solo piano serves a similar scale: a reachable interior rather than a grand score for the surrounding mountains.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-81572478@sf-meditation-impromptu-01"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "湖边小屋",
+        "facts": [
+          "冬季日落时的Angelus山屋，身后是Angelus湖，位于新西兰尼尔森湖国家公园。",
+          "作者为《Meditation Impromptu 01》列出的乐器是钢琴。"
+        ],
+        "note": "小屋在寒冷地貌中留下一处人的落脚点。独奏钢琴也取这样的尺度：可以走近的室内，而非为群山写的宏大配乐。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-031",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Clouds in a Bowl",
+    "originalTitle": "청자 양각 구름무늬 사발 [靑磁陽刻雲文碗] × Moonstone",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Korean Art",
+      "piano"
+    ],
+    "style": "piano",
+    "facts": [
+      {
+        "text": "Bowl with Cloud Design in Relief — 1100s. Catalogue attribution: Korea, Goryeo dynasty (918–1392).",
+        "source": "https://clevelandart.org/art/1924.137"
+      },
+      {
+        "text": "MacLeod's catalogue describes Moonstone as a piano composition using the black keys.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100145"
+      }
+    ],
+    "note": "Cloud ornament fits a broad idea into a small vessel. A piano piece built around the black keys also works within a chosen boundary; that shared economy matters more than matching a nationality.",
+    "media": {
+      "kind": "edition",
+      "edition": "cma-106015@sf-moonstone"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "碗里的云",
+        "facts": [
+          "云纹浮雕碗，12世纪，韩国高丽时期。",
+          "MacLeod的目录说明，《Moonstone》是一首使用钢琴黑键创作的作品。"
+        ],
+        "note": "云纹把辽阔的东西放进小碗，围绕黑键写成的钢琴曲也在有限范围内展开。共同的节制，比国别配对更有意思。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-032",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "The Fjord at Evening",
+    "originalTitle": "Evening at Flakstadpollen in Flakstad, Nordland, Norway, 2017 April.jpg × Moonstone",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Snow",
+      "piano"
+    ],
+    "style": "piano",
+    "facts": [
+      {
+        "text": "Evening at Flakstadpollen in Flakstad, Nordland, Norway in 2017 April. The mountain in the center is Blekktinden.",
+        "source": "https://commons.wikimedia.org/wiki/File:Evening_at_Flakstadpollen_in_Flakstad,_Nordland,_Norway,_2017_April.jpg"
+      },
+      {
+        "text": "MacLeod's catalogue describes Moonstone as a piano composition using the black keys.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100145"
+      }
+    ],
+    "note": "The evening fjord offers a horizon that does not ask to be reached. Piano keeps the sense of distance intimate, useful when a desk needs an outlook rather than an adventure.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-118114052@sf-moonstone"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "峡湾入暮",
+        "facts": [
+          "挪威诺尔兰郡Flakstadpollen的傍晚，画面中央是Blekktinden山。",
+          "MacLeod的目录说明，《Moonstone》是一首使用钢琴黑键创作的作品。"
+        ],
+        "note": "入暮的峡湾给出一道不必抵达的地平线。钢琴把远方留得亲近，适合书桌需要窗景、而非冒险的时候。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-033",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Watching the Moon",
+    "originalTitle": "Tsukasa and Other Courtesans of the Ogiya Watching the Autumn Moon Rise Over Rice Fields from a Balcony in the Yoshiwara × Moonstone",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Japanese Art",
+      "piano"
+    ],
+    "style": "piano",
+    "facts": [
+      {
+        "text": "Tsukasa and Other Courtesans of the Ogiya Watching the Autumn Moon Rise Over Rice Fields from a Balcony in the Yoshiwara — 1799. Catalogue attribution: Japan, Edo period (1615–1868).",
+        "source": "https://clevelandart.org/art/1943.4"
+      },
+      {
+        "text": "MacLeod's catalogue describes Moonstone as a piano composition using the black keys.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100145"
+      }
+    ],
+    "note": "The people on the balcony are already practicing sustained looking. A limited piano palette accompanies their attention without pretending to recreate the music of an Edo-period evening.",
+    "media": {
+      "kind": "edition",
+      "edition": "cma-123177@sf-moonstone"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "看月亮的人",
+        "facts": [
+          "吉原阳台上的赏月场景，1799年，日本江户时期。",
+          "MacLeod的目录说明，《Moonstone》是一首使用钢琴黑键创作的作品。"
+        ],
+        "note": "阳台上的人已经在长久地看。有限的钢琴音色陪伴这种注意力，不假装还原江户夜晚的音乐。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-034",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Sunrise through Aurora",
+    "originalTitle": "Aurora sequence × Numinous Shine",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Earth from orbit",
+      "electronic"
+    ],
+    "style": "electronic",
+    "facts": [
+      {
+        "text": "ISS043E155854 (04/27/2015) --- A rising sun spreads across the Earth and through the green blooming aurora to silhouette the blackened outline of the International Space Station on the morning of Apr. 27, 2015.",
+        "source": "https://images.nasa.gov/details/iss043e155854"
+      },
+      {
+        "text": "Numinous Shine is credited to Kevin MacLeod; his catalogue lists synthesizer instrumentation.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100129"
+      }
+    ],
+    "note": "An orbital sunrise has no ordinary listening position. Synthesizers are useful here because they do not suggest a performer standing on that impossible horizon; they let the view stay unfamiliar.",
+    "media": {
+      "kind": "edition",
+      "edition": "nasa-iss043e155854@sf-numinous-shine"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "穿过极光的日出",
+        "facts": [
+          "NASA说明记载，2015年4月27日的日出穿过绿色极光，空间站形成剪影。 NASA档案日期：2015-04-27；摄影：Terry Virts。",
+          "《Numinous Shine》由Kevin MacLeod创作，作者目录将配器列为合成器。"
+        ],
+        "note": "轨道日出没有日常意义上的聆听位置。合成器不暗示某位演奏者站在那道不可能的地平线上，让画面保留陌生感。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-035",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "At the Cave Mouth",
+    "originalTitle": "environments-19-cave-door.jpg × Numinous Shine",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Open-film Concept Art",
+      "electronic"
+    ],
+    "style": "electronic",
+    "facts": [
+      {
+        "text": "David Revoy published this environment artwork in his Sintel art-direction gallery. The source identifies it as dragon cave — entrance study 19.",
+        "source": "https://www.davidrevoy.com/article45/sintel-art-direction"
+      },
+      {
+        "text": "Numinous Shine is credited to Kevin MacLeod; his catalogue lists synthesizer instrumentation.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100129"
+      }
+    ],
+    "note": "A cave entrance with electronic sound can be a place to wait rather than a cue to enter danger. I chose the ambient register to leave the next event unwritten while you work.",
+    "media": {
+      "kind": "edition",
+      "edition": "revoy-sintel-environment-19@sf-numinous-shine"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "洞口",
+        "facts": [
+          "David Revoy在《Sintel》美术指导图集中将这幅作品说明为龙洞概念画；原文件中的环境图编号为19。",
+          "《Numinous Shine》由Kevin MacLeod创作，作者目录将配器列为合成器。"
+        ],
+        "note": "洞口与电子声音在一起，也可以是等待之处，不一定预告危险。选择氛围音色，是想把下一件事留白，让你先工作。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-036",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "A Structure after Dark",
+    "originalTitle": "Beijing national stadium.jpg × Numinous Shine",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Architecture",
+      "electronic"
+    ],
+    "style": "electronic",
+    "facts": [
+      {
+        "text": "Beijing National Stadium. Architect: Herzog & de Meuron, ArupSport, China Architectural Design & Research Group.",
+        "source": "https://commons.wikimedia.org/wiki/File:Beijing_national_stadium.jpg"
+      },
+      {
+        "text": "Numinous Shine is credited to Kevin MacLeod; his catalogue lists synthesizer instrumentation.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100129"
+      }
+    ],
+    "note": "The stadium's visible structure offers a rhythm without a sporting event. A synth piece keeps the scale architectural, so the room can borrow the building without importing the crowd.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-15782250@sf-numinous-shine"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "夜里的结构",
+        "facts": [
+          "北京国家体育场，来源署明设计参与方包括Herzog & de Meuron、ArupSport及中国建筑设计研究院。",
+          "《Numinous Shine》由Kevin MacLeod创作，作者目录将配器列为合成器。"
+        ],
+        "note": "体育场的结构本身就有节律，不必同时带来比赛。合成器让尺度停在建筑上，借用这座建筑，而不把人群一起带进来。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-037",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "The Long Table",
+    "originalTitle": "Rutherford Library South large reading room.jpg × Parting of the Ways - Part 1",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Interiors",
+      "piano"
+    ],
+    "style": "piano",
+    "facts": [
+      {
+        "text": "Interior view of Rutherford Library South large reading room (AKA the Harry Potter Room)",
+        "source": "https://commons.wikimedia.org/wiki/File:Rutherford_Library_South_large_reading_room.jpg"
+      },
+      {
+        "text": "This is Part 1 of Parting of the Ways, a piano piece running a little over nine minutes.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100119"
+      }
+    ],
+    "note": "A nine-minute piano piece gives the reading-room image time to stop being scenery. I chose the longer form for sustained writing: fewer returns to the beginning, less sense of a short cue repeating.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-88834759@sf-parting-of-the-ways-part-1"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "长桌",
+        "facts": [
+          "Rutherford图书馆南馆的大阅览室，来源称其也被昵称为“哈利·波特房间”。",
+          "这是钢琴作品《Parting of the Ways》的第一部分，录音时长略超过九分钟。"
+        ],
+        "note": "九分钟的钢琴给阅览室足够时间，不再只是一张风景。长一点的篇幅适合持续写作，少些回到开头，也少些短音效反复的感觉。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-038",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "A Clear Autumn Day",
+    "originalTitle": "江山秋霽圖 × Parting of the Ways - Part 1",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Chinese Art",
+      "piano"
+    ],
+    "style": "piano",
+    "facts": [
+      {
+        "text": "River and Mountains on a Clear Autumn Day — c. 1624–27. Catalogue attribution: China, Ming dynasty (1368–1644).",
+        "source": "https://clevelandart.org/art/1959.46"
+      },
+      {
+        "text": "This is Part 1 of Parting of the Ways, a piano piece running a little over nine minutes.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100119"
+      }
+    ],
+    "note": "A river-and-mountain painting offers several distances to inhabit. The extended piano form can sit beside that wandering attention without assigning a separate musical event to every painted feature.",
+    "media": {
+      "kind": "edition",
+      "edition": "cma-135964@sf-parting-of-the-ways-part-1"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "秋日晴明",
+        "facts": [
+          "秋日晴景山水，约1624—1627年，中国明代。",
+          "这是钢琴作品《Parting of the Ways》的第一部分，录音时长略超过九分钟。"
+        ],
+        "note": "山水里有远近不同的地方可停留。较长的钢琴篇幅陪着视线游走，不给每一处山石都分配一个音乐事件。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-039",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "No Need to Cross",
+    "originalTitle": "Lake Rotoroa 03.jpg × Parting of the Ways - Part 1",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Lakes",
+      "piano"
+    ],
+    "style": "piano",
+    "facts": [
+      {
+        "text": "Lake Rotoroa in Nelson Lakes National Park in the South Island, New Zealand",
+        "source": "https://commons.wikimedia.org/wiki/File:Lake_Rotoroa_03.jpg"
+      },
+      {
+        "text": "This is Part 1 of Parting of the Ways, a piano piece running a little over nine minutes.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100119"
+      }
+    ],
+    "note": "Lake Rotoroa gives this longer piano piece a place to remain. There is no destination to synchronize with the music; the pair is meant for the middle of a task, when simply continuing is enough.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-64767563@sf-parting-of-the-ways-part-1"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "不必渡过",
+        "facts": [
+          "新西兰南岛尼尔森湖国家公园内的罗托罗阿湖。",
+          "这是钢琴作品《Parting of the Ways》的第一部分，录音时长略超过九分钟。"
+        ],
+        "note": "罗托鲁瓦湖让这段较长的钢琴有所停留。不需要一个目的地与音乐同步，适合事情做到中段、继续就足够的时候。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-040",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Between Trains",
+    "originalTitle": "Dublin Connolly railway station interior.jpg × Sancho Panza gets a Latte",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Interiors",
+      "acoustic"
+    ],
+    "style": "acoustic",
+    "facts": [
+      {
+        "text": "Inside the Dublin Connolly railway station, Dublin, Ireland",
+        "source": "https://commons.wikimedia.org/wiki/File:Dublin_Connolly_railway_station_interior.jpg"
+      },
+      {
+        "text": "The creator credits acoustic guitar, Latin percussion, bass, alto flute, trumpet and accordion in this instrumental.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100088"
+      }
+    ],
+    "note": "A station interior can hold more activity than a solitary landscape. Guitar, percussion and the other instruments make this an option for lighter desk tasks; the busier arrangement is not my first choice for dense reading.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-149538291@sf-sancho-panza-gets-a-latte"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "两班车之间",
+        "facts": [
+          "爱尔兰都柏林康诺利火车站的内部空间。",
+          "作者为这首器乐列出的配器有原声吉他、拉丁打击乐、贝斯、中音长笛、小号和手风琴。"
+        ],
+        "note": "车站室内比独处的山水容得下更多活动。吉他、打击乐和其他乐器适合轻一些的案头事；较忙的编曲，不是精读时的首选。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-041",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "An Afternoon Garden",
+    "originalTitle": "In my Bordeaux Garden × Sancho Panza gets a Latte",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Prints",
+      "acoustic"
+    ],
+    "style": "acoustic",
+    "facts": [
+      {
+        "text": "In my Bordeaux Garden — 1872. Catalogue attribution: France, 19th century.",
+        "source": "https://clevelandart.org/art/1920.684"
+      },
+      {
+        "text": "The creator credits acoustic guitar, Latin percussion, bass, alto flute, trumpet and accordion in this instrumental.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100088"
+      }
+    ],
+    "note": "The Bordeaux garden and this playful instrumental share a domestic scale. It is a companion for sorting notes or sketching, with enough melodic activity that it may compete with difficult prose.",
+    "media": {
+      "kind": "edition",
+      "edition": "cma-102023@sf-sancho-panza-gets-a-latte"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "午后的园子",
+        "facts": [
+          "《在我的波尔多花园》，1872年，法国。",
+          "作者为这首器乐列出的配器有原声吉他、拉丁打击乐、贝斯、中音长笛、小号和手风琴。"
+        ],
+        "note": "波尔多的园子与这首轻巧器乐，都取日常生活的尺度。适合整理笔记或随手画，旋律较多，读难文章时也可能争走注意力。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-042",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Songdo, Daytime",
+    "originalTitle": "South Korea, Incheon, Songdo (02), street scene.jpg × Sancho Panza gets a Latte",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Streets",
+      "acoustic"
+    ],
+    "style": "acoustic",
+    "facts": [
+      {
+        "text": "Street scene with city bus in central Songdo (Yeonsu-gu district, Incheon, South-Korea). Street name is Convensia-daero 130beon-gil. On the left is one of the Prugio Central Park Towers with some of the Sharp Central Park Towers behind it.",
+        "source": "https://commons.wikimedia.org/wiki/File:South_Korea,_Incheon,_Songdo_(02),_street_scene.jpg"
+      },
+      {
+        "text": "The creator credits acoustic guitar, Latin percussion, bass, alto flute, trumpet and accordion in this instrumental.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100088"
+      }
+    ],
+    "note": "A contemporary Korean street belongs beside contemporary music, too. This lightly Latin-inflected production supplies walking energy without claiming to be the street's own soundtrack.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-134297626@sf-sancho-panza-gets-a-latte"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "松岛白昼",
+        "facts": [
+          "韩国仁川延寿区松岛中心的街景，画面中可见城市公交车。",
+          "作者为这首器乐列出的配器有原声吉他、拉丁打击乐、贝斯、中音长笛、小号和手风琴。"
+        ],
+        "note": "韩国当代街道也可以与别处的当代音乐相伴。这段带拉丁色彩的制作音乐提供散步般的活动感，不冒充街道自身的声音。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-043",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Along Wuling Stream",
+    "originalTitle": "Landscape Album in Various Styles: The Stream of Wuling × Water Prelude",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Chinese Art",
+      "ambient"
+    ],
+    "style": "ambient",
+    "facts": [
+      {
+        "text": "Landscape Album in Various Styles: The Stream of Wuling — 1684. Catalogue attribution: China, Qing dynasty (1644-1911).",
+        "source": "https://clevelandart.org/art/1955.37.4"
+      },
+      {
+        "text": "Water Prelude is a Kevin MacLeod recording distributed from the composer's own catalogue under an attribution licence.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100017"
+      }
+    ],
+    "note": "A painted stream need not be made literal with running-water effects. Electronic suspension gives the eye time to move through the ink landscape while keeping the historical work and modern sound distinct.",
+    "media": {
+      "kind": "edition",
+      "edition": "cma-132926@sf-water-prelude"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "武陵溪上",
+        "facts": [
+          "《仿古山水册》中的武陵溪景，1684年，中国清代。",
+          "《Water Prelude》是Kevin MacLeod在个人目录以署名许可发布的录音。"
+        ],
+        "note": "画里的溪流不必配流水音效才成立。电子音的悬浮给目光时间走进水墨，同时保留古画与现代声音各自的身份。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-044",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Blue Lake",
+    "originalTitle": "Blue Lake in Mount Cook National Park.jpg × Water Prelude",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Lakes",
+      "ambient"
+    ],
+    "style": "ambient",
+    "facts": [
+      {
+        "text": "Blue Lake in Aoraki/Mount Cook National Park in the South Island, New Zealand.",
+        "source": "https://commons.wikimedia.org/wiki/File:Blue_Lake_in_Mount_Cook_National_Park.jpg"
+      },
+      {
+        "text": "Water Prelude is a Kevin MacLeod recording distributed from the composer's own catalogue under an attribution licence.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100017"
+      }
+    ],
+    "note": "Water provides the visual mass; the synthesizer supplies a less definite space around it. This pairing leaves the lake still rather than borrowing a dramatic score to make it move.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-64790035@sf-water-prelude"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "蓝湖",
+        "facts": [
+          "新西兰南岛奥拉基／库克山国家公园内的蓝湖。",
+          "《Water Prelude》是Kevin MacLeod在个人目录以署名许可发布的录音。"
+        ],
+        "note": "水构成画面的体量，合成器在旁边提供一个边界较松的空间。让湖留在静处，不借戏剧性配乐催它动起来。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-045",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "River as a Line",
+    "originalTitle": "Earth Observation taken during the Expedition 37 mission × Water Prelude",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Earth from orbit",
+      "ambient"
+    ],
+    "style": "ambient",
+    "facts": [
+      {
+        "text": "Earth observation taken during a day pass by the Expedition 37 crew. Per Twitter message: Ruvuma River,  Tanzania and Mozambique.",
+        "source": "https://images.nasa.gov/details/iss037e012278"
+      },
+      {
+        "text": "Water Prelude is a Kevin MacLeod recording distributed from the composer's own catalogue under an attribution licence.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100017"
+      }
+    ],
+    "note": "From orbit, the Ruvuma becomes a line through land. An electronic prelude avoids assigning a local musical identity to that distant view, giving attention to the river's form instead.",
+    "media": {
+      "kind": "edition",
+      "edition": "nasa-iss037e012278@sf-water-prelude"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "河成为线",
+        "facts": [
+          "原始说明将画面标为坦桑尼亚与莫桑比克之间的鲁伍马河。 NASA档案日期：2013-10-12；摄影：Karen Nyberg。",
+          "《Water Prelude》是Kevin MacLeod在个人目录以署名许可发布的录音。"
+        ],
+        "note": "从轨道望去，鲁伍马河成了穿过陆地的一条线。电子前奏不为远景指定地方音乐身份，把注意力留给河的形状。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-046",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Sakurajima Shore",
+    "originalTitle": "Sakurajima coast 20100721 4141.jpg × With the Sea",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Coasts",
+      "piano"
+    ],
+    "style": "piano",
+    "facts": [
+      {
+        "text": "The coast of Sakurajima at Nagisa Lava Trail",
+        "source": "https://commons.wikimedia.org/wiki/File:Sakurajima_coast_20100721_4141.jpg"
+      },
+      {
+        "text": "The composer's catalogue lists With the Sea as a piano work lasting approximately two minutes and forty-three seconds.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100008"
+      }
+    ],
+    "note": "A shore beside a volcano contains more tension than the word seaside suggests. Solo piano offers a human-sized accompaniment without trying to dramatize the mountain's geology.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-47174616@sf-with-the-sea"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "樱岛岸边",
+        "facts": [
+          "樱岛海岸的Nagisa熔岩步道一带。",
+          "作者目录将《With the Sea》列为钢琴作品，时长约两分四十三秒。"
+        ],
+        "note": "火山旁的海岸，比“海边”两个字多一点张力。独奏钢琴保持人的尺度，不替山的地质历史制造戏剧。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-047",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Raftsundet",
+    "originalTitle": "Coastline of Raftsundet at Digermulen in Vågan, Nordland, Norway, 2022 June.jpg × With the Sea",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Snow",
+      "piano"
+    ],
+    "style": "piano",
+    "facts": [
+      {
+        "text": "Coastline of Raftsundet at Digermulen in Vågan, Nordland, Norway in 2022 June. Mountains of Rørhoptindan and Rulten are visible in the background.",
+        "source": "https://commons.wikimedia.org/wiki/File:Coastline_of_Raftsundet_at_Digermulen_in_V%C3%A5gan,_Nordland,_Norway,_2022_June.jpg"
+      },
+      {
+        "text": "The composer's catalogue lists With the Sea as a piano work lasting approximately two minutes and forty-three seconds.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100008"
+      }
+    ],
+    "note": "The Norwegian coastline already has enough depth for the eye. A single piano keeps the foreground simple, like bringing one notebook to a place that could otherwise overwhelm you.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-120555779@sf-with-the-sea"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "海峡一侧",
+        "facts": [
+          "挪威诺尔兰郡Digermulen的Raftsundet海岸，背景可见Rørhoptindan与Rulten山峰。",
+          "作者目录将《With the Sea》列为钢琴作品，时长约两分四十三秒。"
+        ],
+        "note": "挪威海岸已经有足够的纵深可看。一架钢琴把近处保持简单，像去辽阔的地方，只带一本笔记本。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-048",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "A Coast in Ink",
+    "originalTitle": "Coastal Landscape in the Haboku Style × With the Sea",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Japanese Art",
+      "piano"
+    ],
+    "style": "piano",
+    "facts": [
+      {
+        "text": "Coastal Landscape in the Haboku Style — late 1400s–early 1500s. Catalogue attribution: Japan, Muromachi period (1392–1573).",
+        "source": "https://clevelandart.org/art/2015.466"
+      },
+      {
+        "text": "The composer's catalogue lists With the Sea as a piano work lasting approximately two minutes and forty-three seconds.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100008"
+      }
+    ],
+    "note": "Haboku ink leaves parts of the coast unresolved. Piano lets those omissions remain active; a realistic ocean recording would tell the image what it has chosen not to specify.",
+    "media": {
+      "kind": "edition",
+      "edition": "cma-79575@sf-with-the-sea"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "墨中的海岸",
+        "facts": [
+          "破墨海岸山水，15世纪末至16世纪初，日本室町时期。",
+          "作者目录将《With the Sea》列为钢琴作品，时长约两分四十三秒。"
+        ],
+        "note": "破墨把海岸的某些部分留得不确定。钢琴允许这种省略继续存在，真实海浪录音反而会补上画面有意不说明的东西。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-049",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "A Garden Walk",
+    "originalTitle": "Brooklyn Botanic Garden New York May 2015 panorama 2.jpg × Walking Along",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Gardens",
+      "jazz"
+    ],
+    "style": "jazz",
+    "facts": [
+      {
+        "text": "Four-segment panorama of Japanese Hill-and-Pond Garden, Brooklyn Botanic Garden, Brooklyn, New York City.",
+        "source": "https://commons.wikimedia.org/wiki/File:Brooklyn_Botanic_Garden_New_York_May_2015_panorama_2.jpg"
+      },
+      {
+        "text": "Walking Along uses brushed drums, bass and vibraphone, according to the composer's instrumentation credits.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100020"
+      }
+    ],
+    "note": "Vibraphone, bass and brushed drums give a garden panorama a pedestrian pace. This is a gently rhythmic option for everyday work, without turning the garden into an exercise prompt.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-40237282@sf-walking-along"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "园中行走",
+        "facts": [
+          "纽约布鲁克林植物园内日本山水庭园的四幅拼接全景。",
+          "根据作曲家的配器记录，《Walking Along》使用刷鼓、贝斯与颤音琴。"
+        ],
+        "note": "颤音琴、贝斯和刷鼓给庭园全景一个步行速度。日常工作可以有一点节拍，不必把园子变成运动提醒。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-050",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Waiting at Bathurst",
+    "originalTitle": "Bathurst railway station interior view 1.jpg × Walking Along",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Interiors",
+      "jazz"
+    ],
+    "style": "jazz",
+    "facts": [
+      {
+        "text": "Part of the interior of the Bathurst railway station, NSW in 2022.",
+        "source": "https://commons.wikimedia.org/wiki/File:Bathurst_railway_station_interior_view_1.jpg"
+      },
+      {
+        "text": "Walking Along uses brushed drums, bass and vibraphone, according to the composer's instrumentation credits.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100020"
+      }
+    ],
+    "note": "The station suggests time spent between appointments. A small brushed-kit arrangement makes that interval feel usable: a few pages read, a note finished, without needing a grand destination.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-119197334@sf-walking-along"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "巴瑟斯特候车",
+        "facts": [
+          "2022年拍摄的澳大利亚新南威尔士州巴瑟斯特火车站部分室内。",
+          "根据作曲家的配器记录，《Walking Along》使用刷鼓、贝斯与颤音琴。"
+        ],
+        "note": "车站让人想到安排之间的空当。刷鼓小编制让这段空当也可用：读几页，写完一条笔记，不需要宏大的目的地。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-051",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Stitch by Stitch",
+    "originalTitle": "Embroidered Raffia Pile Cloth × Walking Along",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Textiles",
+      "jazz"
+    ],
+    "style": "jazz",
+    "facts": [
+      {
+        "text": "Embroidered Raffia Pile Cloth — 1900s. Catalogue attribution: Africa, Central Africa, Democratic Republic of Congo, Kuba peoples, 20th century.",
+        "source": "https://clevelandart.org/art/1991.224"
+      },
+      {
+        "text": "Walking Along uses brushed drums, bass and vibraphone, according to the composer's instrumentation credits.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100020"
+      }
+    ],
+    "note": "Repeated marks in Kuba raffia cloth meet the repeated gestures of a brushed jazz kit. This is a comparison of working rhythms, not a suggestion that the recording represents Kuba musical traditions.",
+    "media": {
+      "kind": "edition",
+      "edition": "cma-155935@sf-walking-along"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "一针一线",
+        "facts": [
+          "拉菲草绒面刺绣布，20世纪，刚果民主共和国的库巴族制作。",
+          "根据作曲家的配器记录，《Walking Along》使用刷鼓、贝斯与颤音琴。"
+        ],
+        "note": "库巴拉菲草布的重复纹样，遇见刷鼓重复的手势。比较的是制作节奏，不是说这段录音代表库巴音乐传统。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-052",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Threads Crossing",
+    "originalTitle": "Wearing Cloth × Canon in D for Two Renaissance Harps",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Textiles",
+      "acoustic"
+    ],
+    "style": "acoustic",
+    "facts": [
+      {
+        "text": "Wearing Cloth — 1800s. Catalogue attribution: Indonesia, Central Java, 19th century.",
+        "source": "https://clevelandart.org/art/1917.30"
+      },
+      {
+        "text": "This is Kevin MacLeod's 2020 two-harp rendering of Canon in D, not a historical sound recording.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2000014"
+      }
+    ],
+    "note": "A Javanese cloth and a canon both let repeated elements produce a larger structure. The two-harp arrangement makes the comparison tactile; the connection is compositional, not a historical exchange being asserted.",
+    "media": {
+      "kind": "edition",
+      "edition": "cma-97658@sf-canon-in-d-for-two-renaissance-harps"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "经纬之间",
+        "facts": [
+          "穿用织物，19世纪，印度尼西亚中爪哇。",
+          "这是Kevin MacLeod于2020年发布的《D大调卡农》双竖琴版本，并非历史时期留下的录音。"
+        ],
+        "note": "爪哇织物与卡农，都让重复的部分形成更大的结构。双竖琴使这个比较更有触感，联系在构成上，不是声称存在历史交流。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-053",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "The Reading Circle",
+    "originalTitle": "Liverpool Central Library Picton Reading Room.jpg × Canon in D for Two Renaissance Harps",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Interiors",
+      "acoustic"
+    ],
+    "style": "acoustic",
+    "facts": [
+      {
+        "text": "Here is a photograph taken from the Picton Reading Room inside Liverpool Central Library. Located in Liverpool, Merseyside, England, UK.",
+        "source": "https://commons.wikimedia.org/wiki/File:Liverpool_Central_Library_Picton_Reading_Room.jpg"
+      },
+      {
+        "text": "This is Kevin MacLeod's 2020 two-harp rendering of Canon in D, not a historical sound recording.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2000014"
+      }
+    ],
+    "note": "The circular reading room gives repetition an architectural form. A two-harp canon offers a parallel in time, something orderly beside work that may itself still be unfinished.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-46529255@sf-canon-in-d-for-two-renaissance-harps"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "环形阅览室",
+        "facts": [
+          "英国利物浦中央图书馆内的Picton阅览室。",
+          "这是Kevin MacLeod于2020年发布的《D大调卡农》双竖琴版本，并非历史时期留下的录音。"
+        ],
+        "note": "环形阅览室让重复成为建筑，双竖琴卡农则在时间里展开。手头的工作尚未成形，旁边可以先有一点秩序。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-054",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "A Cloth across Centuries",
+    "originalTitle": "Large Cloth × Canon in D for Two Renaissance Harps",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Textiles",
+      "acoustic"
+    ],
+    "style": "acoustic",
+    "facts": [
+      {
+        "text": "Large Cloth — c. 1100–1400. Catalogue attribution: Peru, North Coast, Chimú Culture, 12th-15th century.",
+        "source": "https://clevelandart.org/art/1925.665"
+      },
+      {
+        "text": "This is Kevin MacLeod's 2020 two-harp rendering of Canon in D, not a historical sound recording.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2000014"
+      }
+    ],
+    "note": "The Chimú cloth and a European canon were made in unrelated traditions. Their meeting is an invitation to notice how repetition can hold complexity without requiring a single shared cultural story.",
+    "media": {
+      "kind": "edition",
+      "edition": "cma-108038@sf-canon-in-d-for-two-renaissance-harps"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "隔着世纪的布",
+        "facts": [
+          "大型织物，约1100—1400年，秘鲁北海岸奇穆文化。",
+          "这是Kevin MacLeod于2020年发布的《D大调卡农》双竖琴版本，并非历史时期留下的录音。"
+        ],
+        "note": "奇穆织物与欧洲卡农来自不相属的传统。放在一起，是想看重复怎样容纳复杂，而不强求一条共同的文化故事。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-055",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "A Place to Save",
+    "originalTitle": "battleback1.png × Canon In D For 8 Bit Synths",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Game Background Art",
+      "game"
+    ],
+    "style": "game",
+    "facts": [
+      {
+        "text": "Nidhoggn published battleback1.png as a complete RPG battle background in the CC0 Backgrounds collection on OpenGameArt.",
+        "source": "https://opengameart.org/content/backgrounds-3"
+      },
+      {
+        "text": "MacLeod released this synthesizer version of Canon in D in 2020; the title explicitly identifies its eight-bit sound treatment.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2000017"
+      }
+    ],
+    "note": "A game background and an eight-bit arrangement make an intentionally small digital room. The old canon remains recognizable beneath the new timbre; familiarity may comfort, or distract if you follow every phrase.",
+    "media": {
+      "kind": "edition",
+      "edition": "nidhoggn-battleback-01@sf-canon-in-d-for-8-bit-synths"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "存档处",
+        "facts": [
+          "Nidhoggn在OpenGameArt以CC0发布了《Backgrounds》作品组；这张角色扮演游戏战斗背景的原文件名是battleback1.png。",
+          "MacLeod于2020年发布这版合成器《D大调卡农》，标题明确标注了八位音色的处理。"
+        ],
+        "note": "游戏背景与八位音色构成一间小小的数字房间。旧卡农仍能被认出；熟悉感可能陪伴，也可能让人跟着每个乐句走。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-056",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Between Levels",
+    "originalTitle": "battleback6.png × Canon In D For 8 Bit Synths",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Game Background Art",
+      "game"
+    ],
+    "style": "game",
+    "facts": [
+      {
+        "text": "Nidhoggn published battleback6.png as a complete RPG battle background in the CC0 Backgrounds collection on OpenGameArt.",
+        "source": "https://opengameart.org/content/backgrounds-3"
+      },
+      {
+        "text": "MacLeod released this synthesizer version of Canon in D in 2020; the title explicitly identifies its eight-bit sound treatment.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2000017"
+      }
+    ],
+    "note": "These assets were made for games, but a background need not mean combat. The synthesized canon lets the scene become an interval between events, where the actual task is your own.",
+    "media": {
+      "kind": "edition",
+      "edition": "nidhoggn-battleback-06@sf-canon-in-d-for-8-bit-synths"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "关卡之间",
+        "facts": [
+          "Nidhoggn在OpenGameArt以CC0发布了《Backgrounds》作品组；这张角色扮演游戏战斗背景的原文件名是battleback6.png。",
+          "MacLeod于2020年发布这版合成器《D大调卡农》，标题明确标注了八位音色的处理。"
+        ],
+        "note": "素材为游戏而作，背景却不一定意味着战斗。合成音色的卡农让它变成事件之间的空当，真正的任务在你手里。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-057",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Old Birds, New Circuit",
+    "originalTitle": "Bowl with Flying Birds × Canon In D For 8 Bit Synths",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Islamic Art",
+      "game"
+    ],
+    "style": "game",
+    "facts": [
+      {
+        "text": "Bowl with Flying Birds — 1280–1400. Catalogue attribution: Iran, probably Kashan, Ilkhanid period (1256–1353).",
+        "source": "https://clevelandart.org/art/1915.589"
+      },
+      {
+        "text": "MacLeod released this synthesizer version of Canon in D in 2020; the title explicitly identifies its eight-bit sound treatment.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2000017"
+      }
+    ],
+    "note": "Birds on an old bowl meet a Baroque canon rendered in game-like electronics. Three periods can share a desk without becoming a history lesson; the surprise lies in the change of material.",
+    "media": {
+      "kind": "edition",
+      "edition": "cma-95046@sf-canon-in-d-for-8-bit-synths"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "旧鸟，新电路",
+        "facts": [
+          "飞鸟纹碗，1280—1400年，伊朗，可能产自卡尚。",
+          "MacLeod于2020年发布这版合成器《D大调卡农》，标题明确标注了八位音色的处理。"
+        ],
+        "note": "古碗上的鸟，遇见用游戏般电子音色演奏的巴洛克卡农。三个时期可以同在书桌旁，不必变成历史课；趣味在材料的变化里。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-058",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "The Bedroom Study",
+    "originalTitle": "environments-10-sintel-bedroom.jpg × Mana Two - Part 2",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Open-film Concept Art",
+      "piano"
+    ],
+    "style": "piano",
+    "facts": [
+      {
+        "text": "David Revoy published this environment artwork in his Sintel art-direction gallery. The source identifies it as sintel bedroom — night study.",
+        "source": "https://www.davidrevoy.com/article45/sintel-art-direction"
+      },
+      {
+        "text": "Mana Two — Part 2 was released in 2019; the creator lists electric piano as its instrumentation.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900037"
+      }
+    ],
+    "note": "The night study is intimate rather than spectacular. Electric piano gives the imagined bedroom a nearby presence, leaving the rest of the film outside the room for now.",
+    "media": {
+      "kind": "edition",
+      "edition": "revoy-sintel-environment-10@sf-mana-two-part-2"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "卧室习作",
+        "facts": [
+          "David Revoy在《Sintel》美术指导图集中发布了这件作品；页面将其说明为辛特尔卧室的夜间详细概念画。",
+          "《Mana Two — Part 2》发布于2019年，作者列出的乐器是电钢琴。"
+        ],
+        "note": "夜色卧室习作亲近而不壮观。电钢琴让想象中的房间有了近处的陪伴，电影其余的故事先留在门外。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-059",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Pavement Light",
+    "originalTitle": "City streets; Reflections on the street surface after rain.jpg × Mana Two - Part 2",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Rain",
+      "piano"
+    ],
+    "style": "piano",
+    "facts": [
+      {
+        "text": "City streets; Reflections on the street surface after rain; Poland",
+        "source": "https://commons.wikimedia.org/wiki/File:City_streets;_Reflections_on_the_street_surface_after_rain.jpg"
+      },
+      {
+        "text": "Mana Two — Part 2 was released in 2019; the creator lists electric piano as its instrumentation.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900037"
+      }
+    ],
+    "note": "Rain reflections spread city light into a second surface. Electric piano fits that softened urban space better here than a full beat track, leaving room for the irregular rhythm of typing.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-196568889@sf-mana-two-part-2"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "路面的光",
+        "facts": [
+          "波兰城市街道上，雨后的路面映出灯光。",
+          "《Mana Two — Part 2》发布于2019年，作者列出的乐器是电钢琴。"
+        ],
+        "note": "雨后反光让城市的灯多了一层表面。这里的电钢琴比完整鼓点更适合柔化的街景，给打字不规则的节奏留出地方。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-060",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "The Neighborhood Library",
+    "originalTitle": "Northeast Library reading room washington dc.jpg × Mana Two - Part 2",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Interiors",
+      "piano"
+    ],
+    "style": "piano",
+    "facts": [
+      {
+        "text": "Northeast Library reading room, Maryland Avenue washington dc",
+        "source": "https://commons.wikimedia.org/wiki/File:Northeast_Library_reading_room_washington_dc.jpg"
+      },
+      {
+        "text": "Mana Two — Part 2 was released in 2019; the creator lists electric piano as its instrumentation.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900037"
+      }
+    ],
+    "note": "A neighborhood reading room is not a retreat from contemporary life. Electric piano keeps this pairing in the present: a shared civic interior, and a sound small enough to sit beside a laptop.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-82265787@sf-mana-two-part-2"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "街区图书馆",
+        "facts": [
+          "美国华盛顿特区马里兰大道上的东北图书馆阅览室。",
+          "《Mana Two — Part 2》发布于2019年，作者列出的乐器是电钢琴。"
+        ],
+        "note": "街区阅览室并非逃离当代生活的地方。电钢琴让搭配留在今天：一处共享室内，一段可以放在电脑旁的声音。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-061",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Cholatse, Unhurried",
+    "originalTitle": "Cholatse Peak, Nepal, Himalayas.jpg × Ethereal Relaxation",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Mountains",
+      "ambient"
+    ],
+    "style": "ambient",
+    "facts": [
+      {
+        "text": "Cholatse Peak, Jobo Lhaptshan. View of Mount Cholatse (6,440 metres (21,129 ft)) with Chola terminal moraine in Chola Valley to the south of the Great Himalayan Range in Mahalangur Himal. Nepal, Himalayas.",
+        "source": "https://commons.wikimedia.org/wiki/File:Cholatse_Peak,_Nepal,_Himalayas.jpg"
+      },
+      {
+        "text": "The creator credits tongue drum and strings for Ethereal Relaxation, a recording of approximately twenty-eight minutes.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2100031"
+      }
+    ],
+    "note": "A mountain does not require a crescendo. This twenty-eight-minute tongue-drum-and-strings piece allows the peak to remain in view through most of a Pomodoro without a short track constantly restarting.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-125190347@sf-ethereal-relaxation"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "不赶路的卓拉孜峰",
+        "facts": [
+          "从Chola Valley望向Cholatse峰，画面中可见Chola冰川的终碛。",
+          "作者为《Ethereal Relaxation》列出的配器是钢舌鼓与弦乐，录音时长约二十八分钟。"
+        ],
+        "note": "山峰不一定需要渐强。二十八分钟的钢舌鼓与弦乐，让一座山陪过大半个番茄，不必总被短曲的重新开始打断。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-062",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Under the Canopy",
+    "originalTitle": "Hoh Rain Forest at Olympic National Park in Washington 1.jpg × Ethereal Relaxation",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Rain",
+      "ambient"
+    ],
+    "style": "ambient",
+    "facts": [
+      {
+        "text": "Hoh Rain Forest at Olympic National Park in Washington in The Pacific Northwest | Landscapes in The West by Jeff Hollett",
+        "source": "https://commons.wikimedia.org/wiki/File:Hoh_Rain_Forest_at_Olympic_National_Park_in_Washington_1.jpg"
+      },
+      {
+        "text": "The creator credits tongue drum and strings for Ethereal Relaxation, a recording of approximately twenty-eight minutes.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2100031"
+      }
+    ],
+    "note": "The rainforest photograph offers dense detail without a single destination. A long-form recording gives it time to recede into peripheral vision, useful for a desk that needs shelter more than spectacle.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-75324359@sf-ethereal-relaxation"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "林冠之下",
+        "facts": [
+          "美国华盛顿州奥林匹克国家公园内的霍雨林。",
+          "作者为《Ethereal Relaxation》列出的配器是钢舌鼓与弦乐，录音时长约二十八分钟。"
+        ],
+        "note": "雨林照片细节密集，却没有唯一的目的地。长篇录音给它时间退到余光里，适合需要一点庇护、而非奇观的书桌。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-063",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Seven Jeweled Mountain",
+    "originalTitle": "칠보산도 [七寶山圖] × Ethereal Relaxation",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Korean Art",
+      "ambient"
+    ],
+    "style": "ambient",
+    "facts": [
+      {
+        "text": "Seven Jeweled Mountain — late 1800s. Catalogue attribution: Korea, Joseon dynasty (1392–1910).",
+        "source": "https://clevelandart.org/art/1989.6"
+      },
+      {
+        "text": "The creator credits tongue drum and strings for Ethereal Relaxation, a recording of approximately twenty-eight minutes.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2100031"
+      }
+    ],
+    "note": "An old mountain image and a long contemporary instrumental can coexist without naming the sound as Korean tradition. The duration is the reason for the choice: space to stay with one view.",
+    "media": {
+      "kind": "edition",
+      "edition": "cma-155043@sf-ethereal-relaxation"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "七宝山",
+        "facts": [
+          "《七宝山》，19世纪末，韩国朝鲜王朝时期。",
+          "作者为《Ethereal Relaxation》列出的配器是钢舌鼓与弦乐，录音时长约二十八分钟。"
+        ],
+        "note": "旧时山景与当代长篇器乐可以共处，不把声音命名为韩国传统。选择它，首先因为时长：有时间留在同一个景里。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-064",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "A Glint from Orbit",
+    "originalTitle": "Earth Observation × Light Awash",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Earth from orbit",
+      "ambient"
+    ],
+    "style": "ambient",
+    "facts": [
+      {
+        "text": "Earth Observation taken during a day pass by the Expedition 40 crew aboard the International Space Station (ISS).  Folder lists this as: Eastern half of US, sun glint, Texas, Maryland, Mississippi river, Great Lakes.",
+        "source": "https://images.nasa.gov/details/iss040e011627"
+      },
+      {
+        "text": "Light Awash is an extended electronic piece lasting approximately twenty-nine minutes in this source recording.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100175"
+      }
+    ],
+    "note": "Sun glint is a changing light seen in a fixed photograph. The slow-attack electronic piece supplies a different kind of continuity, so the image can remain still while time passes around it.",
+    "media": {
+      "kind": "edition",
+      "edition": "nasa-iss040e011627@sf-light-awash"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "轨道上的闪光",
+        "facts": [
+          "档案文件夹提到美国东部与水面的太阳反光，未唯一确认本帧地名。 NASA档案日期：2014-06-14；摄影：Reid Wiseman。",
+          "《Light Awash》是一首长篇电子作品，所用来源录音时长约二十九分钟。"
+        ],
+        "note": "日光闪耀原本在变化，照片却把它定住。缓起音的电子音乐提供另一种连续，让画面静着，时间从旁边经过。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-065",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Salt and Light",
+    "originalTitle": "Laguna Tebinquinche 2- Atacama - Chile.jpg × Light Awash",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Mountains",
+      "ambient"
+    ],
+    "style": "ambient",
+    "facts": [
+      {
+        "text": "Lagoa Tebinquinche - Atacama - Chile",
+        "source": "https://commons.wikimedia.org/wiki/File:Laguna_Tebinquinche_2-_Atacama_-_Chile.jpg"
+      },
+      {
+        "text": "Light Awash is an extended electronic piece lasting approximately twenty-nine minutes in this source recording.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100175"
+      }
+    ],
+    "note": "The Atacama lagoon brings a dry landscape to water's edge. A nearly half-hour electronic span avoids turning that meeting into a brief cinematic reveal; it can simply remain beside the work.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-75580710@sf-light-awash"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "盐与光",
+        "facts": [
+          "来源将画面标为智利阿塔卡马地区的Tebinquinche湖。",
+          "《Light Awash》是一首长篇电子作品，所用来源录音时长约二十九分钟。"
+        ],
+        "note": "阿塔卡马的泻湖让干燥地貌来到水边。近半小时的电子篇幅不把相遇压成一个电影式揭晓，它可以一直在工作旁边。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-066",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "The Valley Holds",
+    "originalTitle": "Spring — winter in the valley × Light Awash",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Open-film Concept Art",
+      "ambient"
+    ],
+    "style": "ambient",
+    "facts": [
+      {
+        "text": "This valley concept belongs to the canceled opening sequence discussed by David Revoy.",
+        "source": "https://www.davidrevoy.com/article712/spring-open-movie-character-design-and-concept-art"
+      },
+      {
+        "text": "Light Awash is an extended electronic piece lasting approximately twenty-nine minutes in this source recording.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100175"
+      }
+    ],
+    "note": "An establishing painting usually prepares a story to begin. A long ambient piece lets it keep that preparatory state, a view before the plot arrives and asks for attention.",
+    "media": {
+      "kind": "edition",
+      "edition": "revoy-spring-establishing-issue-cloudy-cold-landscape@sf-light-awash"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "山谷停留",
+        "facts": [
+          "这张山谷概念画属于David Revoy介绍的、后来删去的开场段落。",
+          "《Light Awash》是一首长篇电子作品，所用来源录音时长约二十九分钟。"
+        ],
+        "note": "定场概念画往往准备让故事开始。长篇氛围音乐让它继续留在准备之中，剧情尚未进场，也尚未索取注意力。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-067",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "A City Elsewhere",
+    "originalTitle": "City In A Canyon × Dream Culture",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Independent Concept Art",
+      "electronic"
+    ],
+    "style": "electronic",
+    "facts": [
+      {
+        "text": "zonked published City In A Canyon as an environment concept under CC0 on OpenGameArt in 2018.",
+        "source": "https://opengameart.org/content/city-in-a-canyon"
+      },
+      {
+        "text": "The catalogue lists piano and percussion for Dream Culture and describes reversed production effects within the recording.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1300046"
+      }
+    ],
+    "note": "The canyon city is invented architecture; reversed electronic details are invented acoustics. Together they suggest a place with its own rules, useful for sketching without forcing a story onto the scene.",
+    "media": {
+      "kind": "edition",
+      "edition": "zonked-city-in-a-canyon@sf-dream-culture"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "别处的城",
+        "facts": [
+          "zonked于2018年在OpenGameArt以CC0发布了环境概念画《峡谷中的城市》（City In A Canyon）。",
+          "目录为《Dream Culture》列出钢琴与打击乐，并说明录音使用了反向播放的制作效果。"
+        ],
+        "note": "峡谷城是虚构的建筑，反向电子细节是虚构的声学。它们像一个有自己规则的地方，适合画草图，不强行给场景安排故事。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-068",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Layers of Ishtar",
+    "originalTitle": "environments-06-Ishtar-2.jpg × Dream Culture",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Open-film Concept Art",
+      "electronic"
+    ],
+    "style": "electronic",
+    "facts": [
+      {
+        "text": "David Revoy published this environment artwork in his Sintel art-direction gallery. The source identifies it as ishtar — architectural layers.",
+        "source": "https://www.davidrevoy.com/article45/sintel-art-direction"
+      },
+      {
+        "text": "The catalogue lists piano and percussion for Dream Culture and describes reversed production effects within the recording.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1300046"
+      }
+    ],
+    "note": "Architectural layers in a concept painting meet layers of piano and production. The interest is in construction itself: a room for making things, with the seams still allowed to show.",
+    "media": {
+      "kind": "edition",
+      "edition": "revoy-sintel-environment-06@sf-dream-culture"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "伊什塔尔的层次",
+        "facts": [
+          "David Revoy在《Sintel》美术指导图集中发布了这件作品；页面将其说明为伊什塔尔城建筑更新与不同时代叠加的概念画。",
+          "目录为《Dream Culture》列出钢琴与打击乐，并说明录音使用了反向播放的制作效果。"
+        ],
+        "note": "概念画的建筑层次，遇见钢琴与制作效果的层次。趣味就在搭建本身，像一间做东西的房间，接缝仍可以看见。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-069",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "A City Doubled",
+    "originalTitle": "Singapore night skyline.jpg × Dream Culture",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Night cities",
+      "electronic"
+    ],
+    "style": "electronic",
+    "facts": [
+      {
+        "text": "Skyline of Singapore at night",
+        "source": "https://commons.wikimedia.org/wiki/File:Singapore_night_skyline.jpg"
+      },
+      {
+        "text": "The catalogue lists piano and percussion for Dream Culture and describes reversed production effects within the recording.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1300046"
+      }
+    ],
+    "note": "The skyline photograph is a record of a real city, but the electronic treatment gives it a speculative edge. I chose that slight mismatch for exploratory work rather than a strictly historical mood.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-145742381@sf-dream-culture"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "城市的另一面",
+        "facts": [
+          "新加坡夜间的城市天际线。",
+          "目录为《Dream Culture》列出钢琴与打击乐，并说明录音使用了反向播放的制作效果。"
+        ],
+        "note": "天际线记录真实城市，电子处理却给它一点想象的边缘。轻微的不吻合，适合探索中的工作，而非严整的历史情境。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-070",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "A House among Trees",
+    "originalTitle": "Architecture-BRIO Tree House Tala-India 19 Exterior-View-looking-towards-the-lower-deck.jpg × Dhaka",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Architecture",
+      "acoustic"
+    ],
+    "style": "acoustic",
+    "facts": [
+      {
+        "text": "Tree House Tala",
+        "source": "https://commons.wikimedia.org/wiki/File:Architecture-BRIO_Tree_House_Tala-India_19_Exterior-View-looking-towards-the-lower-deck.jpg"
+      },
+      {
+        "text": "Dhaka is MacLeod's contemporary production using sarod, dilruba and drone; it is not catalogued as a traditional field recording.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400003"
+      }
+    ],
+    "note": "The Indian tree house and MacLeod's sarod-and-dilruba production both mix inherited forms with a contemporary setting. The recording is newly composed, not a documented performance from this house or its region.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-77660672@sf-dhaka"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "树间的房子",
+        "facts": [
+          "来源将这座建筑标为印度的Tree House Tala。",
+          "《Dhaka》是MacLeod使用萨罗德琴、迪尔鲁巴琴与持续音制作的当代作品，并非以传统田野录音收录。"
+        ],
+        "note": "印度树屋与这段萨罗德琴、迪尔鲁巴琴制作，都让已有形式进入当代环境。曲子是新作，不是在这栋房子或当地采录的演出。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-071",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "One Marigold",
+    "originalTitle": "Flowering Marigold (verso) × Dhaka",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Indian and Southeast Asian Art",
+      "acoustic"
+    ],
+    "style": "acoustic",
+    "facts": [
+      {
+        "text": "Flowering Marigold (verso) — c. 1765. Catalogue attribution: India, Murshidabad or Lucknow, Mughal, 18th century.",
+        "source": "https://clevelandart.org/art/2013.351.b"
+      },
+      {
+        "text": "Dhaka is MacLeod's contemporary production using sarod, dilruba and drone; it is not catalogued as a traditional field recording.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400003"
+      }
+    ],
+    "note": "The flower study gives a whole page to one plant. A drone-centered accompaniment offers a similarly sustained frame, while the historical painting and modern instrumental keep their separate dates and purposes.",
+    "media": {
+      "kind": "edition",
+      "edition": "cma-170892@sf-dhaka"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "一朵万寿菊",
+        "facts": [
+          "背面的万寿菊花卉图，约1765年；馆方将地点列为印度穆尔希达巴德或勒克瑙。",
+          "《Dhaka》是MacLeod使用萨罗德琴、迪尔鲁巴琴与持续音制作的当代作品，并非以传统田野录音收录。"
+        ],
+        "note": "植物画把一整页交给一株花。以持续音为底的伴奏也提供持久的框架，古画与当代器乐仍保留各自的年代和用途。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-072",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "A Woven Vine",
+    "originalTitle": "Striped Brocade with Flowering Vine × Dhaka",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Textiles",
+      "acoustic"
+    ],
+    "style": "acoustic",
+    "facts": [
+      {
+        "text": "Striped Brocade with Flowering Vine — 1700s–1800s. Catalogue attribution: Western India.",
+        "source": "https://clevelandart.org/art/1925.676"
+      },
+      {
+        "text": "Dhaka is MacLeod's contemporary production using sarod, dilruba and drone; it is not catalogued as a traditional field recording.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400003"
+      }
+    ],
+    "note": "A flowering vine repeats through brocade while a drone gives instrumental lines a continuing ground. This structural analogy is the reason for the pairing, rather than a claim that cloth and recording belong to one tradition.",
+    "media": {
+      "kind": "edition",
+      "edition": "cma-108054@sf-dhaka"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "织出的藤",
+        "facts": [
+          "花藤纹条带锦缎，18至19世纪，印度西部。",
+          "《Dhaka》是MacLeod使用萨罗德琴、迪尔鲁巴琴与持续音制作的当代作品，并非以传统田野录音收录。"
+        ],
+        "note": "花藤在锦缎上延续，持续音为器乐线条提供不断的底色。选择这组因为结构的相似，不声称织物与录音属于同一个传统。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-073",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Brazil from Above",
+    "originalTitle": "Earth Observation × Perspectives",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Earth from orbit",
+      "ambient"
+    ],
+    "style": "ambient",
+    "facts": [
+      {
+        "text": "Earth observation taken during day pass by an Expedition 36 crew member on board the International Space Station (ISS). Per Twitter message: Amazing rivers in Brazil.",
+        "source": "https://images.nasa.gov/details/iss036e026499"
+      },
+      {
+        "text": "Perspectives combines percussion, synthesizers, piano and flute in an approximately twelve-minute recording.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1300027"
+      }
+    ],
+    "note": "Rivers seen from orbit turn familiar geography into branching abstraction. A twelve-minute instrumental offers enough time to shift between map and pattern, without pretending to be a soundscape recorded below.",
+    "media": {
+      "kind": "edition",
+      "edition": "nasa-iss036e026499@sf-perspectives"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "从上方看巴西",
+        "facts": [
+          "NASA档案引用宇航员文字，将这些河流标为位于巴西。 NASA档案日期：2013-07-29；摄影：Karen Nyberg。",
+          "《Perspectives》结合打击乐、合成器、钢琴和笛，录音时长约十二分钟。"
+        ],
+        "note": "轨道上的河流把地理变成分叉的抽象图形。十二分钟器乐给人时间在地图与纹样之间切换，不冒充地面采集的声音。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-074",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Across the Atacama",
+    "originalTitle": "FCAB EMD GT22CU-3 San Pedro - Ascotan.jpg × Perspectives",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Mountains",
+      "ambient"
+    ],
+    "style": "ambient",
+    "facts": [
+      {
+        "text": "FCAB's EMD GT22CU-3 2403 and 2406 (rebuilt GR12s) and EMD/Clyde GL26C-2 2008 haul an empty \"bucket train\" (used to haul ore concentrate) from Antofagasta to Bolivia, pictured between San Pedro (not San Pedro de Atacama) and Ascotan, Chile. In the background you can see the volcano \"San Pedro\".",
+        "source": "https://commons.wikimedia.org/wiki/File:FCAB_EMD_GT22CU-3_San_Pedro_-_Ascotan.jpg"
+      },
+      {
+        "text": "Perspectives combines percussion, synthesizers, piano and flute in an approximately twelve-minute recording.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1300027"
+      }
+    ],
+    "note": "The freight train gives the immense landscape a measure. The long mixed-instrument piece provides another measure in time; its changing details may suit planning better than memorizing text.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-68193839@sf-perspectives"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "穿过阿塔卡马",
+        "facts": [
+          "FCAB的机车牵引用于运输矿石精矿的空车，行驶在San Pedro与Ascotan之间；作者特别注明这里不是San Pedro de Atacama。",
+          "《Perspectives》结合打击乐、合成器、钢琴和笛，录音时长约十二分钟。"
+        ],
+        "note": "货运列车给辽阔地貌一个尺度，长篇混合器乐则在时间里给出另一种尺度。不断变化的细节，也许更适合规划而非背诵。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-075",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "A Bird as a Vessel",
+    "originalTitle": "Bird-Shaped Container × Perspectives",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Art of the Americas",
+      "ambient"
+    ],
+    "style": "ambient",
+    "facts": [
+      {
+        "text": "Bird-Shaped Container — 500–900. Catalogue attribution: Peru, Wari style (500-900).",
+        "source": "https://clevelandart.org/art/1989.66"
+      },
+      {
+        "text": "Perspectives combines percussion, synthesizers, piano and flute in an approximately twelve-minute recording.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1300027"
+      }
+    ],
+    "note": "A Wari-style bird container asks us to see animal and object at once. The layered recording accompanies that change of viewpoint without claiming an ancient Andean musical identity.",
+    "media": {
+      "kind": "edition",
+      "edition": "cma-155050@sf-perspectives"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "鸟，也是容器",
+        "facts": [
+          "鸟形容器，500—900年，秘鲁瓦里风格。",
+          "《Perspectives》结合打击乐、合成器、钢琴和笛，录音时长约十二分钟。"
+        ],
+        "note": "瓦里风格的鸟形容器，让动物与器物同时可见。有层次的录音陪着视角变化，不冒称古代安第斯音乐。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-076",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "After the Fire",
+    "originalTitle": "Forest landscape after wildfire.jpg × Reawakening",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Forests",
+      "acoustic"
+    ],
+    "style": "acoustic",
+    "facts": [
+      {
+        "text": "The passage of a fire approximately two weeks before the photograph caused significant changes to the landscape, including canopy dehydration, the formation of gaps, and alterations in forest regeneration dynamics. Fire intensity varied across the area, and some trees are already resprouting. In the foreground, a firebreak constructed to contain the spread of the fire is visible.",
+        "source": "https://commons.wikimedia.org/wiki/File:Forest_landscape_after_wildfire.jpg"
+      },
+      {
+        "text": "Reawakening was released in 2014 and is credited for piano and cello in the composer's catalogue.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400017"
+      }
+    ],
+    "note": "A forest after wildfire is not simply a calming green image. Piano and cello can sit beside that evidence of damage and return, without making a promise that the landscape is healed.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-191126057@sf-reawakening"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "火灾之后",
+        "facts": [
+          "作者说明，拍摄前约两周发生过火灾，森林景观因此出现变化。",
+          "《Reawakening》发布于2014年，作曲家目录列出的配器为钢琴与大提琴。"
+        ],
+        "note": "火后的森林不只是一张令人平静的绿图。钢琴与大提琴陪着受损与再生的证据，不替这片土地承诺已经痊愈。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-077",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "First Spring",
+    "originalTitle": "First Spring concept painting × Reawakening",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Open-film Concept Art",
+      "acoustic"
+    ],
+    "style": "acoustic",
+    "facts": [
+      {
+        "text": "The artist identifies this as his first speedpainting after reading the screenplay.",
+        "source": "https://www.davidrevoy.com/article712/spring-open-movie-character-design-and-concept-art"
+      },
+      {
+        "text": "Reawakening was released in 2014 and is credited for piano and cello in the composer's catalogue.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400017"
+      }
+    ],
+    "note": "An early concept painting keeps the uncertainty of a project beginning. Piano and cello make this a room for first drafts, where something can be emerging without needing to be finished yet.",
+    "media": {
+      "kind": "edition",
+      "edition": "revoy-spring-kickoff-speedpainting@sf-reawakening"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "最初的春天",
+        "facts": [
+          "作者说明，这是他读完剧本后完成的第一幅快速概念画。",
+          "《Reawakening》发布于2014年，作曲家目录列出的配器为钢琴与大提琴。"
+        ],
+        "note": "最初的概念画保留项目刚开始的不确定。钢琴与大提琴使这里适合初稿，有东西正在形成，不必立刻完成。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-078",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Sparrows and Plum",
+    "originalTitle": "Sparrows on Blossoming Plum × Reawakening",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Japanese Art",
+      "acoustic"
+    ],
+    "style": "acoustic",
+    "facts": [
+      {
+        "text": "Sparrows on Blossoming Plum — 1661. Catalogue attribution: Japan, Edo period (1615–1868).",
+        "source": "https://clevelandart.org/art/1992.80.1"
+      },
+      {
+        "text": "Reawakening was released in 2014 and is credited for piano and cello in the composer's catalogue.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400017"
+      }
+    ],
+    "note": "The birds and blossom make change visible at a small scale. Two instrumental colors are enough beside them; the pairing keeps renewal domestic instead of inflating it into a triumph.",
+    "media": {
+      "kind": "edition",
+      "edition": "cma-156870@sf-reawakening"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "雀与梅",
+        "facts": [
+          "梅花上的麻雀，1661年，日本江户时期。",
+          "《Reawakening》发布于2014年，作曲家目录列出的配器为钢琴与大提琴。"
+        ],
+        "note": "鸟与花把变化放在很小的尺度里，两种器乐颜色已经足够。让更新留在日常，不把它放大成胜利宣言。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-079",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Water, Held",
+    "originalTitle": "Blue Lake in Mount Cook National Park.jpg × Fluidscape",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Lakes",
+      "ambient"
+    ],
+    "style": "ambient",
+    "facts": [
+      {
+        "text": "Blue Lake in Aoraki/Mount Cook National Park in the South Island, New Zealand.",
+        "source": "https://commons.wikimedia.org/wiki/File:Blue_Lake_in_Mount_Cook_National_Park.jpg"
+      },
+      {
+        "text": "Fluidscape credits synthesizers, flute and harp; this recording runs approximately thirty minutes.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100393"
+      }
+    ],
+    "note": "A fixed lake photograph and a thirty-minute electronic work offer different durations of attention. The flute and harp colors can pass through while the shoreline stays available at the edge of vision.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-64790035@sf-fluidscape"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "水，停留",
+        "facts": [
+          "新西兰南岛奥拉基／库克山国家公园内的蓝湖。",
+          "《Fluidscape》列出的配器为合成器、笛与竖琴，这版录音时长约三十分钟。"
+        ],
+        "note": "固定的湖景与三十分钟电子作品，给出不同长度的注意力。笛、竖琴的颜色可以经过，岸线仍留在余光可及的地方。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-080",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Glacier Lines",
+    "originalTitle": "Earth Observation × Fluidscape",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Earth from orbit",
+      "ambient"
+    ],
+    "style": "ambient",
+    "facts": [
+      {
+        "text": "Earth Observation taken during a day pass by the Expedition 40 crew aboard the International Space Station (ISS). Folder lists this as: Near the Straits of Magellan - Glaciers.",
+        "source": "https://images.nasa.gov/details/iss040e006214"
+      },
+      {
+        "text": "Fluidscape credits synthesizers, flute and harp; this recording runs approximately thirty minutes.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100393"
+      }
+    ],
+    "note": "The Magellan-area glaciers carry movement on a scale beyond a work session. A long ambient span is a modest counterpart, chosen for continuity rather than to imitate ice or claim a scientific sonification.",
+    "media": {
+      "kind": "edition",
+      "edition": "nasa-iss040e006214@sf-fluidscape"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "冰川的线",
+        "facts": [
+          "档案文件夹标注为麦哲伦海峡附近的冰川。 NASA档案日期：2014-06-01；摄影：Reid Wiseman。",
+          "《Fluidscape》列出的配器为合成器、笛与竖琴，这版录音时长约三十分钟。"
+        ],
+        "note": "麦哲伦海峡附近的冰川，运动尺度远超一次工作。长篇氛围只是一个小小的对应，取它的连续，不模仿冰声，也不冒称科学声化。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-081",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Mountain Brook",
+    "originalTitle": "Landscape Album in Various Styles: Pleasure in a Mountain Brook × Fluidscape",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Chinese Art",
+      "ambient"
+    ],
+    "style": "ambient",
+    "facts": [
+      {
+        "text": "Landscape Album in Various Styles: Pleasure in a Mountain Brook — 1684. Catalogue attribution: China, Qing dynasty (1644-1911).",
+        "source": "https://clevelandart.org/art/1955.37.9"
+      },
+      {
+        "text": "Fluidscape credits synthesizers, flute and harp; this recording runs approximately thirty minutes.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100393"
+      }
+    ],
+    "note": "A painted brook already contains a way for the eye to travel. A long electronic field leaves that route open rather than punctuating every turn, making the image usable as a quiet background.",
+    "media": {
+      "kind": "edition",
+      "edition": "cma-132931@sf-fluidscape"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "山涧之乐",
+        "facts": [
+          "《仿古山水册》中的山涧景，1684年，中国清代。",
+          "《Fluidscape》列出的配器为合成器、笛与竖琴，这版录音时长约三十分钟。"
+        ],
+        "note": "画中山涧已经给目光一条路径。长篇电子声场让路径敞开，不在每次转折处加重音，让图像安静地成为背景。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-082",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Ama Dablam",
+    "originalTitle": "Ama Dablam and the Himalayas, Mountains of Nepal.jpg × Silver Blue Light",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Mountains",
+      "ambient"
+    ],
+    "style": "ambient",
+    "facts": [
+      {
+        "text": "Chola Valley. Mountains of Nepal, Himalayas.",
+        "source": "https://commons.wikimedia.org/wiki/File:Ama_Dablam_and_the_Himalayas,_Mountains_of_Nepal.jpg"
+      },
+      {
+        "text": "Silver Blue Light combines guitar and synthesizers, as credited in Kevin MacLeod's catalogue.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100718"
+      }
+    ],
+    "note": "Guitar places a familiar human gesture beside the Himalayan scale, while synthesizers leave space around it. The mountain need not become a challenge to conquer in order to accompany a desk.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-125216703@sf-silver-blue-light"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "阿玛达布拉姆峰",
+        "facts": [
+          "来源说明将这片山地标为尼泊尔喜马拉雅山区的Chola Valley。",
+          "根据Kevin MacLeod的目录，《Silver Blue Light》结合吉他与合成器。"
+        ],
+        "note": "吉他把熟悉的人手动作放到喜马拉雅的尺度旁，合成器在周围留出空间。山不必成为要征服的挑战，也可以陪着书桌。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-083",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Long Island City",
+    "originalTitle": "Long Island City New York May 2015 panorama 3.jpg × Silver Blue Light",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Night cities",
+      "ambient"
+    ],
+    "style": "ambient",
+    "facts": [
+      {
+        "text": "Three-segment panorama of Long Island City, Queens, New York City.",
+        "source": "https://commons.wikimedia.org/wiki/File:Long_Island_City_New_York_May_2015_panorama_3.jpg"
+      },
+      {
+        "text": "Silver Blue Light combines guitar and synthesizers, as credited in Kevin MacLeod's catalogue.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100718"
+      }
+    ],
+    "note": "A city panorama can remain distant even when its lights are precise. Guitar within electronic space keeps that balance between something touchable and something farther away, without adding traffic noise.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-40613194@sf-silver-blue-light"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "长岛市",
+        "facts": [
+          "纽约皇后区长岛市的三幅拼接全景照片。",
+          "根据Kevin MacLeod的目录，《Silver Blue Light》结合吉他与合成器。"
+        ],
+        "note": "城市全景即使灯光清晰，也仍在远处。电子空间里的吉他保持可触与遥远之间的平衡，不额外添上车流声。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-084",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Crooked Creek",
+    "originalTitle": "Crooked Creek landscape, Ivvavik National Park, YT.jpg × Silver Blue Light",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Forests",
+      "ambient"
+    ],
+    "style": "ambient",
+    "facts": [
+      {
+        "text": "Crooked Creek, just above where it flows into the Firth River in Canada's Ivvavik National Park",
+        "source": "https://commons.wikimedia.org/wiki/File:Crooked_Creek_landscape,_Ivvavik_National_Park,_YT.jpg"
+      },
+      {
+        "text": "Silver Blue Light combines guitar and synthesizers, as credited in Kevin MacLeod's catalogue.",
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100718"
+      }
+    ],
+    "note": "The northern landscape provides openness without a crowded itinerary. Guitar and synth make a contemporary companion to that view, leaving the place's own cultural and environmental histories unclaimed.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-51043112@sf-silver-blue-light"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "弯曲的溪流",
+        "facts": [
+          "加拿大伊瓦维克国家公园内，Crooked Creek即将汇入Firth River的河段。",
+          "根据Kevin MacLeod的目录，《Silver Blue Light》结合吉他与合成器。"
+        ],
+        "note": "北方地貌给出开阔，不附上拥挤的行程。吉他与合成器作当代陪伴，不替这片地方占有文化或环境历史的解释权。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-085",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "A Small Shelter",
+    "originalTitle": "Claremont Landscape Garden, Princess Charlotte's tea-house.jpg × El Noi de la Mare",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Gardens",
+      "acoustic"
+    ],
+    "style": "acoustic",
+    "facts": [
+      {
+        "text": "Claremont Landscape Garden, temporary replica of Princess Charlotte's tea-house, 2017.",
+        "source": "https://commons.wikimedia.org/wiki/File:Claremont_Landscape_Garden,_Princess_Charlotte%27s_tea-house.jpg"
+      },
+      {
+        "text": "Jujutacular recorded this instrumental guitar performance of the Catalan song El Noi de la Mare on 7 October 2009.",
+        "source": "https://commons.wikimedia.org/wiki/File:El_Noi_de_la_Mare_%28guitar%29.ogg"
+      }
+    ],
+    "note": "A tea-house and a carol played without words both reduce a social occasion to a quiet outline. The guitar preserves the melody's origin while making room for reading rather than singing along.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-71310013@sf-noi"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "小小庇护",
+        "facts": [
+          "Claremont风景园中夏洛特公主茶屋的临时复制建筑，摄于2017年。",
+          "Jujutacular于2009年10月7日录制这版加泰罗尼亚歌曲《El Noi de la Mare》的无词吉他演奏。"
+        ],
+        "note": "茶屋与无词演奏的颂歌，都把社交时刻收成安静的轮廓。吉他保留旋律的来处，也给阅读留出地方，不必跟唱。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-086",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Flowers on a Dish",
+    "originalTitle": "Gilded Dish with Flowers and Leaves × El Noi de la Mare",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Islamic Art",
+      "acoustic"
+    ],
+    "style": "acoustic",
+    "facts": [
+      {
+        "text": "Gilded Dish with Flowers and Leaves — c. 1590. Catalogue attribution: Turkey, Iznik, Ottoman period (1299–1922).",
+        "source": "https://clevelandart.org/art/1915.663"
+      },
+      {
+        "text": "Jujutacular recorded this instrumental guitar performance of the Catalan song El Noi de la Mare on 7 October 2009.",
+        "source": "https://commons.wikimedia.org/wiki/File:El_Noi_de_la_Mare_%28guitar%29.ogg"
+      }
+    ],
+    "note": "The Iznik dish and a Catalan melody travel here as two distinct objects of care. Plucked guitar is small enough beside the decorated surface that neither needs to become an emblem of an entire culture.",
+    "media": {
+      "kind": "edition",
+      "edition": "cma-95149@sf-noi"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "盘上的花",
+        "facts": [
+          "鎏金花叶纹盘，约1590年，土耳其伊兹尼克，奥斯曼时期。",
+          "Jujutacular于2009年10月7日录制这版加泰罗尼亚歌曲《El Noi de la Mare》的无词吉他演奏。"
+        ],
+        "note": "伊兹尼克瓷盘与加泰罗尼亚旋律，各自带着被用心制作的痕迹。拨弦吉他足够轻小，双方都不必成为整个文化的象征。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-087",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Snow at Home",
+    "originalTitle": "Snow-covered village and hills, Mihama, February 2014.jpg × El Noi de la Mare",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Snow",
+      "acoustic"
+    ],
+    "style": "acoustic",
+    "facts": [
+      {
+        "text": "Snow-covered village and hills, Mihama, Fukui Prefecture, Japan.",
+        "source": "https://commons.wikimedia.org/wiki/File:Snow-covered_village_and_hills,_Mihama,_February_2014.jpg"
+      },
+      {
+        "text": "Jujutacular recorded this instrumental guitar performance of the Catalan song El Noi de la Mare on 7 October 2009.",
+        "source": "https://commons.wikimedia.org/wiki/File:El_Noi_de_la_Mare_%28guitar%29.ogg"
+      }
+    ],
+    "note": "A snow-covered Japanese village meets a Catalan seasonal song in instrumental form. The point is not a shared holiday, but the ordinary possibility of staying indoors while the world outside changes.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-201645787@sf-noi"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "家门前的雪",
+        "facts": [
+          "日本福井县美滨町被雪覆盖的村庄与山丘。",
+          "Jujutacular于2009年10月7日录制这版加泰罗尼亚歌曲《El Noi de la Mare》的无词吉他演奏。"
+        ],
+        "note": "日本雪村与器乐版加泰罗尼亚时令歌相遇。不是假设共同节日，而是一个普通可能：外面变化着，人暂时留在屋内。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-088",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "A Jar for Rain",
+    "originalTitle": "Water Jar (Olla) with Rainbird × El Noi de la Mare",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Art of the Americas",
+      "acoustic"
+    ],
+    "style": "acoustic",
+    "facts": [
+      {
+        "text": "Water Jar (Olla) with Rainbird — 1850–60. Catalogue attribution: Native North America, Southwest, New Mexico, Zuni (A:shiwi) Pueblo.",
+        "source": "https://clevelandart.org/art/1937.898"
+      },
+      {
+        "text": "Jujutacular recorded this instrumental guitar performance of the Catalan song El Noi de la Mare on 7 October 2009.",
+        "source": "https://commons.wikimedia.org/wiki/File:El_Noi_de_la_Mare_%28guitar%29.ogg"
+      }
+    ],
+    "note": "The Zuni rainbird jar and the guitar melody retain separate cultural meanings. Their meeting is at the scale of the hand: a made vessel beside a plucked string, with no invented ceremonial connection.",
+    "media": {
+      "kind": "edition",
+      "edition": "cma-117338@sf-noi"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "盛雨的器物",
+        "facts": [
+          "雨鸟纹水罐，1850—1860年，新墨西哥祖尼（A:shiwi）普韦布洛。",
+          "Jujutacular于2009年10月7日录制这版加泰罗尼亚歌曲《El Noi de la Mare》的无词吉他演奏。"
+        ],
+        "note": "祖尼雨鸟纹罐与吉他旋律保留各自文化含义。相遇在人手的尺度上：制成的器物旁有拨动的弦，不虚构仪式联系。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-089",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "The Brush Holder",
+    "originalTitle": "대나무 산수무늬 팔각필통 [竹山水文八各筆筒] × Gnossienne No. 3",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Korean Art",
+      "piano"
+    ],
+    "style": "piano",
+    "facts": [
+      {
+        "text": "Brush Holder with Bamboo and Landscape Design — 1800s. Catalogue attribution: Korea, Joseon dynasty (1392–1910).",
+        "source": "https://clevelandart.org/art/1988.74"
+      },
+      {
+        "text": "La Pianista performed Satie's third Gnossienne on 16 November 2010. The composition appeared in the set published in 1893.",
+        "source": "https://commons.wikimedia.org/wiki/File:Gnossienne_3_%28Satie%29.ogg"
+      }
+    ],
+    "note": "A brush holder is an object made to stay beside work. Satie's piano piece gives that modest role an audible companion; I prefer this desk-sized pairing to another grand landscape.",
+    "media": {
+      "kind": "edition",
+      "edition": "cma-154264@sf-gnossienne3"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "笔筒",
+        "facts": [
+          "竹与山水纹笔筒，19世纪，韩国朝鲜王朝时期。",
+          "La Pianista于2010年11月16日演奏萨蒂第三首《Gnossienne》；作品属于1893年出版的曲集。"
+        ],
+        "note": "笔筒本来就是留在工作旁边的器物。萨蒂钢琴给这个朴素角色一份有声陪伴，比再放一幅宏大山水更贴近书桌。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-090",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "A Quiet Public Room",
+    "originalTitle": "Reading room in the library - NÄL hospital.jpg × Gnossienne No. 3",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Interiors",
+      "piano"
+    ],
+    "style": "piano",
+    "facts": [
+      {
+        "text": "Reading room in the library in Norra Älvsborgs Länssjukhus (Northern Älvsborg county hospital) - NÄL, Trollhättan, Sweden.",
+        "source": "https://commons.wikimedia.org/wiki/File:Reading_room_in_the_library_-_N%C3%84L_hospital.jpg"
+      },
+      {
+        "text": "La Pianista performed Satie's third Gnossienne on 16 November 2010. The composition appeared in the set published in 1893.",
+        "source": "https://commons.wikimedia.org/wiki/File:Gnossienne_3_%28Satie%29.ogg"
+      }
+    ],
+    "note": "A hospital library reading room is a particularly ordinary kind of refuge. Solo piano fits its scale without turning the space into a spa or promising any therapeutic effect.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-68146445@sf-gnossienne3"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "安静的公共房间",
+        "facts": [
+          "瑞典特罗尔海坦Norra Älvsborgs Länssjukhus医院图书馆的阅览室。",
+          "La Pianista于2010年11月16日演奏萨蒂第三首《Gnossienne》；作品属于1893年出版的曲集。"
+        ],
+        "note": "医院图书馆的阅览室，是一种很日常的暂歇处。独奏钢琴与它的尺度相称，不把空间变成疗养广告，也不承诺治疗效果。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-091",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Bamboo, Unhurried",
+    "originalTitle": "묵죽도 [墨竹圖] × Gnossienne No. 3",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Korean Art",
+      "piano"
+    ],
+    "style": "piano",
+    "facts": [
+      {
+        "text": "Bamboo — 1900s. Catalogue attribution: Korea.",
+        "source": "https://clevelandart.org/art/1999.169"
+      },
+      {
+        "text": "La Pianista performed Satie's third Gnossienne on 16 November 2010. The composition appeared in the set published in 1893.",
+        "source": "https://commons.wikimedia.org/wiki/File:Gnossienne_3_%28Satie%29.ogg"
+      }
+    ],
+    "note": "The bamboo drawing leaves attention free to move among lines. A solo piano setting similarly avoids a crowd of instrumental colors, so the pairing can remain spare without being empty.",
+    "media": {
+      "kind": "edition",
+      "edition": "cma-160880@sf-gnossienne3"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "竹，不赶时间",
+        "facts": [
+          "竹图，20世纪，韩国。",
+          "La Pianista于2010年11月16日演奏萨蒂第三首《Gnossienne》；作品属于1893年出版的曲集。"
+        ],
+        "note": "竹的画面让视线在线条间自在移动，钢琴独奏也不拥入许多器乐颜色。搭配因此可以简省，却不空洞。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-092",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Delhi in Rain",
+    "originalTitle": "Delhi, India, Rain, Street at night.jpg × Gnossienne No. 3",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Rain",
+      "piano"
+    ],
+    "style": "piano",
+    "facts": [
+      {
+        "text": "City traffic on the street, motorcycles under the rain, night time at Connaught Place, New Delhi, India.",
+        "source": "https://commons.wikimedia.org/wiki/File:Delhi,_India,_Rain,_Street_at_night.jpg"
+      },
+      {
+        "text": "La Pianista performed Satie's third Gnossienne on 16 November 2010. The composition appeared in the set published in 1893.",
+        "source": "https://commons.wikimedia.org/wiki/File:Gnossienne_3_%28Satie%29.ogg"
+      }
+    ],
+    "note": "A French piano miniature and a Delhi night photograph do not share a local origin. They meet in the act of looking from shelter: the street remains active while the listening position can stay still.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-103940870@sf-gnossienne3"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "德里雨中",
+        "facts": [
+          "印度新德里康诺特广场夜间的街道交通，摩托车停在雨中。",
+          "La Pianista于2010年11月16日演奏萨蒂第三首《Gnossienne》；作品属于1893年出版的曲集。"
+        ],
+        "note": "法国钢琴小品与德里夜景不共享地方出处。它们相遇在从避雨处向外看的姿态：街道还在活动，听者可以暂时不动。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-093",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Across Marina Bay",
+    "originalTitle": "Singapore skyline at night.jpg × Nocturne in E-flat major, Op. 9 No. 2",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Night cities",
+      "piano"
+    ],
+    "style": "piano",
+    "facts": [
+      {
+        "text": "Singapore skyline from Naumi hotel rooftop",
+        "source": "https://commons.wikimedia.org/wiki/File:Singapore_skyline_at_night.jpg"
+      },
+      {
+        "text": "Membeth recorded Chopin's E-flat major Nocturne, Op. 9 No. 2, on grand piano on 27 June 2013 and released this performance under CC0.",
+        "source": "https://commons.wikimedia.org/wiki/File:Chopin.Nocturne.Es-Dur.opus.9.2.ogg"
+      }
+    ],
+    "note": "The skyline supplies a contemporary night for a nineteenth-century nocturne. Piano brings the view to the scale of a room; its expressive phrases may ask more attention than ambient sound does.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-135963807@sf-nocturne"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "滨海湾对岸",
+        "facts": [
+          "从Naumi酒店屋顶拍摄的新加坡天际线。",
+          "Membeth于2013年6月27日以三角钢琴录制肖邦降E大调夜曲Op.9 No.2，并以CC0发布这次演奏。"
+        ],
+        "note": "天际线为十九世纪夜曲提供一个当代夜晚。钢琴把景色拉回房间的尺度；富有表情的乐句，也可能比氛围音多要一点注意力。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-094",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Autumn Pool",
+    "originalTitle": "Autumn Landscape and Pool × Nocturne in E-flat major, Op. 9 No. 2",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "American Painting and Sculpture",
+      "piano"
+    ],
+    "style": "piano",
+    "facts": [
+      {
+        "text": "Autumn Landscape and Pool — 1870s-1880s. Catalogue attribution: United States.",
+        "source": "https://clevelandart.org/art/1927.390"
+      },
+      {
+        "text": "Membeth recorded Chopin's E-flat major Nocturne, Op. 9 No. 2, on grand piano on 27 June 2013 and released this performance under CC0.",
+        "source": "https://commons.wikimedia.org/wiki/File:Chopin.Nocturne.Es-Dur.opus.9.2.ogg"
+      }
+    ],
+    "note": "A pool holds the surrounding landscape in a smaller space. The nocturne's piano setting offers a similar intimacy beside the autumn image, without suggesting that the painting was made for this music.",
+    "media": {
+      "kind": "edition",
+      "edition": "cma-109242@sf-nocturne"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "秋池",
+        "facts": [
+          "《秋景与池塘》，19世纪70至80年代，美国。",
+          "Membeth于2013年6月27日以三角钢琴录制肖邦降E大调夜曲Op.9 No.2，并以CC0发布这次演奏。"
+        ],
+        "note": "池水把周围风景收进更小的空间，夜曲的钢琴在秋景旁提供类似的亲近，不暗示这幅画原为此曲而作。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-095",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "The Promenade",
+    "originalTitle": "Norderney, Promenade -- 2025 -- 9281.jpg × Nocturne in E-flat major, Op. 9 No. 2",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Coasts",
+      "piano"
+    ],
+    "style": "piano",
+    "facts": [
+      {
+        "text": "Promenade (corner at Moltkestraße; heading east), Norderney, Lower Saxony, Germany",
+        "source": "https://commons.wikimedia.org/wiki/File:Norderney,_Promenade_--_2025_--_9281.jpg"
+      },
+      {
+        "text": "Membeth recorded Chopin's E-flat major Nocturne, Op. 9 No. 2, on grand piano on 27 June 2013 and released this performance under CC0.",
+        "source": "https://commons.wikimedia.org/wiki/File:Chopin.Nocturne.Es-Dur.opus.9.2.ogg"
+      }
+    ],
+    "note": "The promenade invites a slow change of viewpoint while the photograph stays fixed. A familiar nocturne can accompany that imagined walk, though its tune may be too present for listeners doing verbal work.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-174683909@sf-nocturne"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "海边步道",
+        "facts": [
+          "德国诺德奈岛海滨步道，在Moltkestraße转角处向东拍摄。",
+          "Membeth于2013年6月27日以三角钢琴录制肖邦降E大调夜曲Op.9 No.2，并以CC0发布这次演奏。"
+        ],
+        "note": "步道邀请视角缓缓变化，照片却保持不动。熟悉夜曲可陪着想象中的散步，不过旋律感较强，文字工作时也可能太靠前。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-096",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Streams and Mountains",
+    "originalTitle": "계산진경도 × Nocturne in E-flat major, Op. 9 No. 2",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Korean Art",
+      "piano"
+    ],
+    "style": "piano",
+    "facts": [
+      {
+        "text": "Landscape with Streams and Mountains — late 1700s or early 1800s. Catalogue attribution: Korea, Joseon dynasty (1392–1910).",
+        "source": "https://clevelandart.org/art/1915.216"
+      },
+      {
+        "text": "Membeth recorded Chopin's E-flat major Nocturne, Op. 9 No. 2, on grand piano on 27 June 2013 and released this performance under CC0.",
+        "source": "https://commons.wikimedia.org/wiki/File:Chopin.Nocturne.Es-Dur.opus.9.2.ogg"
+      }
+    ],
+    "note": "The Korean landscape offers another way to spend time with distance. A Polish composer's nocturne, played in a modern recording, adds an interior voice without being labeled the landscape's native sound.",
+    "media": {
+      "kind": "edition",
+      "edition": "cma-172782@sf-nocturne"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "溪山之间",
+        "facts": [
+          "溪山图，18世纪末或19世纪初，韩国朝鲜王朝时期。",
+          "Membeth于2013年6月27日以三角钢琴录制肖邦降E大调夜曲Op.9 No.2，并以CC0发布这次演奏。"
+        ],
+        "note": "韩国山水提供另一种与远方共处的方式。波兰作曲家的夜曲、现代演奏的录音，带来室内的声音，不被标成山水的本地音乐。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-097",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "The Lesson Pavilion",
+    "originalTitle": "Garden Scene with a Master Instructing a Student in a Pavilion × Captaine Hume’s Pavan",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Islamic Art",
+      "acoustic"
+    ],
+    "style": "acoustic",
+    "facts": [
+      {
+        "text": "Garden Scene with a Master Instructing a Student in a Pavilion — c. 1570–1590s. Catalogue attribution: Iran, Qazvin, Safavid period (1501-1722).",
+        "source": "https://clevelandart.org/art/1939.508"
+      },
+      {
+        "text": "Phillip W. Serna performed Hume's Pavan on 13 May 2008. The piece is No. 46 in The First Part of Ayres, published in 1605.",
+        "source": "https://commons.wikimedia.org/wiki/File:Captaine_Hume%E2%80%99s_Pavan%2C_No.46%2C_the_First_Part_of_Ayres_%281605%29.ogg"
+      }
+    ],
+    "note": "A Safavid teaching scene and an English viol pavan let two early-modern worlds occupy the same desk. The connection is a measured space for attention, not evidence of music once played in the painted pavilion.",
+    "media": {
+      "kind": "edition",
+      "edition": "cma-118474@sf-hume"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "授课的亭子",
+        "facts": [
+          "园亭中的师生授课场景，约1570至1590年代，伊朗加兹温，萨法维时期。",
+          "Phillip W. Serna于2008年5月13日演奏休姆这首帕凡舞曲；作品是1605年出版的《The First Part of Ayres》第46首。"
+        ],
+        "note": "萨法维的授课场景与英国维奥尔琴帕凡舞曲，让两个近世世界同在书桌。联系在于有分寸的注意空间，不是证明亭中曾演奏此曲。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-098",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "A Cloth Laid Out",
+    "originalTitle": "Shoulder Cloth × Captaine Hume’s Pavan",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Textiles",
+      "acoustic"
+    ],
+    "style": "acoustic",
+    "facts": [
+      {
+        "text": "Shoulder Cloth — 1800s. Catalogue attribution: Indonesia, Sumatra, Palembang, 19th century.",
+        "source": "https://clevelandart.org/art/1991.313"
+      },
+      {
+        "text": "Phillip W. Serna performed Hume's Pavan on 13 May 2008. The piece is No. 46 in The First Part of Ayres, published in 1605.",
+        "source": "https://commons.wikimedia.org/wiki/File:Captaine_Hume%E2%80%99s_Pavan%2C_No.46%2C_the_First_Part_of_Ayres_%281605%29.ogg"
+      }
+    ],
+    "note": "The shoulder cloth's made surface and the bowed viol's physical grain are the reason to place them together. Their origins remain distinct; neither is used to explain the other's ceremonial meaning.",
+    "media": {
+      "kind": "edition",
+      "edition": "cma-156065@sf-hume"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "展开的肩布",
+        "facts": [
+          "肩布，19世纪，印度尼西亚苏门答腊巨港。",
+          "Phillip W. Serna于2008年5月13日演奏休姆这首帕凡舞曲；作品是1605年出版的《The First Part of Ayres》第46首。"
+        ],
+        "note": "肩布的制作表面与弓弦的物理质感，是放在一起的原因。出处仍各自独立，不用一方去解释另一方的仪式含义。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-099",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "At the Palace Wall",
+    "originalTitle": "Topkapı Palace Harem, Exterior Details.jpg × Captaine Hume’s Pavan",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "Architecture",
+      "acoustic"
+    ],
+    "style": "acoustic",
+    "facts": [
+      {
+        "text": "Topkapı Palace Harem, exterior details, Istanbul, Türkiye",
+        "source": "https://commons.wikimedia.org/wiki/File:Topkap%C4%B1_Palace_Harem,_Exterior_Details.jpg"
+      },
+      {
+        "text": "Phillip W. Serna performed Hume's Pavan on 13 May 2008. The piece is No. 46 in The First Part of Ayres, published in 1605.",
+        "source": "https://commons.wikimedia.org/wiki/File:Captaine_Hume%E2%80%99s_Pavan%2C_No.46%2C_the_First_Part_of_Ayres_%281605%29.ogg"
+      }
+    ],
+    "note": "An exterior detail at Topkapı keeps attention on a fragment rather than a whole empire. The solo pavan similarly keeps the musical scale close, despite the historical distance between object and listener.",
+    "media": {
+      "kind": "edition",
+      "edition": "commons-176677193@sf-hume"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "宫墙之外",
+        "facts": [
+          "土耳其伊斯坦布尔托普卡帕宫后宫的外部建筑细节。",
+          "Phillip W. Serna于2008年5月13日演奏休姆这首帕凡舞曲；作品是1605年出版的《The First Part of Ayres》第46首。"
+        ],
+        "note": "托普卡帕宫的一处外部细节，让注意力停在片段，而非整个帝国。独奏帕凡也把音乐尺度拉近，尽管人与历史隔得很远。"
+      }
+    }
+  },
+  {
+    "id": "sound-first-100",
+    "revision": 1,
+    "curator": "Agent FM · listening preview",
+    "collection": "sound-first-preview",
+    "title": "Travelers at a Distance",
+    "originalTitle": "Landscape with Travelers × Captaine Hume’s Pavan",
+    "language": "en",
+    "tags": [
+      "listening-preview",
+      "European Painting and Sculpture",
+      "acoustic"
+    ],
+    "style": "acoustic",
+    "facts": [
+      {
+        "text": "Landscape with Travelers — 1630s. Catalogue attribution: Netherlands.",
+        "source": "https://clevelandart.org/art/1916.823"
+      },
+      {
+        "text": "Phillip W. Serna performed Hume's Pavan on 13 May 2008. The piece is No. 46 in The First Part of Ayres, published in 1605.",
+        "source": "https://commons.wikimedia.org/wiki/File:Captaine_Hume%E2%80%99s_Pavan%2C_No.46%2C_the_First_Part_of_Ayres_%281605%29.ogg"
+      }
+    ],
+    "note": "The travelers in the landscape need not bring a story into the room. A pavan offers paced movement beside them, leaving the destination open and the foreground available for your own work.",
+    "media": {
+      "kind": "edition",
+      "edition": "cma-97189@sf-hume"
+    },
+    "translations": {
+      "zh-CN": {
+        "title": "远处的旅人",
+        "facts": [
+          "有旅人的风景，17世纪30年代，荷兰。",
+          "Phillip W. Serna于2008年5月13日演奏休姆这首帕凡舞曲；作品是1605年出版的《The First Part of Ayres》第46首。"
+        ],
+        "note": "风景中的旅人不必把故事带进房间。帕凡舞曲在旁边给出有节制的行进，目的地留白，近处仍给你自己的工作。"
+      }
+    }
   }
 ]

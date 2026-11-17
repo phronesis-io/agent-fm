@@ -65,15 +65,15 @@
     },
     {
       "id": "Persian santur",
-      "status": "unsearched",
-      "source": null,
-      "finding": null
+      "status": "searched",
+      "source": "https://commons.wikimedia.org/wiki/File:Sadeghi-Dehlavi-Concertino_for_Santur_Full.ogg",
+      "finding": "Found a 14-minute orchestral concertino and a shorter Payvar excerpt. Not selected: full recording rights and work-session dynamics need closer review."
     },
     {
       "id": "Turkish ney",
-      "status": "unsearched",
-      "source": null,
-      "finding": null
+      "status": "searched",
+      "source": "https://freemusicarchive.org/music/serge-quadrado/islamic/duduk-and-ney/",
+      "finding": "A named lead exists, but the listing does not identify it as instrumental. Not selected."
     },
     {
       "id": "Andalusian instrumental",
@@ -83,39 +83,39 @@
     },
     {
       "id": "West African balafon",
-      "status": "unsearched",
-      "source": null,
-      "finding": null
+      "status": "searched",
+      "source": "https://folkways.si.edu/lassana-diabate/bala",
+      "finding": "Artist-led instrumental album identified; redistribution not established. Another composer site uses NC-ND. Do not substitute marimba for verified balafon tradition."
     },
     {
       "id": "Ethiopian instrumental",
-      "status": "unsearched",
-      "source": null,
-      "finding": null
+      "status": "searched",
+      "source": "https://freemusicarchive.org/music/Imperial_Tiger_Orchestra/Ethio_Event_1/Imperial_Tiger_Orchestra_01/",
+      "finding": "Candidate is NC-ND and not marked instrumental. A modern trap candidate is also NC and does not fit the quiet FM brief."
     },
     {
       "id": "Malagasy valiha",
-      "status": "unsearched",
-      "source": null,
-      "finding": null
+      "status": "searched",
+      "source": "https://www.annbrundigestudio.com/annieBooks/2012/madLemur/valiha/creditsValiha.html",
+      "finding": "Only short NC-licensed samples established in this pass; not a full-session candidate."
     },
     {
       "id": "Andean instrumental",
-      "status": "unsearched",
-      "source": null,
-      "finding": null
+      "status": "searched",
+      "source": "https://freemusicarchive.org/music/31_de_Octubre/single/Milongueros/",
+      "finding": "Found quena/charango ensemble lead. Listing says instrumental No; exact redistribution and voice status not resolved. Hold."
     },
     {
       "id": "Brazilian choro",
-      "status": "unsearched",
-      "source": null,
-      "finding": null
+      "status": "searched",
+      "source": "https://promus.musica.ufrj.br/wp-content/uploads/2022/07/prod-pedagogico-Paula-Buscacio.pdf",
+      "finding": "Found pedagogical arrangements under NC-SA, not a cleared performance suitable for bundling. Hold."
     },
     {
       "id": "Mexican instrumental",
-      "status": "unsearched",
+      "status": "searched",
       "source": null,
-      "finding": null
+      "finding": "Search did not establish a clearly sourced, eligible Mexican recording. Guitar timbre alone is not provenance."
     },
     {
       "id": "Caribbean acoustic",
@@ -125,45 +125,45 @@
     },
     {
       "id": "Korean gayageum",
-      "status": "unsearched",
+      "status": "searched",
       "source": null,
-      "finding": null
+      "finding": "Commons search did not establish a complete eligible recording. Do not relabel koto or piano as Korean music."
     },
     {
       "id": "Chinese pipa and guqin",
-      "status": "unsearched",
-      "source": null,
-      "finding": null
+      "status": "source-reviewed",
+      "source": "https://commons.wikimedia.org/wiki/File:Liu_Shui.ogg",
+      "finding": "Existing guqin recording retained in two previews; not counted as newly acquired audio. Pipa remains a gap."
     },
     {
       "id": "Vietnamese dan tranh",
-      "status": "unsearched",
+      "status": "searched",
       "source": null,
-      "finding": null
+      "finding": "FMA search did not establish a complete cleared recording; remains a gap."
     },
     {
       "id": "Thai instrumental",
-      "status": "unsearched",
-      "source": null,
-      "finding": null
+      "status": "searched",
+      "source": "https://commons.wikimedia.org/wiki/Category:Audio_files_of_music_of_Thailand",
+      "finding": "Results dominated by short anthem recordings; not appropriate substitutes for quiet FM. Pra Narai is a lead for later source review."
     },
     {
       "id": "Nordic fiddle",
-      "status": "unsearched",
-      "source": null,
-      "finding": null
+      "status": "searched",
+      "source": "https://freemusicarchive.org/music/Loretta_Kelley/bio",
+      "finding": "Identified a specialist performer, but no particular cleared recording was accepted in this pass."
     },
     {
       "id": "Celtic harp",
-      "status": "unsearched",
-      "source": null,
-      "finding": null
+      "status": "searched",
+      "source": "https://freemusicarchive.org/music/shane-ivers/single/the-medieval-banquet/",
+      "finding": "CC BY medieval-style ensemble identified; more festive than the desired background. Another CC0 Celtic result explicitly declares AI generation and was not bundled."
     },
     {
       "id": "Iberian guitar",
-      "status": "unsearched",
-      "source": null,
-      "finding": null
+      "status": "source-reviewed",
+      "source": "https://commons.wikimedia.org/wiki/File:El_Noi_de_la_Mare_(guitar).ogg",
+      "finding": "Catalan song in Jujutacular guitar performance: source/recording licence reviewed, decoded and bundled as preview. Human audition pending."
     },
     {
       "id": "European early keyboard",
@@ -197,15 +197,15 @@
     },
     {
       "id": "Game and animation instrumental",
-      "status": "unsearched",
-      "source": null,
-      "finding": null
+      "status": "source-reviewed",
+      "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2000017",
+      "finding": "Eight-bit Canon arrangement bundled beside game backgrounds; original game soundtrack authorship is not claimed."
     },
     {
       "id": "Urban field recording",
-      "status": "unsearched",
-      "source": null,
-      "finding": null
+      "status": "searched",
+      "source": "https://freesound.org/people/xkeril/sounds/613781/",
+      "finding": "University library ambience, CC0, 7:13, but source mentions voices and doors. Not selected for the instrumental-first batch."
     },
     {
       "id": "Domestic and workshop sound",
@@ -227,15 +227,15 @@
     },
     {
       "id": "Minimal and dub electronic",
-      "status": "unsearched",
-      "source": null,
-      "finding": null
+      "status": "source-reviewed",
+      "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100175",
+      "finding": "Long-form ambient electronic subset expanded with Light Awash and Fluidscape. Dub not represented; human audition pending."
     },
     {
       "id": "Contemporary chamber music",
-      "status": "unsearched",
-      "source": null,
-      "finding": null
+      "status": "source-reviewed",
+      "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400017",
+      "finding": "Piano/cello production Reawakening bundled; this does not establish broad contemporary chamber repertoire coverage."
     },
     {
       "id": "Diaspora collaborations",
@@ -244,9 +244,11 @@
       "finding": null
     }
   ],
-  "sourceReviewedRecordings": 4,
+  "sourceReviewedRecordings": 34,
   "auditionedRecordings": 0,
   "acceptedRecordings": 0,
-  "releasedPairs": 0,
-  "note": "Searched means an initial search attempt, not completed research. Cultural labels are research leads, not verified attributes of individual recordings."
+  "releasedPairs": 100,
+  "note": "Searched means an initial search attempt, not completed research. Cultural labels are research leads, not verified attributes of individual recordings.",
+  "attemptedDirections": 29,
+  "limitations": "Search breadth is not musical representation. 26 of the 30 additions in this release are by Kevin MacLeod; independent artist and non-Western performer representation remain significant gaps. Cross-cultural visuals and modern borrowed instrumentation must not be presented as traditional music provenance."
 }

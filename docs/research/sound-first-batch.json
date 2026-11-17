@@ -1,23 +1,867 @@
 {
   "date": "2026-11-17",
-  "status": "technical-preview-not-human-auditioned",
-  "pairs": [
+  "status": "playable preview; human audition pending",
+  "pairs": 100,
+  "addedThisRelease": 94,
+  "newRecordingsThisRelease": 30,
+  "newRecordingsSinceBaseline": 31,
+  "uniqueRecordings": 33,
+  "uniqueImages": 99,
+  "defaultRotationChanged": false,
+  "programs": [
     "sound-first-caspian",
     "sound-first-sand",
     "sound-first-bamboo",
     "sound-first-shore",
     "sound-first-snow",
-    "sound-first-city"
+    "sound-first-city",
+    "sound-first-007",
+    "sound-first-008",
+    "sound-first-009",
+    "sound-first-010",
+    "sound-first-011",
+    "sound-first-012",
+    "sound-first-013",
+    "sound-first-014",
+    "sound-first-015",
+    "sound-first-016",
+    "sound-first-017",
+    "sound-first-018",
+    "sound-first-019",
+    "sound-first-020",
+    "sound-first-021",
+    "sound-first-022",
+    "sound-first-023",
+    "sound-first-024",
+    "sound-first-025",
+    "sound-first-026",
+    "sound-first-027",
+    "sound-first-028",
+    "sound-first-029",
+    "sound-first-030",
+    "sound-first-031",
+    "sound-first-032",
+    "sound-first-033",
+    "sound-first-034",
+    "sound-first-035",
+    "sound-first-036",
+    "sound-first-037",
+    "sound-first-038",
+    "sound-first-039",
+    "sound-first-040",
+    "sound-first-041",
+    "sound-first-042",
+    "sound-first-043",
+    "sound-first-044",
+    "sound-first-045",
+    "sound-first-046",
+    "sound-first-047",
+    "sound-first-048",
+    "sound-first-049",
+    "sound-first-050",
+    "sound-first-051",
+    "sound-first-052",
+    "sound-first-053",
+    "sound-first-054",
+    "sound-first-055",
+    "sound-first-056",
+    "sound-first-057",
+    "sound-first-058",
+    "sound-first-059",
+    "sound-first-060",
+    "sound-first-061",
+    "sound-first-062",
+    "sound-first-063",
+    "sound-first-064",
+    "sound-first-065",
+    "sound-first-066",
+    "sound-first-067",
+    "sound-first-068",
+    "sound-first-069",
+    "sound-first-070",
+    "sound-first-071",
+    "sound-first-072",
+    "sound-first-073",
+    "sound-first-074",
+    "sound-first-075",
+    "sound-first-076",
+    "sound-first-077",
+    "sound-first-078",
+    "sound-first-079",
+    "sound-first-080",
+    "sound-first-081",
+    "sound-first-082",
+    "sound-first-083",
+    "sound-first-084",
+    "sound-first-085",
+    "sound-first-086",
+    "sound-first-087",
+    "sound-first-088",
+    "sound-first-089",
+    "sound-first-090",
+    "sound-first-091",
+    "sound-first-092",
+    "sound-first-093",
+    "sound-first-094",
+    "sound-first-095",
+    "sound-first-096",
+    "sound-first-097",
+    "sound-first-098",
+    "sound-first-099",
+    "sound-first-100"
   ],
-  "newRecordings": [
-    "sergo-duduk"
-  ],
-  "existingRecordings": [
-    "liushui",
-    "vivaldi-largo"
-  ],
-  "defaultRotationChanged": false,
-  "review": "Source records reviewed. Full decode and browser playback required. Human listening and full-session suitability remain unverified.",
-  "originalIntegratedLUFS": -14.7,
-  "appliedGainDB": -5.3
+  "reviews": [
+    {
+      "program": "sound-first-007",
+      "edition": "cma-95123@sf-eastern-thought",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing greensleeves",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-008",
+      "edition": "revoy-sintel-environment-14@sf-eastern-thought",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing arabesque2",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-009",
+      "edition": "commons-171378954@sf-eastern-thought",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing gymnopedie3",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-010",
+      "edition": "revoy-spring-spring-house-and-waterfall-chime@sf-dreams-become-real",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing greensleeves",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-011",
+      "edition": "commons-86257138@sf-dreams-become-real",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing tide",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-012",
+      "edition": "cma-136296@sf-dreams-become-real",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing arabesque",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-013",
+      "edition": "commons-81896952@sf-ishikari-lore",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing reading",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-014",
+      "edition": "cma-154158@sf-ishikari-lore",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing liushui",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-015",
+      "edition": "commons-95727264@sf-ishikari-lore",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing rain",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-016",
+      "edition": "commons-41139772@sf-laid-back-guitars",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing rain",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-017",
+      "edition": "commons-88809297@sf-laid-back-guitars",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing rain",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-018",
+      "edition": "commons-84344084@sf-laid-back-guitars",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing alhambra",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-019",
+      "edition": "commons-169439444@sf-moonlight-beach",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing drift",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-020",
+      "edition": "nasa-iss047e069406@sf-moonlight-beach",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing delphes",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-021",
+      "edition": "commons-150134913@sf-moonlight-beach",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing arabesque2",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-022",
+      "edition": "commons-113759357@sf-night-in-venice",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing delphes",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-023",
+      "edition": "commons-175821569@sf-night-in-venice",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing gymnopedie3",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-024",
+      "edition": "cma-290127@sf-night-in-venice",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing drift",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-025",
+      "edition": "cma-98797@sf-evening-fall-harp",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing reading",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-026",
+      "edition": "commons-174123061@sf-evening-fall-harp",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing gnossienne2",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-027",
+      "edition": "cma-154140@sf-evening-fall-harp",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing liushui",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-028",
+      "edition": "commons-352545@sf-meditation-impromptu-01",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing kaushi",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-029",
+      "edition": "cma-160528@sf-meditation-impromptu-01",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing kaushi",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-030",
+      "edition": "commons-81572478@sf-meditation-impromptu-01",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing arabesque2",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-031",
+      "edition": "cma-106015@sf-moonstone",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing tide",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-032",
+      "edition": "commons-118114052@sf-moonstone",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing greensleeves",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-033",
+      "edition": "cma-123177@sf-moonstone",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing kaushi",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-034",
+      "edition": "nasa-iss043e155854@sf-numinous-shine",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing gnossienne2",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-035",
+      "edition": "revoy-sintel-environment-19@sf-numinous-shine",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing kaushi",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-036",
+      "edition": "commons-15782250@sf-numinous-shine",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing arabesque2",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-037",
+      "edition": "commons-88834759@sf-parting-of-the-ways-part-1",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing alhambra",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-038",
+      "edition": "cma-135964@sf-parting-of-the-ways-part-1",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing arabesque",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-039",
+      "edition": "commons-64767563@sf-parting-of-the-ways-part-1",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing greensleeves",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-040",
+      "edition": "commons-149538291@sf-sancho-panza-gets-a-latte",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing gymnopedie3",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-041",
+      "edition": "cma-102023@sf-sancho-panza-gets-a-latte",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing drift",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-042",
+      "edition": "commons-134297626@sf-sancho-panza-gets-a-latte",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing gnossienne2",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-043",
+      "edition": "cma-132926@sf-water-prelude",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing rain",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-044",
+      "edition": "commons-64790035@sf-water-prelude",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing drift",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-045",
+      "edition": "nasa-iss037e012278@sf-water-prelude",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing yangguan",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-046",
+      "edition": "commons-47174616@sf-with-the-sea",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing greensleeves",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-047",
+      "edition": "commons-120555779@sf-with-the-sea",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing kaushi",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-048",
+      "edition": "cma-79575@sf-with-the-sea",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing tide",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-049",
+      "edition": "commons-40237282@sf-walking-along",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing arabesque",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-050",
+      "edition": "commons-119197334@sf-walking-along",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing gymnopedie1",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-051",
+      "edition": "cma-155935@sf-walking-along",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing reading",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-052",
+      "edition": "cma-97658@sf-canon-in-d-for-two-renaissance-harps",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing arabesque2",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-053",
+      "edition": "commons-46529255@sf-canon-in-d-for-two-renaissance-harps",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing greensleeves",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-054",
+      "edition": "cma-108038@sf-canon-in-d-for-two-renaissance-harps",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing kaushi",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-055",
+      "edition": "nidhoggn-battleback-01@sf-canon-in-d-for-8-bit-synths",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing alhambra",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-056",
+      "edition": "nidhoggn-battleback-06@sf-canon-in-d-for-8-bit-synths",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing vivaldi-largo",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-057",
+      "edition": "cma-95046@sf-canon-in-d-for-8-bit-synths",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing liushui",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-058",
+      "edition": "revoy-sintel-environment-10@sf-mana-two-part-2",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing arabesque",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-059",
+      "edition": "commons-196568889@sf-mana-two-part-2",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing gnossienne2",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-060",
+      "edition": "commons-82265787@sf-mana-two-part-2",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing tide",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-061",
+      "edition": "commons-125190347@sf-ethereal-relaxation",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing gymnopedie1",
+      "risk": "Melodic/percussive attention and loop seam require human audition; long-form recording reduces loop frequency"
+    },
+    {
+      "program": "sound-first-062",
+      "edition": "commons-75324359@sf-ethereal-relaxation",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing vivaldi-largo",
+      "risk": "Melodic/percussive attention and loop seam require human audition; long-form recording reduces loop frequency"
+    },
+    {
+      "program": "sound-first-063",
+      "edition": "cma-155043@sf-ethereal-relaxation",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing liushui",
+      "risk": "Melodic/percussive attention and loop seam require human audition; long-form recording reduces loop frequency"
+    },
+    {
+      "program": "sound-first-064",
+      "edition": "nasa-iss040e011627@sf-light-awash",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing arabesque2",
+      "risk": "Melodic/percussive attention and loop seam require human audition; long-form recording reduces loop frequency"
+    },
+    {
+      "program": "sound-first-065",
+      "edition": "commons-75580710@sf-light-awash",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing greensleeves",
+      "risk": "Melodic/percussive attention and loop seam require human audition; long-form recording reduces loop frequency"
+    },
+    {
+      "program": "sound-first-066",
+      "edition": "revoy-spring-establishing-issue-cloudy-cold-landscape@sf-light-awash",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing rain",
+      "risk": "Melodic/percussive attention and loop seam require human audition; long-form recording reduces loop frequency"
+    },
+    {
+      "program": "sound-first-067",
+      "edition": "zonked-city-in-a-canyon@sf-dream-culture",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing drift",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-068",
+      "edition": "revoy-sintel-environment-06@sf-dream-culture",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing gymnopedie1",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-069",
+      "edition": "commons-145742381@sf-dream-culture",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing yangguan",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-070",
+      "edition": "commons-77660672@sf-dhaka",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing gymnopedie1",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-071",
+      "edition": "cma-170892@sf-dhaka",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing greensleeves",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-072",
+      "edition": "cma-108054@sf-dhaka",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing arabesque",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-073",
+      "edition": "nasa-iss036e026499@sf-perspectives",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing reading",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-074",
+      "edition": "commons-68193839@sf-perspectives",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing reading",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-075",
+      "edition": "cma-155050@sf-perspectives",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing greensleeves",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-076",
+      "edition": "commons-191126057@sf-reawakening",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing reading",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-077",
+      "edition": "revoy-spring-kickoff-speedpainting@sf-reawakening",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing delphes",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-078",
+      "edition": "cma-156870@sf-reawakening",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing greensleeves",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-079",
+      "edition": "commons-64790035@sf-fluidscape",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing drift",
+      "risk": "Melodic/percussive attention and loop seam require human audition; long-form recording reduces loop frequency"
+    },
+    {
+      "program": "sound-first-080",
+      "edition": "nasa-iss040e006214@sf-fluidscape",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing arabesque",
+      "risk": "Melodic/percussive attention and loop seam require human audition; long-form recording reduces loop frequency"
+    },
+    {
+      "program": "sound-first-081",
+      "edition": "cma-132931@sf-fluidscape",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing rain",
+      "risk": "Melodic/percussive attention and loop seam require human audition; long-form recording reduces loop frequency"
+    },
+    {
+      "program": "sound-first-082",
+      "edition": "commons-125216703@sf-silver-blue-light",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing gnossienne2",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-083",
+      "edition": "commons-40613194@sf-silver-blue-light",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing drift",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-084",
+      "edition": "commons-51043112@sf-silver-blue-light",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing tide",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-085",
+      "edition": "commons-71310013@sf-noi",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing delphes",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-086",
+      "edition": "cma-95149@sf-noi",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing arabesque2",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-087",
+      "edition": "commons-201645787@sf-noi",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing alhambra",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-088",
+      "edition": "cma-117338@sf-noi",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing reading",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-089",
+      "edition": "cma-154264@sf-gnossienne3",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing rain",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-090",
+      "edition": "commons-68146445@sf-gnossienne3",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing rain",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-091",
+      "edition": "cma-160880@sf-gnossienne3",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing delphes",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-092",
+      "edition": "commons-103940870@sf-gnossienne3",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing gymnopedie1",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-093",
+      "edition": "commons-135963807@sf-nocturne",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing vivaldi-largo",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-094",
+      "edition": "cma-109242@sf-nocturne",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing liushui",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-095",
+      "edition": "commons-174683909@sf-nocturne",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing liushui",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-096",
+      "edition": "cma-172782@sf-nocturne",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing kaushi",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-097",
+      "edition": "cma-118474@sf-hume",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing liushui",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-098",
+      "edition": "cma-156065@sf-hume",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing reading",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-099",
+      "edition": "commons-176677193@sf-hume",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing liushui",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    },
+    {
+      "program": "sound-first-100",
+      "edition": "cma-97189@sf-hume",
+      "visualReview": "Contact sheet inspected; image decoding checked separately",
+      "listeningReview": "Pending human audition; no listening claim",
+      "alternative": "Original catalogue pairing drift",
+      "risk": "Melodic/percussive attention and loop seam require human audition; recording repeats within a 25-minute session"
+    }
+  ]
 }

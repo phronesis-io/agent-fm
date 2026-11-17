@@ -802,3 +802,67 @@ The software licence does not replace any media licence. Preserve the author, so
 ## Sound-first listening preview
 
 `web/sergo-duduk.mp3`: SERGO.TEL, *duduk-improvisation2*, April (2010). [Recording and licence evidence](https://commons.wikimedia.org/wiki/File:SERGO.TEL_-_April_-_duduk-improvisation2.ogg), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/). Converted from Ogg to 192 kbps MP3; gain reduced by 5.3 dB. No trimming, compression or vocal removal. Existing images and reused recordings retain their per-file credits above.
+
+## Sound-first expansion — 30 additional recordings
+
+All recordings retain the licence identified below, including the transcoded versions. These media licences are separate from the software licence. Sources, duration, hashes and gain adjustments are also recorded in `docs/research/sound-first-recordings.json`. No creator endorsement is implied.
+
+- **Eastern Thought** — Kevin MacLeod. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); [recording source](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100682). File: `web/sf-eastern-thought.mp3`. MP3 conversion at 160 kbps; constant gain -1.93 dB, no compression, trimming or vocal removal.
+
+- **Ishikari Lore** — Kevin MacLeod. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); [recording source](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100192). File: `web/sf-ishikari-lore.mp3`. MP3 conversion at 160 kbps; constant gain -1.83 dB, no compression, trimming or vocal removal.
+
+- **Laid Back Guitars** — Kevin MacLeod. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); [recording source](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100181). File: `web/sf-laid-back-guitars.mp3`. MP3 conversion at 160 kbps; constant gain -6.11 dB, no compression, trimming or vocal removal.
+
+- **Moonlight Beach** — Kevin MacLeod. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); [recording source](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2000005). File: `web/sf-moonlight-beach.mp3`. MP3 conversion at 160 kbps; constant gain -4.94 dB, no compression, trimming or vocal removal.
+
+- **Night in Venice** — Kevin MacLeod. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); [recording source](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900056). File: `web/sf-night-in-venice.mp3`. MP3 conversion at 160 kbps; constant gain -8.41 dB, no compression, trimming or vocal removal.
+
+- **Evening Fall (Harp)** — Kevin MacLeod. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); [recording source](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100236). File: `web/sf-evening-fall-harp.mp3`. MP3 conversion at 160 kbps; constant gain -0.55 dB, no compression, trimming or vocal removal.
+
+- **Meditation Impromptu 01** — Kevin MacLeod. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); [recording source](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100163). File: `web/sf-meditation-impromptu-01.mp3`. MP3 conversion at 160 kbps; constant gain +0.00 dB, no compression, trimming or vocal removal.
+
+- **Moonstone** — Kevin MacLeod. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); [recording source](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100145). File: `web/sf-moonstone.mp3`. MP3 conversion at 160 kbps; constant gain +0.00 dB, no compression, trimming or vocal removal.
+
+- **Numinous Shine** — Kevin MacLeod. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); [recording source](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100129). File: `web/sf-numinous-shine.mp3`. MP3 conversion at 160 kbps; constant gain -4.53 dB, no compression, trimming or vocal removal.
+
+- **Parting of the Ways - Part 1** — Kevin MacLeod. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); [recording source](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100119). File: `web/sf-parting-of-the-ways-part-1.mp3`. MP3 conversion at 160 kbps; constant gain +0.00 dB, no compression, trimming or vocal removal.
+
+- **Sancho Panza gets a Latte** — Kevin MacLeod. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); [recording source](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100088). File: `web/sf-sancho-panza-gets-a-latte.mp3`. MP3 conversion at 160 kbps; constant gain -3.41 dB, no compression, trimming or vocal removal.
+
+- **Water Prelude** — Kevin MacLeod. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); [recording source](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100017). File: `web/sf-water-prelude.mp3`. MP3 conversion at 160 kbps; constant gain +0.00 dB, no compression, trimming or vocal removal.
+
+- **With the Sea** — Kevin MacLeod. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); [recording source](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100008). File: `web/sf-with-the-sea.mp3`. MP3 conversion at 160 kbps; constant gain -0.38 dB, no compression, trimming or vocal removal.
+
+- **Walking Along** — Kevin MacLeod. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); [recording source](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100020). File: `web/sf-walking-along.mp3`. MP3 conversion at 160 kbps; constant gain -0.69 dB, no compression, trimming or vocal removal.
+
+- **Canon in D for Two Renaissance Harps** — Kevin MacLeod. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); [recording source](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2000014). File: `web/sf-canon-in-d-for-two-renaissance-harps.mp3`. MP3 conversion at 160 kbps; constant gain -5.08 dB, no compression, trimming or vocal removal.
+
+- **Canon In D For 8 Bit Synths** — Kevin MacLeod. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); [recording source](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2000017). File: `web/sf-canon-in-d-for-8-bit-synths.mp3`. MP3 conversion at 160 kbps; constant gain -11.65 dB, no compression, trimming or vocal removal.
+
+- **Mana Two - Part 2** — Kevin MacLeod. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); [recording source](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900037). File: `web/sf-mana-two-part-2.mp3`. MP3 conversion at 160 kbps; constant gain -3.29 dB, no compression, trimming or vocal removal.
+
+- **Ethereal Relaxation** — Kevin MacLeod. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); [recording source](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2100031). File: `web/sf-ethereal-relaxation.mp3`. MP3 conversion at 160 kbps; constant gain -1.53 dB, no compression, trimming or vocal removal.
+
+- **Light Awash** — Kevin MacLeod. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); [recording source](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100175). File: `web/sf-light-awash.mp3`. MP3 conversion at 160 kbps; constant gain -2.88 dB, no compression, trimming or vocal removal.
+
+- **Dream Culture** — Kevin MacLeod. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); [recording source](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1300046). File: `web/sf-dream-culture.mp3`. MP3 conversion at 160 kbps; constant gain -2.72 dB, no compression, trimming or vocal removal.
+
+- **Dhaka** — Kevin MacLeod. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); [recording source](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400003). File: `web/sf-dhaka.mp3`. MP3 conversion at 160 kbps; constant gain -0.93 dB, no compression, trimming or vocal removal.
+
+- **Perspectives** — Kevin MacLeod. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); [recording source](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1300027). File: `web/sf-perspectives.mp3`. MP3 conversion at 160 kbps; constant gain -3.48 dB, no compression, trimming or vocal removal.
+
+- **Reawakening** — Kevin MacLeod. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); [recording source](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400017). File: `web/sf-reawakening.mp3`. MP3 conversion at 160 kbps; constant gain +0.00 dB, no compression, trimming or vocal removal.
+
+- **Fluidscape** — Kevin MacLeod. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); [recording source](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100393). File: `web/sf-fluidscape.mp3`. MP3 conversion at 160 kbps; constant gain -1.47 dB, no compression, trimming or vocal removal.
+
+- **Silver Blue Light** — Kevin MacLeod. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); [recording source](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100718). File: `web/sf-silver-blue-light.mp3`. MP3 conversion at 160 kbps; constant gain -1.89 dB, no compression, trimming or vocal removal.
+
+- **Dreams Become Real** — Kevin MacLeod. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); [recording source](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1500027). File: `web/sf-dreams-become-real.mp3`. MP3 conversion at 160 kbps; constant gain +0.00 dB, no compression, trimming or vocal removal.
+
+- **El Noi de la Mare** — Jujutacular · classical guitar. [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/); [recording source](https://commons.wikimedia.org/wiki/File:El_Noi_de_la_Mare_%28guitar%29.ogg). File: `web/sf-noi.mp3`. MP3 conversion at 160 kbps; constant gain -1.54 dB, no compression, trimming or vocal removal.
+
+- **Gnossienne No. 3** — Erik Satie · La Pianista, piano. [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/); [recording source](https://commons.wikimedia.org/wiki/File:Gnossienne_3_%28Satie%29.ogg). File: `web/sf-gnossienne3.mp3`. MP3 conversion at 160 kbps; constant gain +0.00 dB, no compression, trimming or vocal removal.
+
+- **Nocturne in E-flat major, Op. 9 No. 2** — Frédéric Chopin · Membeth, piano. [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [recording source](https://commons.wikimedia.org/wiki/File:Chopin.Nocturne.Es-Dur.opus.9.2.ogg). File: `web/sf-nocturne.mp3`. MP3 conversion at 160 kbps; constant gain -1.11 dB, no compression, trimming or vocal removal.
+
+- **Captaine Hume’s Pavan** — Tobias Hume · Phillip W. Serna, viola da gamba. [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/); [recording source](https://commons.wikimedia.org/wiki/File:Captaine_Hume%E2%80%99s_Pavan%2C_No.46%2C_the_First_Part_of_Ayres_%281605%29.ogg). File: `web/sf-hume.mp3`. MP3 conversion at 160 kbps; constant gain -0.05 dB, no compression, trimming or vocal removal.

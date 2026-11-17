@@ -41,4 +41,4 @@ Nationality, creative location, repertoire and scene are distinct. In particular
 
 ## Validation
 
-TypeScript and 67 unit tests passed. Full browser run: 33 passed, one obsolete first-group expectation failed; that expectation and the new 20-recording case were rerun successfully (34 distinct browser cases covered). Installed-release evidence is recorded after deployment.
+TypeScript and 67 unit tests passed. Full browser run: 33 passed, one obsolete first-group expectation failed; that expectation and the new 20-recording case were rerun successfully (34 distinct browser cases covered). Installed at 16:55 Singapore time on 2026-11-17, after the active Pomodoro and its companion response completed. Live verification passed: 20 new pairs, 40 installed media hashes matched, all 20 installed audio streams advanced, and the bound chat and session count were preserved. Agent remained online at http://127.0.0.1:64073/. The existing user tab was refreshed and the new collection was visibly present. No new timer was started. Local verification receipt: artifacts/performers/deployment.json.
